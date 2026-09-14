@@ -1,0 +1,26 @@
+@Enkel huvudräkning|Vad är
+17|Så många kronor blir nio kronor och åtta kronor tillsammans.
+25|Så många kronor återstår av trettio om fem används.
+12|Så många äpplen återstår när sju av nitton har delats ut.
+16|Så många stolar behövs sammanlagt vid ett bord med tio platser och ett med sex.
+9|Så många kakor återstår när elva av tjugo har ätits upp.
+32|Så många ben har åtta vanliga fyrbenta stolar tillsammans.
+36|Så många ägg ryms i sex fulla kartonger med sex i varje.
+42|Så många kronor kostar sex pennor om varje penna kostar sju kronor.
+48|Så många flaskor finns i åtta lådor med sex i varje.
+56|Så många dagar ryms i åtta hela veckor.
+75|Så många kronor är en fjärdedel av trehundra kronor.
+90|Så många kronor är trettio procent av trehundra kronor.
+120|Så många kronor är fyrtio procent av trehundra kronor.
+180|Så många kronor kostar en vara för tvåhundra kronor efter tio procents rabatt.
+240|Så många kronor kostar en vara för trehundra kronor efter tjugo procents rabatt.
+54|Så många kronor är femton procent av trehundrasextio kronor.
+70|Så många kronor är trettiofem procent av tvåhundra kronor.
+84|Så många minuter blir en och två femtedels timme.
+135|Så många kilometer färdas ett tåg på en och en halv timme i nittio kilometer i timmen.
+96|Så många kronor kostar tre varor för fyrtio kronor styck efter tjugo procents rabatt på hela köpet.
+225|Så många kronor blir tvåhundrafemtio efter att priset först höjs med tjugo procent och sedan sänks med tjugofem procent.
+160|Så många kronor kostade varan före en tjugofemprocentig rabatt om reapriset är etthundratjugo kronor.
+108|Detta tal får du genom att ta tre fjärdedelar av nittiosex och sedan öka resultatet med hälften.
+81|Så många kronor blir etthundra efter att priset först höjs med åtta procent och sedan sänks med tjugofem procent.
+144|Så många kronor kostar tre likadana varor tillsammans om varje vara kostar sextio kronor före tjugo procents rabatt.

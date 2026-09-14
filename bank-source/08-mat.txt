@@ -1,0 +1,269 @@
+@Svensk husmanskost|Vad är
+köttbullar|Dessa små runda färsbollar serveras ofta med potatis, gräddsås och lingon.
+pannkakor|Dessa tunna stekta rundlar görs av smet med mjöl, mjölk och ägg och serveras ofta med sylt.
+ärtsoppa|Denna gula baljväxtsoppa serveras traditionellt på torsdagar, ibland med fläsk och senap.
+pytt i panna|Tärnad potatis, lök och kött steks tillsammans i denna rätt, ofta med ägg och rödbetor till.
+Janssons frestelse|Denna gratäng innehåller strimlad potatis, lök, grädde och svensk ansjovis.
+kalops|Denna långkokta köttgryta kryddas typiskt med kryddpeppar och lagerblad och serveras med rödbetor.
+potatisbullar|Dessa platta stekta kakor av mosad potatis serveras ofta med lingon och fläsk.
+raggmunk|I denna stekta pannkaksliknande rätt blandas riven rå potatis i smeten.
+isterband|Dessa syrliga lättrökta korvar innehåller ofta korngryn och serveras gärna med dillstuvad potatis.
+stekt strömming|Denna Östersjöfisk paneras och tillagas i panna och kan serveras med potatismos.
+kroppkakor|Dessa kokta potatisbollar fylls ofta med fläsk och lök och förknippas med Småland och Öland.
+palt|Dessa norrländska kokta bollar görs ofta av rå potatis och mjöl med fläskfyllning.
+kåldolmar|I denna rätt sveps färsfyllning i blad från ett stort huvud av en grönsak och tillagas med sky.
+dillkött|Denna milda kokta kötträtt serveras i en ljus sås med sötsyrlig smak och mycket finbladig ört.
+sjömansbiff|I denna gryträtt varvas tunna skivor nötkött med potatis och lök och får ofta smak av öl.
+Wallenbergare|Dessa milda biffar av fin kalvfärs, grädde och äggulor serveras ofta med ärter och potatispuré.
+Biff à la Lindström~Biff a la Lindström|Denna färsbiff innehåller bland annat inlagda rödbetor och kapris.
+rotmos med fläsklägg|I denna klassiker möter ett mos av kålrot och potatis en kokt benig del av grisen.
+lutfisk|Denna torkade fisk blötläggs och behandlas så att den får geléartad konsistens, ofta till jul.
+gravad lax|Denna fiskrätt bereds med salt, socker och dill utan vanlig värmetillagning och skärs i tunna skivor.
+oxrullader|Tunna nötköttsskivor rullas kring fyllning och bräseras i sås i denna rätt.
+bruna bönor|Denna sötsyrliga baljväxträtt serveras traditionellt med stekt fläsk.
+svartsoppa|Denna mörka skånska förrätt vid gåsmiddag innehåller blod och kryddas bland annat med nejlika.
+ålagille|Denna skånska måltidstradition består av flera rätter med samma långsträckta fisk.
+äppelfläsk|I denna rätt steks skivor av grisens sida tillsammans med en syrlig frukt, särskilt i södra Sverige.
+
+@Mat från hela världen|Vad är
+pizza|Denna italienska rätt har en bakad degbotten som ofta täcks med tomatsås och ost.
+sushi|Denna japanska maträtt bygger på smaksatt ris tillsammans med exempelvis fisk eller grönsaker.
+tacos|Dessa mexikanska fyllda tortillor viks kring exempelvis kött, lök och koriander.
+hamburgare|Denna rätt har en stekt färsbiff mellan brödhalvor och ofta sallad, dressing och ost.
+lasagne|I denna italienska ugnsrätt varvas pastaplattor med sås och ofta köttfärs.
+paella|Denna spanska risrätt lagas i vid panna och förknippas med Valencia och saffran.
+risotto|I denna italienska rätt kokas ris gradvis med buljong till krämig konsistens.
+falafel|Dessa friterade bollar av baljväxter och kryddor är vanliga i mat från Mellanöstern.
+ramen|Denna japanska nudelsoppa serveras ofta med buljong, ägg och kött eller grönsaker.
+pad thai|Denna thailändska rätt består av stekta risnudlar med bland annat tamarind och jordnötter.
+gulasch|Denna ungerska rätt bygger ofta på kött, lök och paprika och kan vara soppa eller gryta.
+moussaka|Denna grekiska ugnsrätt varvar ofta aubergine och köttfärs under en ljus sås.
+ceviche|I denna latinamerikanska rätt får rå fisk eller skaldjur smak och ändrad konsistens av citrusjuice.
+ratatouille|Denna sydfranska grönsaksrätt innehåller ofta aubergine, zucchini, tomat och paprika.
+kimchi|Dessa koreanska fermenterade grönsaker görs ofta av salladskål med chili och vitlök.
+pho|Denna vietnamesiska soppa innehåller risnudlar, aromatisk buljong och ofta nötkött.
+bibimbap|I denna koreanska risrätt läggs grönsaker, ofta kött och ägg ovanpå ris och blandas vid bordet.
+tagine~tajine|Denna nordafrikanska långkokta rätt har samma namn som lerkärlet med koniskt lock.
+empanadas|Dessa fyllda degknyten bakas eller friteras och förekommer i många spanskspråkiga länder.
+borsjtj~borsch|Denna östeuropeiska soppa får ofta sin röda färg av rödbetor och serveras med syrad grädde.
+okonomiyaki|Denna japanska matiga pannkaka innehåller ofta kål och toppas med sås och majonnäs.
+rendang|Denna indonesiska kryddiga kötträtt kokas länge med kokosmjölk tills vätskan reducerats kraftigt.
+feijoada|Denna brasilianska gryta förenar svarta bönor med flera sorters kött.
+shakshuka|I denna nordafrikanska och mellanöstliga rätt tillagas ägg i kryddig tomatsås.
+khachapuri|Detta georgiska ostfyllda bröd finns i en båtformad variant med ägg i mitten.
+
+@Såser och röror|Vad är
+ketchup|Denna sötsyrliga röda tomatsås är vanlig till pommes frites och korv.
+majonnäs|Denna kalla emulsion görs vanligen av olja och äggula och smaksätts med syra.
+bearnaisesås~béarnaise|Denna smör- och äggulesås smaksätts med dragon och serveras ofta till biff.
+tzatziki|Denna grekiska röra förenar yoghurt, gurka och vitlök.
+guacamole|Denna mexikanska röra har mosad avokado som bas och smaksätts ofta med lime.
+pesto|Denna italienska röra görs klassiskt av basilika, pinjenötter, ost, vitlök och olivolja.
+aioli~aïoli|Denna medelhavssås har vitlök och olja som grund och görs ofta som en vitlöksmajonnäs.
+hollandaise|Denna varma smör- och äggulesås smaksätts med citron och serveras till bland annat sparris.
+hummus|Denna mellanöstliga röra görs av kikärter, sesampasta, citron och vitlök.
+sweet chilisås|Denna söta starka röda sås med chiliflingor är vanlig till asiatiska vårrullar.
+bechamelsås~béchamel|Denna vita grundsås görs av mjölk och en redning av fett och mjöl.
+remouladsås|Denna kalla sås innehåller ofta majonnäs, hackad inläggning och örter och serveras till panerad fisk.
+tapenade|Denna provensalska röra bygger på oliver och kapris och innehåller ofta sardeller.
+chutney|Denna indiskinspirerade kryddiga röra kan göras av frukt som mango och vara sötsyrlig.
+chimichurri|Denna argentinska örtsås till grillat innehåller ofta persilja, vitlök, vinäger och olja.
+romesco|Denna katalanska sås görs av bland annat rostad paprika eller torkad pepparfrukt, nötter och tomat.
+ponzu|Denna japanska sås kombinerar citrussyra med sälta och används ofta som dipsås.
+teriyakisås|Denna japanska sötsalta glasering brukar innehålla soja, socker och mirin eller sake.
+hoisinsås|Denna mörka söta kinesiska sås används bland annat till Pekinganka och bygger ofta på fermenterade sojabönor.
+sataysås~jordnötssås till satay|Denna nötiga sås serveras ofta till sydostasiatiska grillspett och görs med jordnötter.
+rouille|Denna sydfranska vitlöks- och chiliröra serveras traditionellt till bouillabaisse.
+salsa verde|Detta italienska såsnamn betyder grön sås och betecknar ofta en röra med persilja, kapris och sardeller.
+ajvar|Denna balkanska röra bygger på rostad paprika och kan även innehålla aubergine.
+harissa|Denna nordafrikanska starka kryddpasta görs av chili och bland annat vitlök och kryddor.
+muhammara|Denna röra från östra Medelhavsområdet innehåller rostad paprika, valnötter och ofta granatäppelsirap.
+
+@Bakning och desserter|Vad är
+en kanelbulle|Detta svenska vetebröd rullas med smör, socker och en brun aromatisk barkkrydda.
+en semla|Denna gräddfyllda vetebulle har lock och mandelmassa och förknippas med fettisdagen.
+en kladdkaka|Denna chokladkaka bakas så att mitten förblir mjuk och fuktig.
+en prinsesstårta|Denna svenska tårta täcks ofta av grön marsipan och en rosa marsipanros.
+en våffla|Denna smetbakade kaka får rutmönster i ett särskilt järn och serveras ofta med sylt.
+en cheesecake|Denna dessert har ett lager av färskostblandning på en botten av exempelvis kaksmulor.
+tiramisu|Denna italienska dessert varvar kaffedoppade kex med en kräm av bland annat mascarpone.
+pannacotta|Denna italienska dessert görs av sötad grädde som får stelna och serveras ofta med bär.
+crème brûlée~creme brulee|Denna lena vaniljdessert har ett tunt knäckigt lager av bränt socker på ytan.
+en maräng|Detta luftiga bakverk görs av vispad äggvita och socker.
+en croissant|Detta franska frukostbröd har många smöriga lager och ofta halvmåneform.
+en éclair~en eclair|Detta avlånga franska bakverk av chouxdeg fylls med kräm och glaseras ovanpå.
+en macaron|Detta lilla franska mandelbakverk består av två släta kakhalvor med fyllning emellan.
+baklava|Denna söta dessert varvar tunna degblad med nötter och dränks i sirap eller honungslag.
+churros|Dessa spanska friterade degstänger rullas ofta i socker och doppas i choklad.
+pavlova|Denna dessert har marängbotten, grädde och frukt och bär en ballerinas efternamn.
+en tarte tatin|Denna franska äppelpaj bakas upp och ner så att frukten karamelliseras under degen.
+en sachertårta|Denna wienska chokladtårta innehåller aprikossylt och täcks av chokladglasyr.
+en mille-feuille~en mille feuille|Detta franska bakverk har lager av smördeg och kräm och ett namn som betyder tusen blad.
+en cannoli|Detta sicilianska bakverk är ett friterat degrör fyllt med söt ricottakräm.
+en clafoutis|Denna franska ugnsdessert bakar traditionellt körsbär i en pannkaksliknande smet.
+en semifreddo|Denna italienska dessert serveras halvfryst och är ofta luftigare än vanlig glass.
+en affogato|I denna enkla italienska dessert hälls het espresso över en kula glass.
+en galette des rois|Denna franska trettondagstårta av smördeg gömmer en liten figur och fylls ofta med mandelkräm.
+en kouign-amann|Detta bretonska bakverk har många lager av deg, smör och socker som karamelliseras.
+
+@Frukt och grönsaker|Vad är|Denna växtdel {1}.
+en banan|är en lång böjd tropisk frukt med gult skal som dras av i remsor
+ett äpple|är en kärnfrukt som växer i svenska trädgårdar och används till must och mos
+en morot|är en rotfrukt som oftast är orange och växer med en finflikig blast
+en gurka|är en lång grön vattenrik frukt som ofta skivas på smörgåsen
+en potatis|är en stärkelserik knöl som kan kokas, mosas eller bli pommes frites
+en mango|är en tropisk stenfrukt med gulorange fruktkött kring en platt kärna
+en ananas|är en tropisk sammansatt frukt med grovt skal och en krona av spetsiga blad
+en avokado|är en fettrik grön frukt med stor kärna och huvudingrediens i guacamole
+broccoli|är en grön kålsort där de täta blomknopparna och stjälkarna äts
+blomkål|är en kålsort vars täta vanligen vita blomhuvud äts innan blommorna utvecklas
+en aubergine|är ofta mörklila och avlång och används i moussaka och baba ganoush
+en zucchini~en squashgrönsak|är en mild avlång sommarsquash med grönt eller gult skal
+en purjolök|har långa gröna blad och en vit nederdel som används i soppor och pajer
+en rödbeta|är en mörkröd rotfrukt vars saft färgar starkt och som används i borsjtj
+en sparris|är ett ätligt skott som säljs grönt eller vitt beroende på odlingssätt
+en kronärtskocka|är en stor blomknopp där bladens bas och bottnen kan ätas
+en jordärtskocka|är en knölig rotknöl från en solrossläkting och används gärna i soppa
+en palsternacka|är en ljus rotfrukt som liknar morot och har söt kryddig smak
+en rotselleri|är en knölig rotgrönsak med aromatisk smak som används i buljong och puré
+en fänkål|har en ljus uppsvälld bladbas och en tydlig anisliknande smak
+en passionsfrukt|har skrynkligt skal när den mognar och många frön i syrlig gelé
+ett granatäpple|har ett segt skal som omsluter många röda saftiga fröhöljen
+en litchi|har strävt rödaktigt skal och vitt saftigt fruktkött kring en mörk kärna
+en kaki~en persimon|är en orange frukt som liknar en tomat och kan vara kärv innan den mognat
+en kålrabbi|är en kålsort med rund uppsvälld stjälk ovan jord och blad på långa skaft
+
+@Kryddor och örter|Vad är
+kanel|Denna brunaktiga barkkrydda används i svenska vetebullar och kan köpas som stänger.
+svartpeppar|Denna mörka krydda mals ofta vid bordet från torkade omogna frukter av en klätterväxt.
+paprikapulver|Denna röda krydda mals av torkade milda pepparfrukter och används mycket i ungersk mat.
+vanilj|Denna arom kommer från frökapslar av en orkidé och används ofta i glass och desserter.
+oregano|Denna ört förknippas med italiensk pizza och har små aromatiska blad.
+basilika|Denna gröna ört är central i klassisk pesto och passar med tomat och mozzarella.
+dill|Denna finbladiga ört används till kräftor, potatis och gravad lax.
+persilja|Denna gröna ört finns med krusiga eller släta blad och används ofta som garnering.
+timjan|Denna småbladiga ört smaksätter bland annat ärtsoppa och långkok.
+rosmarin|Denna vedartade ört har smala barrlika blad och används till exempelvis lamm.
+koriander|Både frön och färska blad från denna ört används; bladen upplevs av vissa som tvåliga.
+spiskummin|Denna krydda används mycket i taco- och curryblandningar och har små avlånga frön.
+gurkmeja|Denna rotkrydda ger stark gul färg åt många curryblandningar.
+kardemumma|Fröna i denna kapselkrydda används i bullar och i kaffe i delar av Mellanöstern.
+saffran|Dessa röda pistillmärken från en krokus färgar lussekatter gula.
+kryddnejlika|Denna kraftiga krydda består av torkade blomknoppar och sticks ibland i apelsiner till jul.
+muskotnöt|Denna hårda kärna rivs i små mängder till bland annat bechamelsås.
+stjärnanis|Denna stjärnformade krydda har lakritslik smak och används i asiatisk matlagning.
+dragon|Denna ört med lätt anislik smak är en viktig smaksättare i bearnaisesås.
+salvia|Denna ört har mjuka grågröna blad och används exempelvis i italiensk saltimbocca.
+sumak|Denna mörkröda krydda från torkade bär ger syrlig smak i mat från Mellanöstern.
+bockhornsklöver|Denna kryddväxt har frön som används i curry och en arom som kan påminna om lönnsirap.
+enbär|Dessa blåsvarta bärlika barrträdskottar smaksätter vilt och ger gin dess grundkaraktär.
+svartkummin~nigella|Dessa små svarta frön används på bröd och har en pepprigt lökaktig smak.
+tonkaböna|Detta aromatiska frö rivs sparsamt i desserter och doftar bland annat vanilj och mandel.
+
+@Drycker|Vad är
+kaffe|Denna mörka uppiggande dryck bryggs av rostade och malda bönor.
+te|Denna dryck dras av blad från Camellia sinensis och finns bland annat i svarta och gröna varianter.
+varm choklad|Denna söta varma dryck görs ofta av mjölk, kakao och socker.
+apelsinjuice|Denna citrusdryck pressas ur en orange frukt och är vanlig till frukost.
+lemonad|Denna sötsyrliga dryck görs traditionellt med citronjuice, vatten och socker.
+espresso|Denna lilla koncentrerade kaffedryck bryggs med hett vatten under tryck.
+cappuccino|Denna kaffedryck kombinerar espresso med varm mjölk och tydligt mjölkskum.
+caffè latte~caffe latte|Denna kaffedryck har espresso och mycket varm mjölk samt ett tunnare skumlager.
+smoothie|Denna tjocka dryck mixas av frukt eller bär och ofta yoghurt eller annan vätska.
+chai masala~masala chai|Denna indiska kryddiga dryck blandar vanligen svart te, mjölk och kryddor som kardemumma.
+matcha|Detta japanska gröna te är ett fint pulver som vispas ut i vatten.
+yerba mate~maté|Denna sydamerikanska bladinfusion dricks ofta genom ett metallrör ur en kalebass.
+kombucha|Denna lätt syrliga dryck görs genom fermentering av sötat te med en kultur av jäst och bakterier.
+kefir|Denna syrade mjölkdryck framställs med särskilda gryn som innehåller bakterier och jäst.
+lassi|Denna indiska yoghurtdryck kan vara salt eller söt och smaksättas med mango.
+champagne|Detta mousserande vin kommer från ett bestämt franskt distrikt och får bubblor genom en andra jäsning.
+portvin|Detta portugisiska starkvin får jäsa delvis innan sprit tillsätts och förknippas med Dourodalen.
+sherry|Detta spanska starkvin från området kring Jerez finns bland annat som fino och oloroso.
+whisky~whiskey|Denna spannmålsbaserade spritdryck lagras vanligen på ekfat och förknippas med Skottland och Irland.
+rom som dryck~romsprit|Denna spritdryck görs av sockerrörsprodukter och förknippas starkt med Karibien.
+mezcal|Denna mexikanska agavesprit har ofta rökig smak från ugnstillagningen av växtens hjärta.
+grappa|Denna italienska sprit destilleras av pressrester från vinframställning.
+calvados|Denna franska äppelbaserade sprit kommer från Normandie och lagras på fat.
+pastis|Denna franska anissprit blir mjölkigt grumlig när den späds med vatten.
+kvass|Denna traditionella östeuropeiska jästa dryck görs ofta av rågbröd och har låg alkoholhalt.
+
+@Ost och mejeriprodukter|Vad är
+mjölk|Denna vita dryck från däggdjur används som råvara till ost, smör och yoghurt.
+smör|Detta fasta matfett framställs genom att kärna grädde så att fettet samlas.
+grädde|Denna fettrika del av mjölken kan vispas fluffig till tårtor.
+yoghurt|Denna syrade mjölkprodukt görs med särskilda bakteriekulturer och säljs ofta med fruktsmak.
+glass|Denna frysta dessert görs ofta av mjölk eller grädde och finns i strut och bägare.
+mozzarella|Denna mjuka italienska ost serveras ofta med tomat och basilika och kan göras av buffelmjölk.
+fetaost~feta|Denna vita grekiska saltlakeost görs främst av fårmjölk och är vanlig i sallad.
+parmesan~Parmigiano Reggiano|Denna hårda italienska lagrade ost rivs över pasta och lagras i stora hjul.
+brie|Denna franska mjuka ost har vitmögelyta och tillverkas ofta som en platt rund skiva.
+halloumi|Denna cypriotiska ost kan stekas eller grillas utan att smälta ut på samma sätt som många andra ostar.
+cheddar|Denna brittiska ost har namn efter en by i Somerset och kan vara gul eller orange.
+gouda|Denna nederländska ost har namn efter en stad och säljs ofta i vaxade hjul.
+emmentaler|Denna schweiziska ost är känd för sina stora runda hål.
+gorgonzola|Denna italienska blåmögelost finns i mildare och kraftigare varianter.
+Västerbottensost|Denna svenska hårdost tillverkas i Burträsk och används ofta i en namngiven paj.
+ricotta|Denna milda italienska produkt görs traditionellt genom att värma vassle och används i fyllningar.
+mascarpone|Denna feta lena italienska färskost är en viktig ingrediens i tiramisu.
+crème fraîche~creme fraiche|Denna syrade grädde är tjock och används i både kalla och varma såser.
+kvarg|Denna milda färskost är proteinrik och används till mellanmål och bakning.
+keso~cottage cheese|Denna färskost har tydliga små korn i en mjölkig vätska.
+pecorino|Denna italienska hårdost görs av fårmjölk och finns i en salt romersk variant.
+manchego|Denna spanska fårost kommer från La Mancha och har ofta ett mönstrat skal.
+comté~comte|Denna franska hårdost från Jurabergen görs av opastöriserad komjölk i stora hjul.
+stilton|Denna engelska blåmögelost förknippas med en cylindrisk form och serveras ofta med portvin.
+brunost~mesost|Denna nordiska bruna vassleprodukt får söt karamellaktig smak när mjölksockret värms länge.
+
+@I köket|Vad är
+att koka|Denna tillagningsmetod värmer mat i vätska som bubblar vid sin kokpunkt.
+att steka|Denna metod tillagar mat mot en het yta, ofta med fett i en panna.
+att grilla|Denna metod tillagar mat med stark strålningsvärme, ofta över glöd.
+att vispa|Med denna rörelse blandas ingredienser snabbt och luft kan arbetas in i grädde eller ägg.
+att skala|Vid detta moment tas det yttre lagret bort från exempelvis potatis eller en apelsin.
+att sautera|Vid denna metod tillagas mindre bitar snabbt i lite fett under rörelse i en het panna.
+att sjuda|Denna milda tillagning sker i vätska strax under kraftig kokning.
+att pochera|Denna varsamma metod tillagar exempelvis ägg utan skal i vätska som inte stormkokar.
+att blanchera|Grönsaker doppas här kort i kokande vatten och kyls ofta snabbt efteråt.
+att marinera|Råvaran får här ligga i en kryddad vätska före tillagningen.
+att bräsera|Maten bryns ofta först och tillagas sedan långsamt under lock med lite vätska.
+att reducera|En vätska kokas här ner så att smaken koncentreras och mängden minskar.
+att reda|Vid detta moment görs en sås eller soppa tjockare med exempelvis mjöl eller stärkelse.
+att gratinera|Maträtten får här en färgad yta i ugn, ofta med ost eller smulor ovanpå.
+att karamellisera|Socker hettas här upp så att färg och smak förändras till brunt och rostat.
+att deglacera|Efter stekning löses pannans smakrika beläggning upp med vätska till grund för en sås.
+att confitera|Vid denna metod tillagas råvaran långsamt i fett vid relativt låg temperatur.
+att temperera choklad|Genom kontrollerad uppvärmning och kylning får kakaofettet kristallstruktur som ger blank yta och fint knäck.
+att filea|Vid detta moment skärs rena benfria delar ut ur exempelvis fisk.
+att tranchera|Detta köksord betyder att skära upp tillagat kött eller fågel i lämpliga portionsdelar.
+en julienne|Grönsaker skurna i fina jämna tändsticksliknande strimlor har denna benämning.
+en brunoise|Grönsaker skurna i mycket små jämna tärningar har denna franska benämning.
+en roux|Denna uppvärmda blandning av fett och mjöl är grund till många redda såser.
+en mirepoix|Denna blandning av hackad lök, morot och selleri används som smakbas i fransk matlagning.
+mise en place|Detta franska köksuttryck betyder att råvaror och redskap är förberedda och på rätt plats före tillagningen.
+
+@Godis och snacks|Vad är
+popcorn|Dessa luftiga snacks uppstår när majskärnor hettas upp och spricker.
+potatischips|Dessa tunna skivor av en rotknöl friteras eller bakas krispiga och saltas.
+lakrits|Denna ofta svarta godsak får sin karakteristiska smak från roten av en ärtväxt.
+skumtomtar|Detta rosavita julgodis föreställer små skäggiga julfigurer och har mjuk skumkonsistens.
+geléhallon|Dessa röda sockrade gelébitar formas som ett välkänt skogsbär.
+en chokladtryffel|Denna lilla konfekt görs ofta av choklad och grädde och kan rullas i kakao.
+nougat|Denna sötsak kan vara mjuk nöt- och chokladmassa eller en seg vit variant med nötter.
+marsipan|Denna formbara söta massa består främst av mandel och socker och används till figurer och tårttäcken.
+fudge|Denna mjuka sockerkonfekt kokas ofta av socker, smör och mjölk eller grädde.
+kola|Denna sega konfekt kokas av bland annat socker, sirap och grädde.
+polkagris|Denna klassiska karamell från Gränna är vit med röda ränder och smakar pepparmynta.
+knäck|Denna julkonfekt kokas ofta av grädde, sirap och socker och hälls i små pappersformar.
+brända mandlar|Dessa nötter får ett knastrigt lager av kristalliserat socker och säljs ofta på julmarknader.
+rostade kikärter|Dessa knapriga snacks görs av samma baljväxt som används till hummus, men tillagas torra med kryddor.
+nachos|Dessa triangelformade majschips serveras ofta med ost och olika dippsåser.
+Turkish delight~lokum|Denna mjuka turkiska konfekt görs av socker och stärkelse och smaksätts ofta med rosenvatten.
+halva|Denna sötsak från flera matkulturer kan göras av sesampasta och har en smulig tät konsistens.
+pralin|Denna lilla finare chokladbit har ofta en fyllning av exempelvis nötkräm eller ganache.
+pastill|Denna lilla hårda eller pressade godisbit får långsamt lösas upp i munnen, ofta med mintsmak.
+salmiak|Detta ammoniumsalt ger den skarpa salta smaken i vissa lakritsgodisar.
+mochi|Denna japanska sega rismassa formas till små sötsaker och kan omsluta glass.
+turrón~turron|Denna spanska julkonfekt bygger ofta på mandel, honung och äggvita och kan vara hård eller mjuk.
+panforte|Denna kompakta italienska sötsak från Siena innehåller nötter, torkad frukt och kryddor.
+sesamkakor|Dessa tunna knapriga godisbitar binder små oljerika frön med kokt socker eller honung.
+wasabinötter|Dessa snacks har ett grönt krispigt hölje med en skarp smak som förknippas med japansk pepparrot.

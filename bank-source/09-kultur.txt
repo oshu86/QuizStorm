@@ -1,0 +1,269 @@
+@Böcker och författare|Vem är|Denna författare {1}.
+Astrid Lindgren|skapade Pippi Långstrump, Emil i Lönneberga och Ronja Rövardotter
+J.K. Rowling~Joanne Rowling|skapade bokserien om trollkarlen Harry Potter och skolan Hogwarts
+Stephen King|skrev skräckromaner som Det och Varsel och förknippas med delstaten Maine
+Selma Lagerlöf|skrev Gösta Berlings saga och blev första kvinna att få Nobelpriset i litteratur
+Agatha Christie|skapade detektiverna Hercule Poirot och Miss Marple
+August Strindberg|skrev Röda rummet och dramat Fröken Julie
+Jane Austen|skrev Stolthet och fördom samt Förnuft och känsla om kärlek och samhälle
+J.R.R. Tolkien~John Ronald Reuel Tolkien|skapade Midgård och böckerna om hobbitar och härskarringen
+Ernest Hemingway|skrev Den gamle och havet och är känd för sin återhållsamma prosastil
+George Orwell~Eric Arthur Blair|skrev Djurfarmen och en dystopi om Storebror i staten Oceanien
+Karin Boye|skrev dikten Ja visst gör det ont och framtidsromanen Kallocain
+Vilhelm Moberg|skrev romansviten om Karl Oskar och Kristinas utvandring från Småland
+Tove Jansson|skapade Mumintrollen och skrev också vuxenboken Sommarboken
+Haruki Murakami|är japansk romanförfattare bakom Norwegian Wood och Kafka på stranden
+Gabriel García Márquez~Gabriel Garcia Marquez|skrev Hundra år av ensamhet om familjen Buendía i Macondo
+Virginia Woolf|skrev Mrs Dalloway och essän Ett eget rum
+Franz Kafka|skrev Förvandlingen där Gregor Samsa vaknar som ett stort kryp
+Fjodor Dostojevskij|skrev Brott och straff och Bröderna Karamazov
+Toni Morrison|skrev Älskade och fick Nobelpriset i litteratur 1993
+Chimamanda Ngozi Adichie|skrev En halv gul sol och Americanah och växte upp i Nigeria
+Naguib Mahfouz|skrev Kairotrilogin och blev första arabiskspråkiga Nobelpristagaren i litteratur
+Olga Tokarczuk|är polsk Nobelpristagare bakom Löparna och Jakobsböckerna
+Kazuo Ishiguro|skrev Återstoden av dagen och Never Let Me Go och är brittisk med japanska rötter
+Annie Ernaux|är fransk Nobelpristagare som använder sitt eget liv i verk som Åren
+Jon Fosse|är norsk dramatiker och romanförfattare bakom Septologin och fick Nobelpriset 2023
+
+@Barnböcker och sagor|Vem är
+Pippi Långstrump|Denna starka flicka bor i Villa Villekulla med en apa och en häst.
+Emil i Lönneberga|Denna småländska pojke i Katthult täljer trägubbar när han sitter i snickarboden.
+Alfons Åberg|Denna pojke bor med sin pappa och har den låtsade vännen Mållgan.
+Nalle Puh~Winnie the Pooh|Denna honungsälskande björn bor i Sjumilaskogen och umgås med Nasse och Ior.
+Rödluvan|Denna sagoflicka besöker sin mormor men möter en varg som klär ut sig.
+Ronja Rövardotter|Denna flicka växer upp i Mattisborgen och blir vän med Birk från en rivaliserande släkt.
+Karlsson på taket|Denna självsäkra figur har propeller på ryggen och besöker Lillebror.
+Mio|Denna pojke, tidigare kallad Bosse, kommer till Landet i fjärran och måste möta riddar Kato.
+Mumin~Mumintrollet|Denna vita runda trollfigur bor i ett blått tornhus och är vän med Snusmumriken.
+Bamse|Denna snälla seriebjörn blir världens starkaste av sin farmors dunderhonung.
+Peter Pan|Denna pojke vill inte bli vuxen och tar Wendy till Landet Ingenstans.
+Alice i Underlandet~Alice|Denna flicka följer en vit kanin och möter bland andra Hattmakaren i en märklig värld.
+Pinocchio|Denna trädockas näsa växer när han ljuger och hans skapare heter Geppetto.
+Askungen|Denna sagoflicka tappar en glassko efter balen och har fått hjälp av en god fe.
+Snövit|Denna sagoprinsessa flyr en avundsjuk drottning och bor hos sju dvärgar.
+Matilda|Denna mycket läsintresserade flicka i Roald Dahls bok kan flytta föremål med tanken.
+Mary Poppins|Denna magiska barnflicka kommer med paraply och en ovanlig väska till familjen Banks.
+Paddington|Denna björn från Peru anländer till London och är förtjust i marmeladsmörgåsar.
+Mästerkatten i stövlar|Denna listiga sagokatt hjälper sin fattige ägare genom kloka trick och fina skodon.
+Den lilla sjöjungfrun|Denna havslevande sagoflicka offrar sin röst för att få ben i H.C. Andersens berättelse.
+Skorpan~Karl Lejon|Denna lillebror följer sin bror Jonatan till Nangijala och kampen mot Tengil.
+Momo|Denna flicka bekämpar grå herrar som stjäl människors tid i Michael Endes bok.
+Bastian Balthasar Bux~Bastian|Denna pojke dras in i en bok om Fantásien i Den oändliga historien.
+Lyra Belacqua~Lyra Silvertunga|Denna flicka har daimonen Pantalaimon och använder en alethiometer i Philip Pullmans trilogi.
+Meg Murry|Denna flicka söker sin försvunne far genom rymd och tid i Madeleine L'Engles Ett veck i tiden.
+
+@Nordisk mytologi|Vad är
+Tor~Thor|Son till Oden försvarar han gudar och människor med hammaren Mjölner.
+Oden~Odin|Denna enögde gud har korparna Hugin och Munin som spanare.
+Loke~Loki|Denna listiga gestalt orsakar ofta problem för gudarna och är far till Fenrisulven.
+Freja~Freyja|Denna gudinna förknippas med kärlek, smycket Brisingamen och en vagn dragen av katter.
+Valhall~Valhalla|I denna sal samlas fallna krigare för att festa och förbereda sig för den sista striden.
+Mjölner~Mjölnir|Detta vapen är åskgudens hammare och återvänder till hans hand när den kastats.
+Yggdrasil|Detta väldiga världsträd binder samman gudars, människors och andra varelsers världar.
+Asgård~Asgard|Så kallas den värld där asagudarna har sina boningar.
+Midgård~Midgard|Så kallas människornas värld i den nordiska kosmologin.
+Ragnarök~Ragnarok|Vid denna sista stora uppgörelse faller många gudar och världen går mot undergång och förnyelse.
+Bifrost|Denna regnbågsliknande bro förbinder gudarnas boning med människornas värld.
+Fenrisulven~Fenrir|Denna jättelika varg binds av gudarna och slukar Oden i den sista striden.
+Midgårdsormen~Jörmungand|Denna väldiga orm omsluter människornas värld och är Tors ärkefiende.
+Balder|Denna ljusa älskade gud dödas genom en list med mistel.
+Heimdall|Denna gud vaktar regnbågsbron och blåser i Gjallarhornet inför den sista striden.
+Tyr|Denna gud förlorar handen när gudarna binder den väldiga vargen.
+Hel|Denna dotter till Loke härskar över ett dödsrike och beskrivs som delvis mörk, delvis köttfärgad.
+Sleipner~Sleipnir|Denna åttabenta häst bär Oden och kan färdas mellan världarna.
+Hugin och Munin|Dessa två korpar flyger över världen och berättar vad de sett för den enögde guden.
+Frigg|Denna gudinna är Odens hustru och försöker skydda sonen Balder från allt som kan skada honom.
+Idun~Iðunn|Denna gudinna förvarar äpplen som håller gudarna unga.
+Skade~Skaði|Denna jättedotter förknippas med skidåkning, jakt och berg och gifter sig med Njord.
+Siv~Sif|Denna gudinna är Tors hustru och får gyllene hår efter att det ursprungliga klippts av.
+Frej~Freyr|Denna fruktbarhetsgud är Njords son och äger galten Gyllenborste samt skeppet Skidbladner.
+Njord~Njörðr|Denna vanagud förknippas med hav och sjöfart och är far till Frej och Freja.
+
+@Grekisk och romersk mytologi|Vem är
+Zeus|Denna grekiska övergud härskar från Olympen och bär blixten som vapen.
+Poseidon|Denna grekiska havsgud bär treudd och kan skaka jorden.
+Afrodite|Denna grekiska kärleksgudinna förknippas med skönhet och födelsen ur havet.
+Hades|Denna grekiska gud härskar över de dödas underjordiska rike.
+Herakles~Herkules~Hercules|Denna starka hjälte utför tolv storverk, bland annat kampen mot det nemeiska lejonet.
+Athena|Denna grekiska vishetsgudinna har ugglan som symbol och skyddar Aten.
+Apollo~Apollon|Denna grekiska gud förknippas med musik och oraklet i Delfi och är Artemis tvillingbror.
+Artemis|Denna grekiska jaktgudinna bär båge och är Apollons tvillingsyster.
+Hermes|Denna grekiska gud är gudarnas budbärare och avbildas ofta med bevingade sandaler.
+Ares|Denna grekiska krigsgud är son till Zeus och Hera.
+Hera|Denna grekiska gudinna är Zeus hustru och förknippas med äktenskap och påfåglar.
+Dionysos|Denna grekiska gud förknippas med vin, extas och teater.
+Demeter|Denna grekiska jordbruksgudinna sörjer när dottern Persefone vistas i underjorden.
+Hefaistos~Hefaistos|Denna grekiska smidesgud tillverkar gudarnas vapen och arbetar vid ässjan.
+Eros|Denna grekiska kärleksgud avbildas ofta bevingad med båge och pilar.
+Persefone|Denna dotter till Demeter tillbringar en del av året i underjorden med Hades.
+Orfeus|Denna sagomusiker försöker hämta Eurydike från dödsriket men vänder sig om för tidigt.
+Ikaros|Denna pojke flyger för nära solen så att vaxet i hans konstgjorda vingar smälter.
+Daidalos~Daidalos~Daedalus|Denna skickliga uppfinnare bygger labyrinten på Kreta och vingar åt sig och sin son.
+Medusa|Denna gorgon har ormar till hår och hennes blick förvandlar människor till sten.
+Prometheus|Denna titan ger elden till människorna och straffas genom att en örn äter av hans lever.
+Sisyfos|Denna gestalt tvingas för evigt rulla en sten uppför ett berg där den rullar ner igen.
+Tantalos|Denna gestalt straffas med törst och hunger trots att vatten och frukt ständigt finns nära.
+Janus|Denna romerska gud har två ansikten och förknippas med dörrar, övergångar och årets början.
+Vesta|Denna romerska gudinna förknippas med härdens eld och prästinnor som vaktar en helig låga.
+
+@Religioner och traditioner|Vad är
+kristendom|Denna religion har Jesus som central gestalt och Bibeln som helig skrift.
+islam|Denna religion har Koranen som helig skrift och Muhammed som profet.
+judendom|Denna religion har Toran som central skrift och synagogan som samlingsplats.
+hinduism|Denna mångskiftande indiska religion rymmer bland annat Vishnu, Shiva och läran om återfödelse.
+buddhism|Denna religion bygger på läran från Siddhartha Gautama och vägen bort från lidande.
+en moské|I denna muslimska bönelokal riktas bönen mot Mecka.
+en synagoga|Denna judiska samlingslokal används för bön, studier och gemenskap.
+en kyrka|Denna kristna byggnad används för gudstjänst och har ofta altare och kors.
+en imam|Denna muslimska böneledare leder gemensam bön och kan ha undervisande uppgifter.
+en rabbin|Denna judiska religiösa lärare tolkar tradition och lag och kan leda en församling.
+ramadan|Under denna månad fastar många muslimer från gryning till solnedgång.
+sabbat|Denna judiska vilodag börjar på fredagskvällen och slutar på lördagskvällen.
+karma|Detta begrepp knyter handlingar till följder i bland annat hinduisk och buddhistisk tradition.
+samsara|Detta begrepp inom indiska religioner betecknar kretsloppet av födelse, död och återfödelse.
+ett dop|I denna kristna rit används vatten som tecken på rening och upptagande i den religiösa gemenskapen.
+sikhism|Denna religion grundades i Punjab och förknippas med Guru Nanak och det gyllene templet.
+shinto|Denna japanska tradition förknippas med kami och helgedomar med toriiportar.
+taoism~daoism|Denna kinesiska tradition betonar vägen och att leva i samklang med tillvarons naturliga ordning.
+konfucianism|Denna kinesiska tanketradition betonar goda relationer, ritualer och etiskt ansvar i samhället.
+bahá'í~bahai|Denna religion med ursprung i 1800-talets Persien betonar mänsklighetens och religionernas enhet.
+en minaret|Från detta torn vid en muslimsk bönelokal har böneutrop traditionellt gjorts.
+en menorah~en menora|Denna sjuarmade ljusstake är en gammal judisk symbol.
+en mandala|Denna ofta cirkelformade symboliska bild används som meditationsstöd i bland annat tibetansk buddhism.
+en koan|Denna korta paradoxala berättelse eller fråga används i zen för att utmana vanemässigt tänkande.
+ett radband|Detta band av kulor hjälper den bedjande att hålla räkning på böner eller upprepningar.
+
+@Konst och konstnärer|Vem är|Denna konstnär {1}.
+Leonardo da Vinci|målade Mona Lisa och arbetade också med anatomi, teknik och uppfinningar
+Vincent van Gogh|målade Stjärnenatt och flera kända solrosbilder
+Pablo Picasso|målade Guernica och var en av kubismens grundare
+Salvador Dalí~Salvador Dali|målade smältande klockor och var känd för sin spetsiga mustasch
+Frida Kahlo|målade många självporträtt och levde med Diego Rivera i Mexiko
+Claude Monet|målade näckrosor och sin trädgård i Giverny i impressionistisk stil
+Edvard Munch|målade Skriet med en ångestfylld figur framför en böljande himmel
+Andy Warhol|gjorde bilder av soppburkar och färgstarka porträtt av Marilyn Monroe
+Michelangelo Buonarroti~Michelangelo|målade Sixtinska kapellets tak och skulpterade David
+Carl Larsson|målade familjelivet i det färgstarka hemmet i Sundborn
+Hilma af Klint|skapade tidigt abstrakta målningar, bland annat serien De tio största
+Anders Zorn|var svensk målare från Mora och känd för porträtt samt vatten- och nakenstudier
+Bruno Liljefors|målade djur och fåglar i deras naturliga miljöer
+Georgia O'Keeffe~Georgia O’Keeffe|målade stora närbilder av blommor och landskap i New Mexico
+Rembrandt van Rijn~Rembrandt|målade Nattvakten och många självporträtt i ljus och skugga
+Johannes Vermeer~Vermeer|målade Flicka med pärlörhänge och stilla nederländska interiörer
+Henri Matisse~Matisse|arbetade med starka färger och skapade senare stora pappersklipp
+Gustav Klimt~Klimt|målade Kyssen med rikt guldskimrande mönster i Wien
+René Magritte~Rene Magritte|målade en pipa under texten som förklarar att detta inte är en pipa
+Jackson Pollock|skapade stora målningar genom att droppa och stänka färg över dukar på golvet
+Yayoi Kusama|är japansk konstnär känd för prickmönster, pumpor och spegelrum
+Louise Bourgeois|skapade stora spindelskulpturer och arbetade med minne och familjerelationer
+Marina Abramović~Marina Abramovic|är performancekonstnär som satt tyst mittemot museibesökare i The Artist Is Present
+Jean-Michel Basquiat|kom från New Yorks graffitimiljö och använde kronor och text i expressiva målningar
+Käthe Kollwitz~Kathe Kollwitz|skildrade sorg och social utsatthet i grafik och skulptur
+
+@Ord och uttryck|Vad är
+en synonym|Detta ord har ungefär samma betydelse som ett annat, som glad och lycklig.
+en motsats~en antonym|Detta språkliga förhållande finns mellan exempelvis varm och kall.
+ett substantiv|Denna ordklass omfattar namn på saker, personer och företeelser, som stol och glädje.
+ett verb|Denna ordklass beskriver bland annat handlingar, som springa och tänka.
+ett adjektiv|Denna ordklass beskriver egenskaper, som snabb, blå och vänlig.
+ett pronomen|Ord som hon, det och någon tillhör denna ordklass som kan ersätta namn eller nominalfraser.
+en preposition|Ord som på, under och mellan tillhör denna ordklass som anger relationer.
+en metafor|I denna bildliga formulering kallas någon exempelvis en klippa utan ett jämförande som.
+en liknelse|I denna bildliga jämförelse sägs någon exempelvis vara stark som en oxe.
+ironi|Här menar talaren något annat än den bokstavliga formuleringen, ofta motsatsen.
+en allitteration|I detta stilgrepp börjar närliggande ord med samma språkljud, som bagar Bengt bullar.
+ett palindrom|Detta ord eller uttryck kan läsas likadant baklänges, exempelvis radar.
+ett anagram|Genom att kasta om bokstäverna i ett ord bildas detta, som när Rom blir mor.
+en homonym|Så kallas ett ord som har samma form som ett annat men annan betydelse, som fil i trafiken och på tallriken.
+en akronym|Denna förkortning bildas av begynnelsebokstäver och uttalas som ett ord, som Nato.
+en eufemism|Detta mildrande uttryck ersätter något obehagligt, som somna in i stället för dö.
+en hyperbol|Detta stilgrepp överdriver medvetet, som att ha väntat i tusen år.
+en litotes|I detta stilgrepp sägs något genom att förneka motsatsen, som inte illa för bra.
+en oxymoron|Detta uttryck förenar till synes motsägande ord, som talande tystnad.
+en tautologi|I detta uttryck upprepas samma innebörd, som gratis utan kostnad.
+etymologi|Denna del av språkvetenskapen undersöker ordens ursprung och historia.
+semantik|Denna del av språkvetenskapen behandlar betydelse hos ord och uttryck.
+syntax|Denna del av grammatiken behandlar hur ord sätts samman till fraser och meningar.
+fonetik|Denna del av språkvetenskapen studerar hur språkljud bildas, överförs och uppfattas.
+pragmatik|Denna del av språkvetenskapen studerar hur sammanhang och talaravsikt påverkar språkets betydelse.
+
+@Ordspråk och talesätt|Vad är|Detta talesätt {1}.
+Ingen rök utan eld|uttrycker att ett rykte kan ha någon verklig orsak, med en bild från förbränning
+Borta bra men hemma bäst|uttrycker att resor kan vara trevliga men den egna bostaden ändå känns mest trivsam
+Bättre sent än aldrig|uttrycker att en försenad insats ändå är värdefull jämfört med att ingenting händer
+Övning ger färdighet|uttrycker att man blir bättre genom att göra något många gånger
+Tiden läker alla sår|uttrycker att sorg och smärta ofta blir lättare att bära när månader och år går
+Många bäckar små gör en stor å|uttrycker att små bidrag tillsammans kan bli betydande, med en bild från rinnande vatten
+Man ska inte kasta sten i glashus|varnar för att kritisera andras fel när man själv är sårbar för samma kritik
+Den som gräver en grop åt andra faller ofta själv däri|varnar för att egna intriger kan slå tillbaka på den som planerat dem
+Äpplet faller inte långt från trädet|beskriver att barn ofta liknar sina föräldrar
+Efter regn kommer solsken|ger hopp om att svåra perioder följs av bättre tider
+Bättre en fågel i handen än tio i skogen|rekommenderar en säker liten fördel framför en osäker större
+Man ska inte ropa hej förrän man är över bäcken|varnar för att ta framgången för given innan hindret är passerat
+Tomma tunnor skramlar mest|antyder att den som låter mycket inte alltid har mest innehåll att bidra med
+Kaka söker maka|beskriver hur människor med liknande egenskaper ofta dras till varandra
+Liten tuva stjälper ofta stort lass|visar hur ett litet hinder kan få stora följder
+Det är ingen ko på isen|lugnar någon med att det inte är någon omedelbar fara
+Nu har du satt din sista potatis|är ett hotfullt skämtsamt sätt att säga att någon inte kommer undan igen
+Att ana ugglor i mossen|betyder att misstänka att något inte står rätt till
+Att köpa grisen i säcken|betyder att skaffa något utan att först kontrollera vad man får
+Att gå som katten kring het gröt|betyder att undvika att säga det viktiga rakt ut
+Att ha rent mjöl i påsen|betyder att vara ärlig och inte ha något att dölja
+Att sätta bocken till trädgårdsmästare|betyder att ge en olämplig person ansvar för något den kan frestas att förstöra
+Att skilja agnarna från vetet|betyder att skilja det värdefulla från det mindre användbara
+Att hälla olja på vågorna|betyder att lugna en konflikt eller upprörd situation
+Att kasta pärlor för svin|betyder att ge något värdefullt till någon som inte uppskattar det
+
+@Världens språk|Vad är|Detta språk {1}.
+svenska|talas i Sverige och av en minoritet i Finland och skriver tre extra vokalbokstäver efter Z
+engelska|är huvudspråk i bland annat Storbritannien och använder hälsningen hello
+spanska|talas i Spanien och stora delar av Latinamerika och använder både inledande och avslutande frågetecken
+franska|talas i Frankrike och delar av Kanada och använder hälsningen bonjour
+tyska|talas i Tyskland och Österrike och skriver substantiv med stor begynnelsebokstav
+italienska|talas i Italien och har gett musiken ord som allegro och piano
+portugisiska|talas i Portugal och Brasilien och har hälsningen olá
+norska|talas väster om Sverige och har två officiella skriftspråksformer, en med danska rötter och en byggd på dialekter
+danska|är ett nordiskt språk där räkneorden för sjuttio och nittio bygger på ett äldre tjugobaserat system
+finska|är ett finsk-ugriskt språk där vatten heter vesi och tack heter kiitos
+isländska|är ett nordiskt språk som bevarat mycket äldre böjning och använder bokstäverna þ och ð
+nederländska|talas i Nederländerna och Flandern och har ordet fiets för cykel
+polska|är ett västslaviskt språk som använder bokstäver som ł och ą
+grekiska|har ett eget alfabet med alfa, beta och omega och talas i sydöstra Europa
+ryska|skrivs med kyrilliska bokstäver och var dominerande i Sovjetunionen
+arabiska|skrivs från höger till vänster och har stor spridning i Nordafrika och Mellanöstern
+hebreiska|skrivs från höger till vänster och återupplivades som modernt vardagsspråk i Israel
+japanska|använder kanji tillsammans med stavelseskrifterna hiragana och katakana
+koreanska|skrivs huvudsakligen med alfabetet hangul och talas på halvön öster om Kina
+mandarinkinesiska~mandarin|är den kinesiska språkvariant som ligger till grund för standardspråket och använder toner som skiljer ord
+swahili|är ett bantuspråk som används som gemensamt språk i stora delar av Östafrika
+hindi|skrivs vanligen med devanagari och är ett mycket stort språk i norra Indien
+persiska~farsi|talas i Iran och skrivs med en anpassning av det arabiska alfabetet
+baskiska~euskara|talas på båda sidor om västra Pyrenéerna och saknar säkert påvisade levande släktspråk
+esperanto|skapades av L.L. Zamenhof som internationellt hjälpspråk och presenterades 1887
+
+@Högtider och firanden|Vad är
+julafton|I Sverige öppnas ofta paketen denna decemberdag före den kristna födelsehögtidens huvuddag.
+midsommar|Vid denna svenska sommarhögtid dansar man ofta kring en lövklädd stång.
+nyårsafton|Denna årets sista kväll firas ofta med tolvslag och fyrverkerier.
+påsk|Denna kristna högtid firar Jesu uppståndelse och förknippas även med ägg.
+lucia|Denna ljushögtid firas den 13 december med vitklädda sångare och ljuskrona.
+valborg|Denna vårfest på april månads sista kväll förknippas med körsång och brasor.
+nationaldagen|Denna svenska högtid infaller den 6 juni och knyts bland annat till kungavalet 1523.
+första maj|Denna dag för arbetarrörelsens demonstrationer infaller direkt efter april.
+Halloween|Denna högtid den 31 oktober förknippas med utklädnad, pumpor och bus eller godis.
+alla hjärtans dag|Denna romantiska temadag firas den 14 februari med kort, blommor och kärlekshälsningar.
+fettisdagen|Denna dag före fastans början förknippas i Sverige särskilt med gräddfyllda vetebullar.
+trettondagen|Denna kristna januaridag förknippas i västkyrkan med de vise männens besök hos Jesus.
+Kristi himmelsfärdsdag|Denna kristna helgdag infaller fyrtio dagar efter påskdagen och alltid på en torsdag.
+pingst|Denna kristna högtid femtio dagar efter påsk anknyter till den helige Andes ankomst.
+advent|Denna kristna förberedelsetid före jul markeras ofta med fyra söndagar och fyra ljus.
+diwali|Denna sydasiatiska ljusfest firas bland annat av hinduer och förknippas med lampor och fyrverkerier.
+hanukka~chanukka|Denna judiska ljusfest pågår i åtta dagar och använder en ljusstake med en extra tjänarljusplats.
+eid al-fitr|Denna muslimska fest markerar att fastemånaden är avslutad.
+eid al-adha|Denna muslimska offerhögtid anknyter till Ibrahims beredskap att offra sin son.
+pesach|Denna judiska högtid minns uttåget ur Egypten och firas med osyrat bröd och en särskild måltid.
+nowruz~norouz|Detta nyår firas kring vårdagjämningen i bland annat Iran.
+vesak|Denna buddhistiska högtid uppmärksammar Buddhas födelse, upplysning och död i många traditioner.
+Día de los Muertos~De dödas dag|Vid denna mexikanska högtid hedras avlidna med altaren, blommor och mat.
+Thanksgiving|Denna nordamerikanska tacksägelsehögtid förknippas med kalkon och familjemiddag på hösten.
+Songkran|Detta thailändska nyår i april firas bland annat med stora vattenlekar och reningssymbolik.

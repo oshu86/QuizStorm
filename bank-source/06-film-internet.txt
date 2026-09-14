@@ -1,0 +1,269 @@
+@Filmklassiker|Vad är|Denna film {1}.
+Titanic|följer Jack och Rose ombord på ett fartyg som sjunker på sin jungfruresa 1912
+Jurassic Park|låter klonade dinosaurier rymma från en nöjespark på en ö och regisserades av Steven Spielberg
+E.T.~E.T. the Extra-Terrestrial|handlar om pojken Elliott som hjälper en vänlig utomjording att komma hem
+Tillbaka till framtiden~Back to the Future|skickar Marty McFly till 1955 i en tidsmaskin byggd av en DeLorean
+Ensam hemma~Home Alone|lämnar pojken Kevin att försvara familjens hus mot två inbrottstjuvar under julen
+Gudfadern~The Godfather|skildrar familjen Corleone och har Marlon Brando som maffiapatriark
+Forrest Gump|låter Tom Hanks spela en godhjärtad man som rör sig genom flera decennier av USA:s historia
+Hajen~Jaws|gör en amerikansk badort farlig när en stor vithaj angriper människor
+The Matrix|låter Neo upptäcka att hans vardag är en datorskapad illusion och välja mellan två piller
+Rocky|följer en okänd boxare i Philadelphia som får möta mästaren Apollo Creed och spelas av Sylvester Stallone
+Pulp Fiction|väver samman brottslingars historier i Los Angeles och regisserades av Quentin Tarantino
+Casablanca|följer Rick och Ilsa i en marockansk stad under andra världskriget
+Schindler's List~Schindlers list|skildrar en fabriksägares räddning av judar under Förintelsen och är till stor del svartvit
+Nyckeln till frihet~The Shawshank Redemption|följer den fängslade Andy Dufresne och hans vänskap med Red
+När lammen tystnar~The Silence of the Lambs|låter FBI-eleven Clarice Starling söka hjälp hos den fängslade Hannibal Lecter
+2001: Ett rymdäventyr~2001 A Space Odyssey|har datorn HAL 9000 och gåtfulla svarta monoliter som centrala inslag
+Apocalypse Now|flyttar motiv från Mörkrets hjärta till Vietnamkriget och en färd uppför en flod
+Blade Runner|låter Harrison Ford jaga människolika replikanter i ett regnigt framtida Los Angeles
+Taxi Driver|följer den ensamme chauffören Travis Bickle genom New Yorks nätter
+Alien|låter besättningen på rymdskeppet Nostromo möta ett farligt utomjordiskt rovdjur
+Med livet som insats~North by Northwest|är Hitchcocks thriller där Cary Grant jagas av ett flygplan över ett öppet fält
+Citizen Kane~En sensation|undersöker en tidningsmagnats liv och betydelsen av hans sista ord, Rosebud
+Metropolis|är Fritz Langs stumma framtidsfilm från 1927 med en robotkvinna och stora klassklyftor
+De sju samurajerna~Seven Samurai|är Akira Kurosawas berättelse om krigare som skyddar en by mot rövare
+Cinema Paradiso|skildrar en pojkes vänskap med en biografmaskinist i en liten siciliansk stad
+
+@Svenska filmer och serier|Vad är|Denna svenska titel {1}.
+Sällskapsresan|följer den tafatte Stig-Helmer på chartersemester tillsammans med den norske Ole
+Jönssonligan|är filmserien där Sickan ofta har en detaljerad plan tillsammans med Vanheden och Dynamit-Harry
+Solsidan|är komediserien om bland andra Alex och Anna samt Fredde och Mickan i en välbärgad förort
+Bonusfamiljen|är dramaserien om det komplicerade vardagslivet i ombildade familjer med barn och före detta partners
+Beck|är kriminalfilmserien där Peter Haber spelar en polis och Mikael Persbrandt länge var Gunvald Larsson
+Det sjunde inseglet|är Bergmans film där en riddare spelar schack med Döden
+Fanny och Alexander|är Bergmans familjedrama om syskonen i familjen Ekdahl
+Änglagård|låter Helena Bergström och Rikard Wolff spela Fanny och Zac som anländer till en svensk landsbygd
+Ondskan|följer Erik Ponti på en internatskola präglad av våld och bygger på Jan Guillous roman
+En man som heter Ove|följer en vresig änkling vars liv förändras när nya grannar flyttar in
+Kopps|är Josef Fares komedi om poliser på en ort med så lite brott att stationen hotas av nedläggning
+Tillsammans|är Lukas Moodyssons film om ett kollektiv på 1970-talet
+Smala Sussie|är Ulf Malmros film om en hemvändare som letar efter sin syster i en värmländsk småstad
+Så som i himmelen|låter en berömd dirigent återvända till sin hemby och leda kyrkokören
+Låt den rätte komma in|är vampyrberättelsen om Oskar och Eli i Blackeberg, efter John Ajvide Lindqvists roman
+Vår tid är nu|är dramaserien om familjen Löwander och deras restaurang efter andra världskriget
+Tunna blå linjen|följer poliser i Malmö och betonar deras vardag och mänskliga relationer
+Bron|börjar med att en kropp hittas på gränsen mellan Sverige och Danmark och har Saga Norén som central polis
+Kalifat|är thrillerserien där liv i Sverige och hos terrorgruppen IS vävs samman
+Störst av allt|är serien efter Malin Persson Giolitos roman där Maja står inför rätta efter en skolskjutning
+Hedebyborna|är tv-serien byggd på Sven Delblancs berättelser om ett sörmländskt samhälle
+Raskens|är tv-serien efter Vilhelm Mobergs roman om en indelt soldat och hans familj
+Hem till byn|är den långlivade tv-serien om människor på den svenska landsbygden skapad av Bengt Bratt
+Häxan|är Benjamin Christensens film från 1922 som förenar historisk framställning med dramatiserade scener om trolldom
+Körkarlen|är Victor Sjöströms stumfilm efter Selma Lagerlöf där en dödsvagn har en avgörande roll
+
+@Tv-serier|Vad är|Denna tv-serie {1}.
+Friends~Vänner|följer Rachel, Ross, Monica, Chandler, Joey och Phoebe i New York, ofta på kaféet Central Perk
+Game of Thrones|skildrar maktkampen om järntronen i Westeros och bygger på George R.R. Martins böcker
+The Simpsons~Simpsons|följer den gula tecknade familjen med Homer, Marge, Bart, Lisa och Maggie
+Stranger Things|utspelar sig delvis i Hawkins och låter barn möta en mörk spegelvärld
+Breaking Bad|följer kemiläraren Walter White som börjar tillverka narkotika med en tidigare elev
+The Crown|dramatiserar Elizabeth II:s regeringstid och livet i den brittiska kungafamiljen
+The Office|skildrar arbetslivet på ett kontor i dokumentärliknande komediform och finns i brittisk och amerikansk version
+The Big Bang Theory|handlar om bland andra fysikerna Sheldon och Leonard samt grannen Penny
+Sex and the City|följer Carrie Bradshaw och tre vänners kärleksliv i New York
+Downton Abbey|skildrar både familjen Crawley och deras tjänstefolk på ett engelskt gods
+Lost|följer överlevande efter en flygkrasch på en ö med många gåtor
+Sherlock|flyttar Arthur Conan Doyles detektiv till modern tid med Benedict Cumberbatch i huvudrollen
+The Last of Us|följer Joel och Ellie genom ett USA efter en svamppandemi och bygger på ett tv-spel
+The Handmaid's Tale~The Handmaids Tale|skildrar den totalitära staten Gilead där June tvingas bära barn åt makthavare
+Succession|följer familjen Roy och maktkampen i deras medieimperium
+The Sopranos~Sopranos|följer maffiabossen Tony i New Jersey och hans besök hos en psykiater
+The Wire|undersöker polis, kriminalitet och samhällsinstitutioner i Baltimore över fem säsonger
+Mad Men|följer Don Draper och reklambranschen i 1960-talets New York
+Twin Peaks|börjar med mordet på Laura Palmer och präglas av David Lynchs säregna stämning
+Black Mirror|är en antologiserie om teknikens mörka konsekvenser, med fristående berättelser
+Fleabag|är Phoebe Waller-Bridges komedi där huvudpersonen ofta talar direkt till kameran
+The Bear|följer kocken Carmy som tar över familjens smörgåsställe i Chicago
+Severance|låter anställda skilja minnen från arbetet från minnen i privatlivet genom ett ingrepp
+Chernobyl|är miniserien från 2019 som dramatiserar kärnkraftskatastrofen 1986 och dess följder
+Better Call Saul|berättar hur advokaten Jimmy McGill blir den person som senare hjälper Walter White
+
+@Skådespelare|Vem är|Denna skådespelare {1}.
+Leonardo DiCaprio|spelade Jack i Titanic och fick sin första skådespelar-Oscar för The Revenant
+Tom Hanks|spelade titelrollen i Forrest Gump och en skeppsbruten man i Cast Away
+Julia Roberts|slog igenom stort i Pretty Woman och fick Oscar för Erin Brockovich
+Johnny Depp|spelade kapten Jack Sparrow i Pirates of the Caribbean-filmerna
+Meryl Streep|spelade den stränga modechefen i Djävulen bär Prada och mamman i Mamma Mia!
+Brad Pitt|spelade i Fight Club och var stuntmannen Cliff Booth i Once Upon a Time in Hollywood
+Angelina Jolie|spelade Lara Croft och den hornprydda titelgestalten i Maleficent
+Morgan Freeman|spelade Red i Nyckeln till frihet och har en välkänd mörk berättarröst
+Harrison Ford|spelade både Han Solo och den äventyrlige arkeologen Indiana Jones
+Emma Watson|spelade Hermione Granger genom Harry Potter-filmerna
+Alicia Vikander|fick Oscar för The Danish Girl och spelade en robot i Ex Machina
+Alexander Skarsgård|spelade vampyren Eric Northman i True Blood och en våldsam make i Big Little Lies
+Noomi Rapace|spelade Lisbeth Salander i de svenska Millenniumfilmerna och gick vidare till internationella roller
+Stellan Skarsgård|spelade bland annat i Breaking the Waves och forskaren Erik Selvig i Marvel-filmer
+Ingrid Bergman|spelade Ilsa i Casablanca och fick tre skådespelar-Oscar under sin karriär
+Joaquin Phoenix|fick Oscar för titelrollen i Joker och spelade Johnny Cash i Walk the Line
+Tilda Swinton|spelade den vita häxan i Narnia och fick Oscar för Michael Clayton
+Viola Davis|fick Oscar för Fences och spelade advokaten Annalise Keating i How to Get Away with Murder
+Olivia Colman|fick Oscar som drottning Anne i The Favourite och spelade Elizabeth II i The Crown
+Christoph Waltz|fick Oscar för både Inglourious Basterds och Django Unchained
+Max von Sydow|spelade riddaren i Det sjunde inseglet och prästen Merrin i Exorcisten
+Liv Ullmann|spelade i Persona och Scener ur ett äktenskap och arbetade återkommande med Ingmar Bergman
+Gena Rowlands|spelade i En kvinna under påverkan och samarbetade ofta med John Cassavetes
+Toshiro Mifune|spelade i flera Kurosawa-filmer, bland annat De sju samurajerna och Yojimbo
+Isabelle Huppert|är fransk skådespelare som spelade huvudrollerna i Pianisten och Elle
+
+@Animerat och tecknat|Vad är|Denna animerade berättelse {1}.
+Shrek|följer ett grönt träsktroll, en talande åsna och prinsessan Fiona
+Hitta Nemo~Finding Nemo|låter clownfisken Marvin söka sin son tillsammans med den glömska Doris
+Toy Story|visar leksakernas hemliga liv med cowboydockan Woody och rymdfiguren Buzz Lightyear
+Bilar~Cars|låter racerfordonet Blixten McQueen upptäcka vänskapen i en liten avlägsen stad
+Dumma mej~Despicable Me|handlar om Gru, tre adopterade flickor och små gula medhjälpare som kallas minioner
+Råttatouille~Ratatouille filmen|låter råttan Remy laga mat i ett restaurangkök i Paris
+Upp~Up|skickar den äldre Carl iväg i ett hus buret av ballonger, tillsammans med pojken Russell
+Insidan ut~Inside Out|ger känslor som Glädje och Vemod egna gestalter inne i flickan Rileys huvud
+Monsters, Inc.~Monsters Inc|låter Sulley och Mike arbeta på en fabrik där barns skrik blir energi
+Kung Fu Panda|följer pandan Po som tränas till kampsportshjälte
+Madagaskar filmen~Madagascar filmen|låter djur från ett zoo i New York hamna på en ö med dansande lemurer
+Draktränaren~How to Train Your Dragon|följer Hicke och den svarta draken Tandlöse i en vikingaby
+Coco|följer Miguel till de dödas värld i en berättelse om musik och familjeminne
+Vaiana~Moana|följer en ung sjöfarare som söker halvguden Maui över Stilla havet
+Zootropolis~Zootopia|låter kaninpolisen Judy Hopps samarbeta med räven Nick i en djurstad
+Spirited Away~Sen to Chihiro|följer Chihiro som tvingas arbeta i ett badhus för andar efter att föräldrarna förvandlats
+Min granne Totoro~My Neighbor Totoro|följer två systrar som möter ett stort vänligt skogsväsen på japanska landsbygden
+Det levande slottet~Howl's Moving Castle|låter Sophie drabbas av en förbannelse och söka skydd hos trollkarlen Hauru
+Järnjätten~The Iron Giant|handlar om en pojkes vänskap med en väldig robot under kalla kriget
+Wall-E|följer en ensam sopkomprimerande robot på en övergiven jord som möter roboten Eva
+Persepolis|skildrar en iransk flickas uppväxt och bygger på Marjane Satrapis självbiografiska serie
+Flykten från hönsgården~Chicken Run|låter leranimerade fåglar planera en flykt från en gård där de riskerar att bli paj
+Fantastic Mr. Fox~Den fantastiska räven|är Wes Andersons stopmotionfilm efter Roald Dahls bok om en listig familjefar
+Coraline|låter en flicka hitta en till synes bättre familj bakom en dörr, där människorna har knappar till ögon
+Sagan om prinsessan Kaguya|är en japansk handtecknad film om en flicka som hittas i bambu och kommer från månen
+
+@Tv-program och underhållning|Vad är|Detta tv-program {1}.
+På spåret|låter lag lista ut resmål medan poängen sjunker ju längre resan går
+Melodifestivalen|är den svenska uttagningen till Europas stora årliga sångtävling
+Allsång på Skansen|samlar artister och publik till sommarsång på Sollidenscenen
+Let's Dance~Lets Dance|låter kända personer tävla i pardans tillsammans med professionella dansare
+Idol|låter sångare tävla genom auditions och veckofinaler inför jury och tittare
+Bäst i test|låter komiker lösa ovanliga uppgifter och bedömas av en bestämd värd
+Så mycket bättre|låter artister tolka varandras låtar under gemensamma dagar, ofta på Gotland
+Robinson|låter deltagare leva på en ö och rösta ut varandra efter tävlingar
+Fångarna på fortet|låter lag lösa uppgifter i celler på ett franskt havsfort för att samla nycklar
+Bonde söker fru|hjälper lantbrukare att hitta kärlek genom brev, dejter och besök på gården
+Antikrundan|låter experter värdera människors medhavda äldre föremål på olika orter
+Mästarnas mästare|samlar tidigare elitidrottare som möts i nya fysiska och mentala tävlingar
+Vem bor här?|låter deltagare besöka varandras hem och gissa vem som hör till vilken bostad
+Hela Sverige bakar|låter amatörer tävla med kakor, bröd och tårtor inför en jury
+Sveriges mästerkock|låter amatörkockar prövas i köksuppgifter och bedömas av professionella kockar
+Doobidoo|är en musiklek där kända deltagare tävlar i sångkunskap, länge under Lasse Kronérs ledning
+Så ska det låta|bygger på två lag vid varsitt piano och att hitta sånger utifrån ledtrådar
+Parlamentet|låter komiker debattera i röda och blå lag med satirisk anknytning till politik
+Grotesco|är humorgruppen och programtiteln bakom satiriska sketcher och musiknummer som Tingeling
+Hipp Hipp!~Hipp Hipp|är humorprogrammet där figurer som Tiffany Persson och brandmannen Kaj förekommer
+The Great British Bake Off|låter brittiska amatörer baka i ett stort tält och få sina bakverk bedömda
+QI|är en brittisk panelshow där oväntad allmänkunskap premieras och vanliga felaktiga svar kan ge minus
+Taskmaster|är det brittiska originalet där Greg Davies dömer deltagarnas lösningar på Alex Hornes uppgifter
+Only Connect|är den brittiska frågesporten där lag söker dolda samband mellan till synes olika ledtrådar
+Who Wants to Be a Millionaire?~Vem vill bli miljonär|är frågesportformatet med stigande prispengar och livlinor som att ringa en vän
+
+@Youtubers och kreatörer|Vem är|Denna kreatör {1}.
+PewDiePie~Felix Kjellberg|är svensk och blev världsberömd på Youtube genom spelvideor och humor
+MrBeast~Jimmy Donaldson|är amerikansk och blev känd för stora tävlingar, experiment och dyra videoprojekt
+IJustWantToBeCool|är den svenska humortrion med bröderna Victor och Emil Beer samt kusinen Joel Adolphson
+Therése Lindgren~Therese Lindgren|är svensk och blev känd för livsstils- och skönhetsvideor samt engagemang för djur
+Jocke och Jonna~Joakim och Jonna Lundell|är det svenska paret som delar familjeliv och stora projekt på en gemensam kanal
+Matkoma|är den svenska matduon Adam Åstrand och Anton Lundell, känd för att prova stora mängder mat
+Uppdrag Mat~Mauri Hermundsson|låter sin långe programledare möta människor genom mat och ovanliga svenska matupplevelser
+Mark Rober|är tidigare NASA-ingenjör och gör tekniska experiment, bland annat avancerade glitterfällor
+Marques Brownlee~MKBHD|är amerikansk teknikrecensent vars kanal ofta använder en förkortning med fyra bokstäver
+NikkieTutorials~Nikkie de Jager|är nederländsk och blev internationellt känd för sminkvideor
+Jacksepticeye~Seán McLoughlin~Sean McLoughlin|är irländsk spelkreatör med ett kanalnamn som syftar på ett infekterat öga
+Markiplier~Mark Fischbach|är amerikansk spelkreatör känd för skräckspel och interaktiva videoberättelser
+DanTDM~Daniel Middleton|är brittisk spelkreatör som slog igenom med Minecraft och en diamantvagn i kanalnamnet
+Dream~Clay|är en amerikansk Minecraft-kreatör känd för jaktutmaningar och en grön figur med leende mask
+Lilly Singh|är kanadensisk komiker som slog igenom under kanalnamnet IISuperwomanII
+Casey Neistat|är filmskaparen som blev känd för energiska New York-vloggar och kreativa kameravinklar
+Emma Chamberlain|är amerikansk vloggare som blev uppmärksammad för vardaglig humor och ett ledigt klippsätt
+Safiya Nygaard|är amerikansk kreatör som bland annat blandar många läppstift eller provar ovanliga modeprodukter
+Simone Giertz|är svensk uppfinnare som blev känd för medvetet dåliga robotar för vardagssysslor
+Linus Sebastian~Linus Tech Tips|är kanadensisk teknikprofil bakom en kanalgrupp med datortester och byggen
+Veritasium~Derek Muller|är vetenskapskanalen vars australienfödda fysikpedagog förklarar experiment och vanliga missuppfattningar
+Tom Scott|är brittisk videokreatör känd för röda tröjor och korta förklaringar från ovanliga platser
+SmarterEveryDay~Destin Sandlin|är vetenskapskanalen där en amerikansk ingenjör utforskar världen med experiment och höghastighetsfilm
+Mikaela Long|är amerikansk komiker som först slog igenom med korta Vine-videor och senare gjorde bland annat skönhetshumor
+James Hoffmann|är brittisk kaffekreatör och tidigare världsmästare i barista som testar bryggare och förklarar extraktion
+
+@Sociala medier och internetkultur|Vad är
+en hashtag|Detta sökbara ämnesmärke börjar med ett nummertecken och används för att samla inlägg.
+en emoji|Denna lilla digitala bildsymbol kan visa exempelvis ett ansikte, hjärta eller djur i ett meddelande.
+ett meme|Detta återanvända skämtformat sprids på nätet och kan bestå av en bild med ständigt nya texter.
+en selfie|Detta självporträtt tas ofta med mobilens framkamera och delas på sociala medier.
+en influencer|Denna nätprofil kan påverka följares val och arbetar ibland med betalda samarbeten.
+en livestream|I denna sändning får publiken följa händelser medan de pågår och kan ofta skriva i en chatt.
+en algoritm|Denna uppsättning stegvisa instruktioner kan bland annat avgöra vilka inlägg en plattform visar.
+en viral video|Detta klipp sprids mycket snabbt genom att många människor delar det vidare.
+ett troll|Denna nätanvändare försöker provocera eller störa samtal snarare än föra en ärlig diskussion.
+en podcast~en podd|Detta episodiska ljudprogram kan följas och lyssnas på när det passar mottagaren.
+clickbait~klickbete|Denna lockande eller överdrivna rubriksättning försöker få människor att öppna en länk.
+ett filter|Denna digitala effekt kan ändra färger eller lägga till exempelvis hundöron på ett ansikte i kamerabilden.
+en duett på TikTok|I detta format visas en ny inspelning bredvid ett befintligt klipp så att innehållen kan reagera på varandra.
+en story~stories|Detta inläggsformat på bland annat Instagram försvinner normalt efter ett dygn om det inte sparas som höjdpunkt.
+ett direktmeddelande~DM|Detta privata meddelande skickas till en viss användare i stället för att läggas i det öppna flödet.
+en filterbubbla|Detta begrepp beskriver risken att personligt anpassade flöden främst visar sådant som bekräftar det man redan gillar.
+en ekokammare|I denna informationsmiljö förstärker människor varandras liknande åsikter medan motperspektiv trängs undan.
+rickrolling|Detta nätbus lurar någon att öppna en länk som oväntat spelar Rick Astleys Never Gonna Give You Up.
+ASMR|Denna förkortning används för avslappnande klipp med exempelvis viskningar och försiktiga knackljud.
+en deepfake|Denna AI-manipulerade bild, röst eller video kan få det att se ut som att en person sagt något den aldrig sagt.
+doomscrolling|Detta engelska ord beskriver att fortsätta rulla genom oroande nyheter trots att man mår sämre av det.
+parasocial relation|Detta ensidiga band uppstår när en följare känner stark närhet till en medieperson som inte känner följaren.
+FOMO|Denna förkortning beskriver rädslan att missa något roligt eller viktigt som andra verkar delta i.
+en lurker|Så kallas på engelska en person som läser i ett nätforum men sällan eller aldrig själv skriver.
+en ratio|På sociala medier kan detta engelska ord beskriva att ett kritiskt svar får fler gillanden än ursprungsinlägget.
+
+@Datorspel och tv-spel|Vad är|Detta spel {1}.
+Minecraft|låter spelaren bygga och överleva i en värld av block med bland annat creepers
+Tetris|låter fallande geometriska bitar bilda kompletta rader som försvinner
+Super Mario Bros.|låter en mustaschprydd rörmokare hoppa genom banor för att rädda en prinsessa
+Fortnite|blev särskilt känt för sitt battle royale-läge med byggande och en krympande säker zon
+The Sims|låter spelaren styra vardagsliv, bygga bostäder och följa figurers behov
+Pokémon Go~Pokemon Go|flyttar jakten på små fantasidjur till mobilkamerans karta över verkliga platser
+Grand Theft Auto V~GTA V|låter spelaren växla mellan Michael, Franklin och Trevor i och kring Los Santos
+World of Warcraft~WoW|är ett onlinerollspel i Azeroth med konflikter mellan Alliansen och Horden
+The Legend of Zelda: Breath of the Wild~Breath of the Wild|låter Link utforska ett stort öppet Hyrule efter hundra års sömn
+Animal Crossing: New Horizons~Animal Crossing New Horizons|låter spelaren flytta till en ö, inreda och umgås med talande djur
+Counter-Strike|är lagbaserad skjutspelsserie där en sida ofta planterar en bomb och den andra försöker desarmera den
+League of Legends~LoL|låter två lag av hjältar försöka förstöra motståndarnas nexus på en karta med banor
+Stardew Valley|låter spelaren ta över en gård, odla, fiska och lära känna invånarna i Pelican Town
+Among Us|låter en besättning leta efter sabotörer genom uppgifter, diskussioner och utröstning
+Portal|låter spelaren lösa rumsliga pussel med en apparat som skapar två sammanlänkade öppningar
+Red Dead Redemption 2|följer Arthur Morgan i ett laglöst gäng i den amerikanska västerns slutskede
+Hollow Knight|följer en liten maskliknande hjälte genom det underjordiska insektsriket Hallownest
+Cuphead|låter en hjälte med koppliknande huvud möta svåra bossar i en stil inspirerad av 1930-talets tecknade film
+Celeste|följer Madeline uppför ett berg i en precisionskrävande plattformsberättelse
+Undertale|låter spelaren möta monster under marken och ofta välja att skona dem i stället för att slåss
+Disco Elysium|är ett rollspel om en nedgången detektiv där inre röster och politiska idéer spelar stor roll
+Outer Wilds|låter en astronaut utforska ett solsystem som återställs i en tidsloop
+Return of the Obra Dinn|låter en försäkringsutredare lösa en skeppsbesättnings öden med hjälp av ett märkligt fickur
+Papers, Please|låter spelaren kontrollera pass vid gränsen till det fiktiva landet Arstotzka
+Journey|följer en ordlös mantelklädd vandrare genom öken och snö mot ett avlägset berg
+
+@Superhjältar|Vem är|Denna seriefigur {1}.
+Stålmannen~Superman~Clark Kent~Kal-El|kommer från Krypton, bär ofta röd cape och arbetar i hemlighet som reporter
+Batman~Bruce Wayne|skyddar Gotham med teknik och träning och har en fladdermus som symbol
+Spider-Man~Spindelmannen~Peter Parker|svingar sig mellan New Yorks hus med nät och fick sina krafter efter ett spindelbett
+Wonder Woman~Diana Prince|är en amazonkämpe med en sanningslasso och stark koppling till grekisk mytologi
+Hulken~Hulk~Bruce Banner|är en forskare som kan förvandlas till en enorm grön gestalt vid starka känslor
+Iron Man~Tony Stark|är en uppfinnare som bekämpar hot i en avancerad flygande rustning
+Captain America~Steve Rogers|bär en rund sköld och fick ökad styrka genom ett supersoldatexperiment
+Black Panther~T'Challa|skyddar Wakanda i en dräkt knuten till landets avancerade teknik och vibranium
+Wolverine~Logan~James Howlett|har läkningsförmåga och utdragbara klor samt ett skelett förstärkt med adamantium
+Deadpool~Wade Wilson|bär rödsvart dräkt, läker snabbt och skämtar ofta direkt med läsaren
+Doctor Strange~Stephen Strange|var kirurg innan han lärde sig magiska konster och började skydda världen mot mystiska hot
+Aquaman~Arthur Curry|har band till Atlantis och kan kommunicera med havets djur
+The Flash~Barry Allen|är en DC-hjälte som rör sig med extrem hastighet och ofta har en blixt på bröstet
+Green Lantern~Gröna lyktan~Hal Jordan|använder en kraftfull ring som kan skapa gröna konstruktioner med viljestyrka
+Black Widow~Natasha Romanoff|är en skicklig spion och närstridskämpe bland Avengers utan medfödda superkrafter
+Daredevil~Matt Murdock|är en blind advokat med förstärkta sinnen som bekämpar brott i Hell's Kitchen
+Storm~Ororo Munroe|är en X-Men-medlem med vitt hår som kan styra vädret
+Cyclops~Scott Summers|är en X-Men-ledare som skjuter energistrålar från ögonen och behöver ett särskilt visir
+Jean Grey~Phoenix|är en telepatisk X-Men-medlem förknippad med en mäktig kosmisk fågelkraft
+Ant-Man~Scott Lang|kan krympa sig med särskild teknik och kommunicerar med myror
+Scarlet Witch~Wanda Maximoff|använder kaosmagi och har en tvillingbror som kan röra sig mycket snabbt
+Vision|är en konstgjord Avengers-medlem som kan ändra sin densitet och ofta har rött ansikte
+Moon Knight~Marc Spector|bär vitt och är knuten till den egyptiska månguden Khonshu
+Ms. Marvel~Kamala Khan|är en ung muslimsk hjälte från Jersey City som beundrar Carol Danvers
+Squirrel Girl~Doreen Green|är en Marvel-hjälte som kan tala med ekorrar och har besegrat oväntat starka motståndare

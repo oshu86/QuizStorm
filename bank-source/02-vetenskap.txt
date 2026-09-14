@@ -1,0 +1,242 @@
+@Periodiska systemet|Vad är|Detta grundämne har tecknet {1}. {2}
+syre~oxygen|O|Gasen behövs för människans cellandning.
+guld|Au|Den gula ädelmetallen används till vigselringar.
+järn|Fe|Metallen är huvudbeståndsdelen i vanligt stål.
+silver|Ag|Ädelmetallen används i smycken och har gett namn åt andrapriset.
+helium|He|Den lätta ädelgasen kan få ballonger att sväva.
+väte~hydrogen|H|Det lättaste grundämnet ingår tillsammans med syre i vatten.
+kol|C|Både diamant och grafit består av detta ämne.
+koppar|Cu|Den rödaktiga metallen används ofta i elektriska ledningar.
+aluminium|Al|Lättmetallen används i dryckesburkar och folie.
+kalcium|Ca|Skelett och tänder innehåller mycket av detta ämne i kemiska föreningar.
+kisel~silicium|Si|Det används i datorchip och finns i kvarts.
+kväve~nitrogen|N|Ämnet utgör den största delen av luften som gas.
+natrium|Na|Tillsammans med klor bildar metallen vanligt koksalt.
+klor|Cl|Ämnet används i föreningar som håller poolvatten hygieniskt.
+kvicksilver|Hg|Metallen är flytande vid vanlig rumstemperatur och fanns förr i termometrar.
+tenn|Sn|Metallen ingår tillsammans med koppar i vanlig brons.
+zink|Zn|Den används för att galvanisera stål och skydda mot rost.
+litium|Li|Den lätta metallen är viktig i många laddningsbara batterier.
+svavel|S|Det gula fasta ämnet ingår i bland annat vissa vulkaniska gaser.
+fosfor|P|Ämnet ingår i DNA och i materialet på säkerhetständsticksaskens plån.
+volfram~tungsten|W|Metallen tål extrem hetta och användes i glödlampors glödtrådar.
+neon|Ne|Ädelgasen ger ett karakteristiskt rödorange ljus i urladdningsrör.
+platina|Pt|Den ädla metallen används i smycken och som katalysatormaterial.
+jod|I|Ämnet behövs för sköldkörtelns hormoner och tillsätts i vissa bordssalter.
+uran|U|Den tunga metallen kan användas som bränsle i kärnkraftverk.
+
+@Rymden|Vad är
+solen|Denna stjärna är centrum i vårt planetsystem och ger jorden ljus och värme.
+månen|Denna naturliga följeslagare till jorden visar nästan alltid samma sida mot oss.
+Mars|Denna röda planet har månarna Phobos och Deimos och utforskas av robotfordon.
+Saturnus|Denna stora gasplanet är särskilt känd för sitt tydliga system av ringar.
+Jupiter|Solsystemets största planet har en långlivad storm som kallas den stora röda fläcken.
+Venus|Denna mycket heta planet syns ofta som morgon- eller aftonstjärna från jorden.
+Merkurius|Denna lilla planet ligger närmast solen och gör ett varv runt den på ungefär 88 dygn.
+Vintergatan|Detta är galaxen där vårt solsystem ligger; den syns som ett ljust band över natthimlen.
+Pluto|Denna tidigare nionde planet klassades 2006 om till dvärgplanet och har följeslagaren Charon.
+en komet|Denna isrika himlakropp kan utveckla en ljus svans när den närmar sig solen.
+en asteroid|En sådan liten stenig himlakropp kretsar kring solen; många finns mellan Mars och Jupiter.
+ett svart hål|I detta extrema område av rymden är gravitationen så stark att ljus inte kan ta sig ut innanför gränsen.
+ett ljusår|Denna astronomiska längdenhet anger hur långt ljuset färdas i vakuum under ett år.
+ISS~Internationella rymdstationen|På denna bemannade forskningsstation i omloppsbana samarbetar astronauter från flera länder sedan årtionden.
+en supernova|Denna våldsamma stjärnexplosion kan tillfälligt lysa lika starkt som en hel galax.
+Uranus|Denna planet har en rotationsaxel som lutar så kraftigt att den nästan rullar runt solen.
+Neptunus|Den yttersta av de åtta planeterna är en blå isjätte med månen Triton.
+Andromedagalaxen|Denna stora spiralgalax är Vintergatans välkända granne och kan ses som en svag fläck utan teleskop.
+en nebulosa|Så kallas ett stort moln av gas och stoft i rymden, ibland en födelseplats för stjärnor.
+en meteor|Så kallas ljusfenomenet när en liten rymdsten hettas upp i atmosfären, populärt kallat stjärnfall.
+en meteorit|Så kallas den rest av en rymdsten som överlever färden genom atmosfären och når marken.
+Kuiperbältet|Detta område bortom Neptunus innehåller många isiga kroppar, bland annat dvärgplaneten Pluto.
+en exoplanet|Så kallas en planet som kretsar kring en annan stjärna än solen.
+Polstjärnan|Denna stjärna ligger nära himlens nordpol och hjälper oss att hitta väderstrecket norr.
+händelsehorisonten|Denna gräns runt ett svart hål skiljer området där ljus kan komma undan från det där det inte kan.
+
+@Människokroppen|Vad är
+hjärtat|Denna muskel pumpar blod genom kroppen och har hos människan fyra hålrum.
+lungorna|I dessa organ överförs syre från inandningsluften till blodet och koldioxid förs åt andra hållet.
+hjärnan|Detta organ inne i skallen bearbetar sinnesintryck och styr bland annat tankar och rörelser.
+magsäcken|I detta säckformade organ blandas maten med syra och enzymer efter färden genom matstrupen.
+huden|Detta yttre organ täcker kroppen, skyddar mot omvärlden och hjälper till att reglera temperaturen.
+njurarna|Dessa två bönformade organ filtrerar blod och bildar urin.
+levern|Detta stora organ i bukens övre högra del bildar galla och bearbetar många ämnen i blodet.
+skelettet|Detta inre stöd av ben skyddar organ och ger musklerna fästen.
+ryggraden|Denna stapel av kotor bär upp bålen och omsluter den kanal där ryggmärgen löper.
+tunntarmen|I denna långa del av matspjälkningskanalen tas huvuddelen av näringen från maten upp.
+bukspottkörteln|Detta organ bakom magsäcken bildar både matsmältningsenzymer och hormonet insulin.
+diafragman~mellangärdet|Denna kupolformade muskel skiljer brösthålan från bukhålan och är viktig när vi andas in.
+struphuvudet|Här sitter stämbanden som vibrerar när vi använder rösten.
+näthinnan|På detta ljuskänsliga skikt längst bak i ögat finns tappar och stavar.
+trumhinnan|Detta tunna membran i örat vibrerar av ljud och överför rörelser till hörselbenen.
+blodplättar~trombocyter|Dessa små cellfragment hjälper blodet att levra sig när ett blodkärl skadas.
+röda blodkroppar~erytrocyter|Dessa blodceller innehåller hemoglobin och transporterar syre från lungorna till vävnaderna.
+vita blodkroppar~leukocyter|Dessa blodceller tillhör immunförsvaret och hjälper kroppen att bekämpa infektioner.
+senor|Dessa starka bindvävsstrukturer förbinder vanligtvis muskler med ben och överför dragkraft.
+ledband~ligament|Dessa starka band stabiliserar leder genom att förbinda ben med ben.
+hippocampus|Denna del av hjärnan har fått namn efter en sjöhäst och är viktig för att bilda nya minnen.
+stigbygeln|Detta lilla hörselben i mellanörat är människokroppens minsta ben.
+akillessenan~hälsenan|Denna kraftiga sena förbinder vadmuskler med hälbenet och har namn efter en grekisk hjälte.
+gallblåsan|I denna lilla behållare under levern lagras vätska som hjälper till vid nedbrytning av fett.
+blindtarmsbihanget~appendix|Detta smala utskott på början av tjocktarmen är den del som vanligen inflammeras vid så kallad blindtarmsinflammation.
+
+@Former och geometri|Vad är
+en triangel|Denna plana figur har tre sidor och tre hörn.
+en kvadrat|Denna fyrhörning har fyra lika långa sidor och fyra räta vinklar.
+en cirkel|Alla punkter på denna slutna plana kurva ligger lika långt från en gemensam mittpunkt.
+en rektangel|Denna fyrhörning har fyra räta vinklar; dess längd behöver inte vara samma som dess bredd.
+en kub|Denna rymdfigur har sex kvadratiska sidoytor och ser ut som en vanlig tärning.
+en cylinder|En konservburk har ungefär denna form med två parallella cirkelformade ändytor.
+en kon|En klassisk strut liknar denna rymdfigur med rund bas och en spets.
+ett klot|En boll är en modell av denna kropp där ytan ligger lika långt från mitten åt alla håll.
+en radie|Denna sträcka går från en cirkels mittpunkt till dess kant.
+en diameter|Denna sträcka går tvärs genom cirkelns mittpunkt och är dubbelt så lång som avståndet från mitten till kanten.
+en omkrets|Detta mått får du när du summerar längden runt hela kanten av en plan figur.
+en area|Detta storleksmått beskriver hur stor en yta är och anges exempelvis i kvadratmeter.
+en volym|Detta mått beskriver hur mycket utrymme en kropp upptar och kan anges i kubikmeter.
+en parallellogram|Denna fyrhörning har två par motstående parallella sidor och kan se ut som en sned rektangel.
+en romb|Denna fyrhörning har fyra lika långa sidor men behöver inte ha räta vinklar.
+en hypotenusa|Så kallas den längsta sidan i en rätvinklig triangel, mitt emot den räta vinkeln.
+en diagonal|Denna sträcka förbinder två hörn som inte ligger intill varandra i en polygon.
+en bisektris|Denna linje eller stråle delar en vinkel i två lika stora vinklar.
+en ellips|En hoptryckt cirkel liknar denna ovala kurva; planetbanor har denna form.
+en tangent|Denna räta linje vidrör en cirkel i en enda punkt utan att skära genom den.
+en tetraeder|Denna kropp har fyra triangelformade sidoytor och kan användas som en fyrsidig speltärning.
+en oktagon|En vanlig stoppskylts ytterkant har denna form med åtta sidor.
+en hexagon|En regelbunden cell i en vaxkaka har denna sexsidiga form.
+en sektor|En tårtbit från en rund tårta liknar detta cirkelområde mellan två strålar och en båge.
+likformighet|Detta geometriska samband innebär samma form och proportioner, men inte nödvändigtvis samma storlek.
+
+@Mått och enheter|Vad är|Denna enhet {1}. {2}
+meter|används för längd|Den förkortas m och används ofta för att mäta ett rums bredd.
+kilogram|används för massa|Tusen gram bildar en sådan enhet.
+liter|används för volym|En vanlig mjölkförpackning rymmer ofta exakt en sådan.
+sekund|används för tid|Det går sextio sådana på en minut.
+grader Celsius~Celsiusgrader|används för temperatur|Vid normalt lufttryck fryser rent vatten vid noll på denna skala.
+kilometer|används för längre avstånd|Den motsvarar tusen meter och förkortas km.
+centimeter|används för korta längder|Hundra sådana ryms på en meter.
+milliliter|används för små vätskevolymer|Tusen sådana ryms i en liter.
+ton|används för stora massor|En sådan metrisk enhet motsvarar tusen kilogram.
+hektar|används ofta för markyta|Den motsvarar en kvadrat med sidan hundra meter.
+watt|används för effekt|Glödlampors energianvändning angavs ofta med denna enhets förkortning W.
+volt|används för elektrisk spänning|Ett vanligt litet batteri kan vara märkt med 1,5 av denna enhet.
+ampere|används för elektrisk ström|Den förkortas A på exempelvis säkringar.
+hertz|används för frekvens|En svängning per sekund motsvarar en av denna enhet.
+decibel|används för logaritmiska nivåer|Den syns ofta i uppgifter om ljudstyrka och buller.
+newton|används för kraft|Den har namn efter forskaren som formulerade klassiska rörelselagar.
+pascal|används för tryck|En newton per kvadratmeter motsvarar en sådan enhet.
+joule|används för energi|Den kan beskriva både värme och mekaniskt arbete.
+kelvin|används för absolut temperatur|Noll på denna skala är den absoluta nollpunkten.
+ohm|används för elektrisk resistans|Den skrivs ofta med den grekiska bokstaven omega.
+nautisk mil~sjömil|används till sjöss och i luften|Den är exakt 1 852 meter lång.
+knop|används för hastighet till sjöss|En sådan motsvarar en nautisk mil per timme.
+karat|används för ädelstenars massa|En sådan massenhet motsvarar 0,2 gram.
+ångström|används för mycket små längder|Enheten är en tiondels nanometer och har namn efter en svensk fysiker.
+mol|används för substansmängd|En bestämd mängd partiklar, Avogadros konstant, definierar enheten.
+
+@Fysik i vardagen|Vad är
+gravitation~tyngdkraft|Denna attraktionskraft får föremål att falla mot marken och håller planeter i banor.
+friktion|Denna kraft motverkar glidning mellan ytor och hjälper skosulan att få grepp.
+magnetism|Denna kraftverkan får en kompassnål att rikta in sig och kan dra järn mot en permanentmagnet.
+ljud|Dessa mekaniska svängningar fortplantas genom exempelvis luft och uppfattas med öronen.
+en skugga|Detta mörkare område uppstår när ett ogenomskinligt föremål skymmer ljuset.
+tröghet|Denna egenskap gör att en kropp behåller sitt rörelsetillstånd om ingen resulterande kraft ändrar det.
+ett eko|Detta hörs när ljud reflekteras tillbaka från exempelvis en bergvägg efter en kort fördröjning.
+reflektion|Denna process sker när ljus studsar mot en spegel i stället för att passera genom den.
+ljusbrytning~refraktion|Detta fenomen får en sked i ett vattenglas att se böjd ut där den passerar vattenytan.
+avdunstning|Vid denna process lämnar molekyler en vätskas yta som gas utan att hela vätskan behöver koka.
+kondensation|Denna fasövergång bildar små vattendroppar på utsidan av ett kallt glas i fuktig luft.
+värmeledning|Genom denna överföring blir handtaget på en metallsked varmt när skedens andra ände står i hett te.
+konvektion|Denna värmetransport sker genom att vätska eller gas rör sig, som varm luft upp från ett element.
+ytspänning|Denna egenskap gör att vattnets yta kan bära små insekter och att droppar blir rundade.
+flytkraft~lyftkraft i vätska|Denna uppåtriktade kraft från vattnet gör ett nedsänkt föremål lättare att hålla.
+centripetalkraft|Denna inåtriktade kraft behövs för att hålla en kropp i en cirkelbana.
+resonans|Detta fenomen ger stora svängningar när en gunga får regelbundna knuffar i rätt takt.
+dopplereffekten|Detta fenomen gör att en sirens ton tycks sjunka när ambulansen passerar dig.
+statisk elektricitet|Detta kan få hår att resa sig och ge en liten stöt efter att du gått över en matta.
+kapillärkraft|Detta samspel kan få vatten att stiga i ett smalt rör eller sugas upp i hushållspapper.
+totalreflektion|Vid detta fenomen stannar ljus kvar i ett material genom att helt speglas vid gränsytan, som i optisk fiber.
+elektromagnetisk induktion|Denna princip skapar elektrisk spänning genom förändrat magnetfält och används i generatorer.
+växthuseffekten|Detta naturliga fenomen värmer jordytan genom att atmosfären absorberar och återutstrålar värmestrålning.
+halveringstid|Denna tidslängd anger när hälften av kärnorna i en viss radioaktiv mängd har sönderfallit.
+energiprincipen|Denna bevarandelag säger att energi kan omvandlas men inte skapas eller förstöras i ett slutet system.
+
+@Kemi i vardagen|Vad är
+vatten|Denna förening har formeln H₂O och kan finnas som is, vätska och ånga.
+koldioxid|Denna gas har formeln CO₂ och bildar bubblorna i kolsyrad dryck.
+koksalt~natriumklorid|Denna förening av natrium och klor används för att salta mat.
+rost|Denna rödbruna blandning av järnföreningar bildas när järn reagerar med syre och fukt.
+tvål|Detta rengöringsmedel har molekyler som kan binda både vatten och fett så att smuts sköljs bort.
+ett pH-värde|Detta tal beskriver hur sur eller basisk en vattenlösning är; sju är neutralt vid rumstemperatur.
+en syra|Denna typ av ämne kan avge protoner; citronjuice innehåller ett välkänt exempel.
+en bas|Denna typ av ämne kan ta upp protoner och neutralisera en syra; lut är ett starkt exempel.
+en emulsion|Majonnäs är ett exempel på denna blandning där små droppar av en vätska är fördelade i en annan.
+bikarbonat~natriumvätekarbonat|Detta vita kökspulver kan reagera med syra och bilda gas som får en smet att jäsa upp.
+etanol~etylalkohol|Denna typ av alkohol finns i vin och öl och kan även användas som bränsle.
+ättiksyra~etansyra|Denna organiska syra ger vinäger dess karakteristiska sura smak.
+stärkelse|Denna kolhydrat lagras i potatis och spannmål och kan användas för att reda såser.
+cellulosa|Denna kolhydrat bygger upp växters cellväggar och är huvudråvara i vanligt papper.
+en legering|Brons och mässing är exempel på denna typ av material som innehåller en metall blandad med andra ämnen.
+destillation|Denna separationsmetod använder kokning och kondensation för att skilja ämnen med olika flyktighet.
+en katalysator|Detta ämne ökar en reaktions hastighet utan att själv förbrukas i reaktionens nettresultat.
+oxidation|Vid denna reaktion avger ett ämne elektroner; metallers korrosion är ett vanligt exempel.
+neutralisation|När en syra reagerar med en bas så att exempelvis salt och vatten bildas kallas reaktionen detta.
+en polymer|Plast består ofta av denna typ av stora molekyler, byggda av många upprepade små enheter.
+metan|Denna gas med formeln CH₄ är huvudbeståndsdelen i naturgas och bildas även vid syrefri nedbrytning.
+ammoniak|Denna stickande gas har formeln NH₃ och används bland annat vid tillverkning av gödsel.
+en isotop|Så kallas en variant av ett grundämne med ett visst antal neutroner; kol-14 är ett exempel.
+en elektrolyt|Denna substans ger rörliga joner i lösning eller smälta så att elektrisk ström kan ledas.
+sublimering|Vid denna fasövergång går ett fast ämne direkt till gas, som när torris försvinner.
+
+@Forskare och vetenskap|Vem är|Denna forskare {1}. {2}
+Albert Einstein|utvecklade relativitetsteorin|Formeln E = mc² förknippas starkt med personen.
+Isaac Newton|formulerade klassiska rörelselagar och allmän gravitation|Historien om ett fallande äpple är välkänd.
+Marie Curie|forskade om radioaktivitet|Hon fick Nobelpris i både fysik och kemi.
+Charles Darwin|beskrev evolution genom naturligt urval|Resan med Beagle bidrog till arbetet.
+Carl von Linné|systematiserade växter och djur|Tvådelade latinska artnamn är en del av arvet.
+Galileo Galilei|studerade himlen med teleskop|Han observerade fyra stora månar kring Jupiter 1610.
+Alfred Nobel|utvecklade dynamiten|Hans testamente lade grunden till världsberömda priser.
+Louis Pasteur|studerade mikroorganismer|Kontrollerad upphettning av drycker för längre hållbarhet förknippas med honom.
+Nikola Tesla|arbetade med elektriska växelströmssystem|Enheten för magnetisk flödestäthet bär hans efternamn.
+Stephen Hawking|studerade svarta hål och kosmologi|Han skrev den populärvetenskapliga boken Kosmos – en kort historik.
+Ada Lovelace|skrev anteckningar om Babbages analytiska maskin|En algoritm för Bernoullital gjorde henne till en pionjär inom programmering.
+Alan Turing|bidrog till kodknäckning under andra världskriget|Ett test för maskiners samtalsförmåga förknippas med honom.
+Gregor Mendel|korsade ärtplantor|Arbetet blev en grund för läran om hur egenskaper ärvs.
+Nicolaus Copernicus~Nikolaus Kopernikus|beskrev ett planetsystem med solen i centrum|Den stora boken publicerades 1543, hans dödsår.
+Alexander Fleming|upptäckte mögels hämmande effekt på bakterier 1928|Det blev ett viktigt steg mot penicillin som läkemedel.
+Rosalind Franklin|arbetade med röntgendiffraktion|Bilder av DNA bidrog till förståelsen av dubbelspiralen.
+Niels Bohr|utvecklade en tidig modell av atomen|Elektroner i bestämda energinivåer var en central idé.
+Anders Celsius|var en svensk astronom|En välkänd temperaturskala bär hans efternamn.
+Rachel Carson|skrev Tyst vår|Boken 1962 väckte stor debatt om bekämpningsmedels miljöeffekter.
+Jane Goodall|studerade schimpanser i Gombe|Hon dokumenterade bland annat deras användning av redskap.
+Ernest Rutherford|undersökte hur alfapartiklar spreds mot tunn guldfolie|Resultaten ledde till modellen med en liten atomkärna.
+Lise Meitner|bidrog till den teoretiska förklaringen av kärnklyvning|Hon levde en tid i Sverige efter flykten från Nazityskland.
+Max Planck|lade fram idén om energikvanta år 1900|En fundamental fysikalisk konstant bär hans namn.
+Tycho Brahe|gjorde noggranna astronomiska observationer före teleskopets tid|Hans observatorium låg på Ven i Öresund.
+Svante Arrhenius|forskade om joner och klimat|Han fick Nobelpriset i kemi 1903.
+
+@Väder och klimat|Vad är
+regn|Denna nederbörd faller som flytande vattendroppar från moln.
+snö|Denna nederbörd består av iskristaller som ofta fastnar i sexkantiga flingor.
+dimma|När ett moln av mycket små vattendroppar ligger vid marken och försämrar sikten kallas det detta.
+åska|Blixtar och kraftiga mullrande ljud är typiska för detta väderfenomen.
+vind|Så kallas luftens rörelse, som kan fylla segel och sätta trädkronor i rörelse.
+hagel|Denna nederbörd består av iskulor som kan växa när de förs upp och ner i kraftiga moln.
+dagg|Dessa vattendroppar bildas på gräs och andra ytor när luften närmast dem kyls till mättnad.
+rimfrost|Denna vita beläggning av iskristaller bildas på kalla ytor när vattenånga övergår direkt till is.
+en regnbåge|Detta färgade bågfenomen uppstår när solljus bryts och reflekteras i vattendroppar.
+en orkan|Så kallas en tropisk cyklon i Atlanten när vindarna blivit tillräckligt starka, minst omkring 33 meter per sekund.
+ett högtryck|I detta vädersystem är lufttrycket högre än i omgivningen och luften sjunker ofta.
+ett lågtryck|I detta vädersystem är lufttrycket lägre än i omgivningen och moln och nederbörd är vanliga.
+en kallfront|Vid denna vädergräns tränger kallare luft undan varmare luft och kan ge kraftiga skurar.
+en varmfront|Vid denna vädergräns glider varmare luft upp över kallare och kan ge långvarig nederbörd.
+en tromb|Denna kraftigt roterande luftvirvel sträcker sig från ett bymoln ner till mark eller vatten.
+monsun|Detta årstidsväxlande vindsystem ger bland annat södra Asien en tydlig regnperiod.
+sjöbris|Denna lokala vind blåser från vatten mot land under soliga dagar när landytan värms snabbare.
+en inversion|Vid detta väderläge ligger varm luft över kall nära marken och kan stänga inne föroreningar.
+en jetström|Detta smala band av mycket stark vind högt i atmosfären påverkar lågtryckens rörelser.
+El Niño~El Nino|Vid detta återkommande klimatfenomen blir ytvattnet i centrala och östra tropiska Stilla havet ovanligt varmt.
+en halo|Denna ljusring runt solen eller månen uppstår när ljuset bryts i iskristaller i atmosfären.
+föhnvind|Denna varma torra fallvind uppstår på läsidan av berg och är välkänd i Alperna.
+daggpunkten|Denna temperatur anger när luft vid given fuktighet blir mättad och kondensation kan börja.
+relativ luftfuktighet|Detta procenttal anger hur nära luften är mättnad med vattenånga vid aktuell temperatur.
+albedo|Detta mått beskriver hur stor andel av inkommande strålning en yta reflekterar; nysnö har högt värde.
