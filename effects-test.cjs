@@ -3,7 +3,7 @@ let animation,timeout,removed=0;const listeners={},audio=[];
 const drawing={setTransform(){},clearRect(){},beginPath(){},arc(){},fill(){}};
 const host={appendChild(){},getBoundingClientRect:()=>({width:600,height:400})};
 class AudioContext{state='running';currentTime=0;destination={};resume(){return Promise.resolve()}}
-class Audio{constructor(src){this.src=src;this.currentTime=0;this.loop=false;this.volume=1;this.paused=true;this.plays=0;this.pauses=0;audio.push(this)}play(){this.paused=false;this.plays++;return Promise.resolve()}pause(){this.paused=true;this.pauses++}}
+class Audio{addEventListener(event,fn){this.listeners||={};this.listeners[event]=fn}constructor(src){this.src=src;this.currentTime=0;this.loop=false;this.volume=1;this.paused=true;this.plays=0;this.pauses=0;audio.push(this)}play(){this.paused=false;this.plays++;return Promise.resolve()}pause(){this.paused=true;this.pauses++}}
 const c={window:{AudioContext,Audio,innerWidth:390,innerHeight:844,requestAnimationFrame:f=>(animation=f,1),cancelAnimationFrame(){},matchMedia:()=>({matches:false}),addEventListener(){},removeEventListener(){}},document:{body:host,createElement:()=>({getContext:()=>drawing,setAttribute(){},remove(){removed++}}),addEventListener:(e,f)=>listeners[e]=f,querySelectorAll:()=>[],hidden:false},localStorage:{getItem:()=>null,setItem(){}},performance:{now:()=>0},setTimeout:f=>(timeout=f,1),clearTimeout(){},assert};
 vm.createContext(c);vm.runInContext(fs.readFileSync(__dirname+'/dist/effects.js','utf8'),c);
 
@@ -29,3 +29,21 @@ console.log('PASS: custom menu/start/round/final soundtrack, 30/45/60 final sele
 
 // New selection cue uses the shared mute and cleanup paths.
 const level=audio.find(a=>a.src.includes('level-select.mp3'));assert(level);vm.runInContext('QuizEffects.levelSelect()',c);assert.equal(level.plays,1);assert(!level.loop);vm.runInContext('QuizEffects.toggle();QuizEffects.levelSelect()',c);assert.equal(level.plays,1);assert(level.paused);vm.runInContext('QuizEffects.toggle();QuizEffects.levelSelect();QuizEffects.stopPersistent()',c);assert.equal(level.plays,2);assert(level.paused);assert.equal(level.currentTime,0);vm.runInContext('QuizEffects.levelSelect();QuizEffects.stop()',c);assert(level.paused);console.log('PASS: level-selection cue plays once, respects mute, and is stopped on cleanup.');
+
+// 0.20: correct-answer audio shares mute and lifecycle handling.
+vm.runInContext('QuizEffects.correct()',c);
+const correct=audio.find(a=>a.src.includes('answer-correct.mp3'));
+assert(correct&&correct.plays===1&&!correct.loop);
+vm.runInContext('QuizEffects.toggle();QuizEffects.correct()',c);assert.equal(correct.plays,1);assert(correct.paused);
+vm.runInContext('QuizEffects.toggle();QuizEffects.correct();QuizEffects.stopPersistent()',c);assert.equal(correct.plays,2);assert(correct.paused);assert.equal(correct.currentTime,0);
+vm.runInContext('QuizEffects.correct();QuizEffects.wrong()',c);assert(correct.paused);
+vm.runInContext('QuizEffects.correct()',c);assert(wrong.paused);
+c.document.hidden=true;listeners.visibilitychange();assert(correct.paused);
+console.log('PASS: correct cue plays once, respects mute, stops on hide/cleanup, and does not overlap wrong cue.');
+
+// Retry when the file is ready, without restarting music or reviving it in-game.
+c.document.hidden=false;vm.runInContext('QuizEffects.menuMusic(false)',c);
+const playsBefore=menu.plays;menu.currentTime=12;menu.paused=true;menu.listeners.canplay();assert.equal(menu.plays,playsBefore+1);assert.equal(menu.currentTime,12);menu.listeners.canplay();assert.equal(menu.plays,playsBefore+1);
+vm.runInContext('QuizEffects.stopMenu()',c);menu.listeners.canplay();assert.equal(menu.plays,playsBefore+1);
+vm.runInContext('QuizEffects.menuMusic(false);QuizEffects.toggle()',c);const mutedPlays=menu.plays;menu.listeners.canplay();assert.equal(menu.plays,mutedPlays);
+console.log('PASS: readiness autoplay retry preserves playback position, does not duplicate playback, and respects game launch and mute.');
