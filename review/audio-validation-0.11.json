@@ -1,0 +1,94 @@
+{
+  "version": "0.11",
+  "all_decode_48k_stereo": true,
+  "files": [
+    {
+      "file": "menu-music.mp3",
+      "duration": 73.032,
+      "sample_rate": 48000,
+      "channels": 2,
+      "bit_rate": 256000,
+      "bytes": 2337987
+    },
+    {
+      "file": "game-launch.mp3",
+      "duration": 11.232,
+      "sample_rate": 48000,
+      "channels": 2,
+      "bit_rate": 256000,
+      "bytes": 360385
+    },
+    {
+      "file": "round-intro.mp3",
+      "duration": 7.656,
+      "sample_rate": 48000,
+      "channels": 2,
+      "bit_rate": 256000,
+      "bytes": 246119
+    },
+    {
+      "file": "round-end.mp3",
+      "duration": 6.84,
+      "sample_rate": 48000,
+      "channels": 2,
+      "bit_rate": 256000,
+      "bytes": 219963
+    },
+    {
+      "file": "final-thinking-30.mp3",
+      "duration": 30.024,
+      "sample_rate": 48000,
+      "channels": 2,
+      "bit_rate": 256000,
+      "bytes": 961740
+    },
+    {
+      "file": "final-thinking-45.mp3",
+      "duration": 45.024,
+      "sample_rate": 48000,
+      "channels": 2,
+      "bit_rate": 256000,
+      "bytes": 1441580
+    },
+    {
+      "file": "final-thinking-60.mp3",
+      "duration": 60.024,
+      "sample_rate": 48000,
+      "channels": 2,
+      "bit_rate": 256000,
+      "bytes": 1921580
+    },
+    {
+      "file": "winner-loop.mp3",
+      "duration": 69.552,
+      "sample_rate": 48000,
+      "channels": 2,
+      "bit_rate": 256000,
+      "bytes": 2226623
+    },
+    {
+      "file": "wrong-answer.mp3",
+      "duration": 1.584,
+      "sample_rate": 48000,
+      "channels": 2,
+      "bit_rate": 256000,
+      "bytes": 51500
+    },
+    {
+      "file": "double-fanfare.mp3",
+      "duration": 4.848,
+      "sample_rate": 48000,
+      "channels": 2,
+      "bit_rate": 256000,
+      "bytes": 156263
+    },
+    {
+      "file": "scramble.mp3",
+      "duration": 1.416,
+      "sample_rate": 48000,
+      "channels": 2,
+      "bit_rate": 256000,
+      "bytes": 46124
+    }
+  ]
+}

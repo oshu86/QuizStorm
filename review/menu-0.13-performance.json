@@ -1,0 +1,86 @@
+[
+  {
+    "name": "chromium",
+    "version": "original/QuizStorm",
+    "mode": "animated",
+    "frames": 52,
+    "median": 33.40000000000009
+  },
+  {
+    "name": "chromium",
+    "version": "original/QuizStorm",
+    "mode": "promoted",
+    "frames": 47,
+    "median": 49.899999999999636
+  },
+  {
+    "name": "chromium",
+    "version": "original/QuizStorm",
+    "mode": "static",
+    "frames": 115,
+    "median": 16.699999999999818
+  },
+  {
+    "name": "chromium",
+    "version": "QuizStorm",
+    "mode": "animated",
+    "frames": 121,
+    "median": 16.699999999999818
+  },
+  {
+    "name": "chromium",
+    "version": "QuizStorm",
+    "mode": "promoted",
+    "frames": 120,
+    "median": 16.699999999999818
+  },
+  {
+    "name": "chromium",
+    "version": "QuizStorm",
+    "mode": "static",
+    "frames": 121,
+    "median": 16.699999999999818
+  },
+  {
+    "name": "webkit",
+    "version": "original/QuizStorm",
+    "mode": "animated",
+    "frames": 2,
+    "median": 1983
+  },
+  {
+    "name": "webkit",
+    "version": "original/QuizStorm",
+    "mode": "promoted",
+    "frames": 1,
+    "median": 2148
+  },
+  {
+    "name": "webkit",
+    "version": "original/QuizStorm",
+    "mode": "static",
+    "frames": 6,
+    "median": 16
+  },
+  {
+    "name": "webkit",
+    "version": "QuizStorm",
+    "mode": "animated",
+    "frames": 10,
+    "median": 200
+  },
+  {
+    "name": "webkit",
+    "version": "QuizStorm",
+    "mode": "promoted",
+    "frames": 10,
+    "median": 218
+  },
+  {
+    "name": "webkit",
+    "version": "QuizStorm",
+    "mode": "static",
+    "frames": 112,
+    "median": 15
+  }
+]

@@ -2,8 +2,8 @@
   "games": 1000,
   "ordinaryPlayed": 90000,
   "categoryChanges": 6000,
-  "ordinaryAlternativesObserved": 2500,
-  "finalAlternativesObserved": 80,
+  "ordinaryAlternativesObserved": 5000,
+  "finalAlternativesObserved": 120,
   "reloadCases": 6,
   "legacySaveCompatibility": true,
   "excessiveCategorySwaps": true

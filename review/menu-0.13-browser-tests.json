@@ -1,0 +1,262 @@
+[
+  {
+    "browser": "chromium",
+    "viewport": [
+      1440,
+      1000
+    ],
+    "layout": {
+      "width": 1440,
+      "scroll": 1440,
+      "images": true,
+      "animations": 37,
+      "filters": 0
+    },
+    "closedTransformOpacityLoops": true,
+    "reducedMotion": true,
+    "pause": true,
+    "startGame": true,
+    "timing": {
+      "frames": 134,
+      "medianMs": 16.700000000000045,
+      "p95Ms": 33.40000000000009,
+      "over50ms": 1
+    },
+    "errors": []
+  },
+  {
+    "browser": "chromium",
+    "viewport": [
+      1920,
+      1080
+    ],
+    "layout": {
+      "width": 1920,
+      "scroll": 1920,
+      "images": true,
+      "animations": 37,
+      "filters": 0
+    },
+    "closedTransformOpacityLoops": true,
+    "reducedMotion": true,
+    "pause": true,
+    "startGame": true,
+    "timing": null,
+    "errors": []
+  },
+  {
+    "browser": "chromium",
+    "viewport": [
+      768,
+      1024
+    ],
+    "layout": {
+      "width": 768,
+      "scroll": 768,
+      "images": true,
+      "animations": 37,
+      "filters": 0
+    },
+    "closedTransformOpacityLoops": true,
+    "reducedMotion": true,
+    "pause": true,
+    "startGame": true,
+    "timing": null,
+    "errors": []
+  },
+  {
+    "browser": "chromium",
+    "viewport": [
+      390,
+      844
+    ],
+    "layout": {
+      "width": 390,
+      "scroll": 390,
+      "images": true,
+      "animations": 15,
+      "filters": 0
+    },
+    "closedTransformOpacityLoops": true,
+    "reducedMotion": true,
+    "pause": true,
+    "startGame": true,
+    "timing": {
+      "frames": 181,
+      "medianMs": 16.699999999999818,
+      "p95Ms": 16.799999999999727,
+      "over50ms": 0
+    },
+    "errors": []
+  },
+  {
+    "browser": "chromium",
+    "viewport": [
+      320,
+      568
+    ],
+    "layout": {
+      "width": 320,
+      "scroll": 320,
+      "images": true,
+      "animations": 15,
+      "filters": 0
+    },
+    "closedTransformOpacityLoops": true,
+    "reducedMotion": true,
+    "pause": true,
+    "startGame": true,
+    "timing": null,
+    "errors": []
+  },
+  {
+    "browser": "chromium",
+    "viewport": [
+      844,
+      390
+    ],
+    "layout": {
+      "width": 844,
+      "scroll": 844,
+      "images": true,
+      "animations": 37,
+      "filters": 0
+    },
+    "closedTransformOpacityLoops": true,
+    "reducedMotion": true,
+    "pause": true,
+    "startGame": true,
+    "timing": null,
+    "errors": []
+  },
+  {
+    "browser": "webkit",
+    "viewport": [
+      1440,
+      1000
+    ],
+    "layout": {
+      "width": 1440,
+      "scroll": 1440,
+      "images": true,
+      "animations": 37,
+      "filters": 0
+    },
+    "closedTransformOpacityLoops": true,
+    "reducedMotion": true,
+    "pause": true,
+    "startGame": true,
+    "timing": {
+      "frames": 28,
+      "medianMs": 109,
+      "p95Ms": 121,
+      "over50ms": 28
+    },
+    "errors": []
+  },
+  {
+    "browser": "webkit",
+    "viewport": [
+      1920,
+      1080
+    ],
+    "layout": {
+      "width": 1920,
+      "scroll": 1920,
+      "images": true,
+      "animations": 37,
+      "filters": 0
+    },
+    "closedTransformOpacityLoops": true,
+    "reducedMotion": true,
+    "pause": true,
+    "startGame": true,
+    "timing": null,
+    "errors": []
+  },
+  {
+    "browser": "webkit",
+    "viewport": [
+      768,
+      1024
+    ],
+    "layout": {
+      "width": 768,
+      "scroll": 768,
+      "images": true,
+      "animations": 37,
+      "filters": 0
+    },
+    "closedTransformOpacityLoops": true,
+    "reducedMotion": true,
+    "pause": true,
+    "startGame": true,
+    "timing": null,
+    "errors": []
+  },
+  {
+    "browser": "webkit",
+    "viewport": [
+      390,
+      844
+    ],
+    "layout": {
+      "width": 390,
+      "scroll": 390,
+      "images": true,
+      "animations": 15,
+      "filters": 0
+    },
+    "closedTransformOpacityLoops": true,
+    "reducedMotion": true,
+    "pause": true,
+    "startGame": true,
+    "timing": {
+      "frames": 15,
+      "medianMs": 197,
+      "p95Ms": 242,
+      "over50ms": 15
+    },
+    "errors": []
+  },
+  {
+    "browser": "webkit",
+    "viewport": [
+      320,
+      568
+    ],
+    "layout": {
+      "width": 320,
+      "scroll": 320,
+      "images": true,
+      "animations": 15,
+      "filters": 0
+    },
+    "closedTransformOpacityLoops": true,
+    "reducedMotion": true,
+    "pause": true,
+    "startGame": true,
+    "timing": null,
+    "errors": []
+  },
+  {
+    "browser": "webkit",
+    "viewport": [
+      844,
+      390
+    ],
+    "layout": {
+      "width": 844,
+      "scroll": 844,
+      "images": true,
+      "animations": 37,
+      "filters": 0
+    },
+    "closedTransformOpacityLoops": true,
+    "reducedMotion": true,
+    "pause": true,
+    "startGame": true,
+    "timing": null,
+    "errors": []
+  }
+]

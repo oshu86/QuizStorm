@@ -1,0 +1,102 @@
+[
+  {
+    "engine": "chromium",
+    "width": 2559,
+    "artOrder": [
+      "julius",
+      "joan",
+      "leonardo",
+      "isac",
+      "neil",
+      "elon"
+    ],
+    "opacity": 0.6,
+    "reroll": true,
+    "manualCategoryChange": true,
+    "nextRound": true,
+    "pulse": {
+      "min": 1,
+      "max": 2.5,
+      "rest": 1,
+      "peak": 2.5,
+      "nextPeak": 2.5,
+      "reset": 1,
+      "maxStep": 0.002812494140622457
+    }
+  },
+  {
+    "engine": "chromium",
+    "width": 390,
+    "artOrder": [
+      "julius",
+      "joan",
+      "leonardo",
+      "isac",
+      "neil",
+      "elon"
+    ],
+    "opacity": 0.6,
+    "reroll": true,
+    "manualCategoryChange": true,
+    "nextRound": true,
+    "pulse": {
+      "min": 1,
+      "max": 2.5,
+      "rest": 1,
+      "peak": 2.5,
+      "nextPeak": 2.5,
+      "reset": 1,
+      "maxStep": 0.002812494140622457
+    }
+  },
+  {
+    "engine": "webkit",
+    "width": 2559,
+    "artOrder": [
+      "julius",
+      "joan",
+      "leonardo",
+      "isac",
+      "neil",
+      "elon"
+    ],
+    "opacity": 0.6,
+    "reroll": true,
+    "manualCategoryChange": true,
+    "nextRound": true,
+    "pulse": {
+      "min": 1,
+      "max": 2.5,
+      "rest": 1,
+      "peak": 2.5,
+      "nextPeak": 2.5,
+      "reset": 1,
+      "maxStep": 0.002812494140622457
+    }
+  },
+  {
+    "engine": "webkit",
+    "width": 390,
+    "artOrder": [
+      "julius",
+      "joan",
+      "leonardo",
+      "isac",
+      "neil",
+      "elon"
+    ],
+    "opacity": 0.6,
+    "reroll": true,
+    "manualCategoryChange": true,
+    "nextRound": true,
+    "pulse": {
+      "min": 1,
+      "max": 2.5,
+      "rest": 1,
+      "peak": 2.5,
+      "nextPeak": 2.5,
+      "reset": 1,
+      "maxStep": 0.002812494140622457
+    }
+  }
+]

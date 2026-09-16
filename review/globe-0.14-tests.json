@@ -1,0 +1,108 @@
+[
+  {
+    "browser": "chromium",
+    "width": 880,
+    "height": 880,
+    "mode": "webgl",
+    "points": 15289,
+    "active": true,
+    "draws": 3,
+    "reducedMotion": true,
+    "visibilityPause": true,
+    "menuRoundTrip": true,
+    "clue": true,
+    "finalHidden": true,
+    "errors": []
+  },
+  {
+    "browser": "chromium",
+    "width": 731,
+    "height": 731,
+    "mode": "webgl",
+    "points": 10003,
+    "active": true,
+    "draws": 3,
+    "reducedMotion": true,
+    "visibilityPause": true,
+    "menuRoundTrip": true,
+    "clue": true,
+    "finalHidden": true,
+    "errors": []
+  },
+  {
+    "browser": "chromium",
+    "width": 410,
+    "height": 410,
+    "mode": "webgl",
+    "points": 15289,
+    "active": true,
+    "draws": 3,
+    "reducedMotion": true,
+    "visibilityPause": true,
+    "menuRoundTrip": true,
+    "clue": true,
+    "finalHidden": true,
+    "errors": []
+  },
+  {
+    "browser": "chromium",
+    "forcedNoWebGL": "pass"
+  },
+  {
+    "browser": "chromium",
+    "localFile": "pass"
+  },
+  {
+    "browser": "webkit",
+    "width": 880,
+    "height": 880,
+    "mode": "webgl",
+    "points": 15289,
+    "active": true,
+    "draws": 1,
+    "reducedMotion": true,
+    "visibilityPause": true,
+    "menuRoundTrip": true,
+    "clue": true,
+    "finalHidden": true,
+    "errors": []
+  },
+  {
+    "browser": "webkit",
+    "width": 731,
+    "height": 731,
+    "mode": "webgl",
+    "points": 10003,
+    "active": true,
+    "draws": 1,
+    "reducedMotion": true,
+    "visibilityPause": true,
+    "menuRoundTrip": true,
+    "clue": true,
+    "finalHidden": true,
+    "errors": []
+  },
+  {
+    "browser": "webkit",
+    "width": 410,
+    "height": 410,
+    "mode": "webgl",
+    "points": 15289,
+    "active": true,
+    "draws": 1,
+    "reducedMotion": true,
+    "visibilityPause": true,
+    "menuRoundTrip": true,
+    "clue": true,
+    "finalHidden": true,
+    "errors": []
+  },
+  {
+    "browser": "webkit",
+    "forcedNoWebGL": "pass"
+  },
+  {
+    "browser": "webkit",
+    "localFile": "pass"
+  }
+]

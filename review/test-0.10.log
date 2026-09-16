@@ -1,0 +1,6 @@
+PASS: blurred-answer toggle, immediate close on right/no-answer, wrong-answer lockout and scoring, timers, double chance, rounds, final, and 50 unique random boards.
+PASS: selection starts timer, manual pause/resume, failed-player lockout and double timer starts only after reveal.
+PASS: reveal preserves running/paused timers and deadlines; exact time options and menu cleanup.
+PASS: score editing, negative/zero totals, invalid input, cancellation and unchanged turn.
+PASS: full-board dice reroll before lock and confirmed round-skip control.
+PASS: easy/normal/hard pool mapping, unchanged tile values, unique questions and menu difficulty selector.

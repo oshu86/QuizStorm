@@ -1,0 +1,102 @@
+[
+  {
+    "engine": "chromium",
+    "styles": [
+      {
+        "filter": "grayscale(1)",
+        "opacity": "0.6",
+        "url": "url(\"file:///C:/Users/Oscar%20Hultgren/Documents/Codex/2026-09-16/referenced-chatgpt-conversation-this-is-an/work/QuizStorm-0.19/dist/assets/categories/julius.webp\")"
+      },
+      {
+        "filter": "grayscale(1)",
+        "opacity": "0.6",
+        "url": "url(\"file:///C:/Users/Oscar%20Hultgren/Documents/Codex/2026-09-16/referenced-chatgpt-conversation-this-is-an/work/QuizStorm-0.19/dist/assets/categories/joan.webp\")"
+      },
+      {
+        "filter": "grayscale(1)",
+        "opacity": "0.6",
+        "url": "url(\"file:///C:/Users/Oscar%20Hultgren/Documents/Codex/2026-09-16/referenced-chatgpt-conversation-this-is-an/work/QuizStorm-0.19/dist/assets/categories/leonardo.webp\")"
+      },
+      {
+        "filter": "grayscale(1)",
+        "opacity": "0.6",
+        "url": "url(\"file:///C:/Users/Oscar%20Hultgren/Documents/Codex/2026-09-16/referenced-chatgpt-conversation-this-is-an/work/QuizStorm-0.19/dist/assets/categories/isac.webp\")"
+      },
+      {
+        "filter": "grayscale(1)",
+        "opacity": "0.6",
+        "url": "url(\"file:///C:/Users/Oscar%20Hultgren/Documents/Codex/2026-09-16/referenced-chatgpt-conversation-this-is-an/work/QuizStorm-0.19/dist/assets/categories/neil.webp\")"
+      },
+      {
+        "filter": "grayscale(1)",
+        "opacity": "0.6",
+        "url": "url(\"file:///C:/Users/Oscar%20Hultgren/Documents/Codex/2026-09-16/referenced-chatgpt-conversation-this-is-an/work/QuizStorm-0.19/dist/assets/categories/elon.webp\")"
+      }
+    ],
+    "white": {
+      "opaque": 130400,
+      "tinted": 0,
+      "opacity": "1",
+      "pulse": 2.5
+    },
+    "audio": {
+      "plays": 1,
+      "duration": 2.0135,
+      "ended": true,
+      "error": null
+    },
+    "mute": true,
+    "activeAndSpentGuard": true,
+    "doubleCue": true
+  },
+  {
+    "engine": "webkit",
+    "styles": [
+      {
+        "filter": "grayscale(1)",
+        "opacity": "0.6",
+        "url": "url(\"file:///C:/Users/Oscar%20Hultgren/Documents/Codex/2026-09-16/referenced-chatgpt-conversation-this-is-an/work/QuizStorm-0.19/dist/assets/categories/julius.webp\")"
+      },
+      {
+        "filter": "grayscale(1)",
+        "opacity": "0.6",
+        "url": "url(\"file:///C:/Users/Oscar%20Hultgren/Documents/Codex/2026-09-16/referenced-chatgpt-conversation-this-is-an/work/QuizStorm-0.19/dist/assets/categories/joan.webp\")"
+      },
+      {
+        "filter": "grayscale(1)",
+        "opacity": "0.6",
+        "url": "url(\"file:///C:/Users/Oscar%20Hultgren/Documents/Codex/2026-09-16/referenced-chatgpt-conversation-this-is-an/work/QuizStorm-0.19/dist/assets/categories/leonardo.webp\")"
+      },
+      {
+        "filter": "grayscale(1)",
+        "opacity": "0.6",
+        "url": "url(\"file:///C:/Users/Oscar%20Hultgren/Documents/Codex/2026-09-16/referenced-chatgpt-conversation-this-is-an/work/QuizStorm-0.19/dist/assets/categories/isac.webp\")"
+      },
+      {
+        "filter": "grayscale(1)",
+        "opacity": "0.6",
+        "url": "url(\"file:///C:/Users/Oscar%20Hultgren/Documents/Codex/2026-09-16/referenced-chatgpt-conversation-this-is-an/work/QuizStorm-0.19/dist/assets/categories/neil.webp\")"
+      },
+      {
+        "filter": "grayscale(1)",
+        "opacity": "0.6",
+        "url": "url(\"file:///C:/Users/Oscar%20Hultgren/Documents/Codex/2026-09-16/referenced-chatgpt-conversation-this-is-an/work/QuizStorm-0.19/dist/assets/categories/elon.webp\")"
+      }
+    ],
+    "white": {
+      "opaque": 130325,
+      "tinted": 0,
+      "opacity": "1",
+      "pulse": 2.5
+    },
+    "audio": {
+      "plays": 1,
+      "duration": 2.04,
+      "ended": false,
+      "error": null
+    },
+    "mute": true,
+    "activeAndSpentGuard": true,
+    "doubleCue": true
+  }
+]

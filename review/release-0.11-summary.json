@@ -1,0 +1,19 @@
+{
+  "version": "0.11",
+  "bank": {"categories": 200, "ordinary": 5000, "finals": 120},
+  "sound_changes": {
+    "double_chance": "user-supplied 4.848 s synth/arpeggiator cue",
+    "round_2_3_intro": "user-supplied 7.656 s synth/arpeggiator cue",
+    "winner": "Victory Lap, 69.552 s, loops while winner screen is active",
+    "scramble": "new original 1.416 s 48 kHz stereo shuffle cue",
+    "wrong_answer": "new original 1.584 s 48 kHz stereo deep BEEE-BOOOP horn cue"
+  },
+  "tests": {
+    "build_bank": "pass",
+    "game": "pass",
+    "effects": "pass",
+    "difficulty": "pass: 1000 games / 3000 boards",
+    "variation": "pass: 1000 games / 90000 ordinary tiles / all 5000 ordinary alternatives / all 120 finals",
+    "audio": "pass: all 11 files decode as 48 kHz stereo"
+  }
+}

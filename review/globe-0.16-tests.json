@@ -1,0 +1,138 @@
+[
+  {
+    "browser": "chromium",
+    "width": 1280,
+    "height": 1280,
+    "mode": "webgl",
+    "points": 15289,
+    "active": true,
+    "draws": 3,
+    "reducedMotion": true,
+    "visibilityPause": true,
+    "menuRoundTrip": true,
+    "clue": true,
+    "finalHidden": true,
+    "errors": []
+  },
+  {
+    "browser": "chromium",
+    "width": 1059,
+    "height": 1059,
+    "mode": "webgl",
+    "points": 15289,
+    "active": true,
+    "draws": 3,
+    "reducedMotion": true,
+    "visibilityPause": true,
+    "menuRoundTrip": true,
+    "clue": true,
+    "finalHidden": true,
+    "errors": []
+  },
+  {
+    "browser": "chromium",
+    "width": 777,
+    "height": 777,
+    "mode": "webgl",
+    "points": 10003,
+    "active": true,
+    "draws": 3,
+    "reducedMotion": true,
+    "visibilityPause": true,
+    "menuRoundTrip": true,
+    "clue": true,
+    "finalHidden": true,
+    "errors": []
+  },
+  {
+    "browser": "chromium",
+    "width": 453,
+    "height": 453,
+    "mode": "webgl",
+    "points": 15289,
+    "active": true,
+    "draws": 4,
+    "reducedMotion": true,
+    "visibilityPause": true,
+    "menuRoundTrip": true,
+    "clue": true,
+    "finalHidden": true,
+    "errors": []
+  },
+  {
+    "browser": "chromium",
+    "forcedNoWebGL": "pass"
+  },
+  {
+    "browser": "chromium",
+    "localFile": "pass"
+  },
+  {
+    "browser": "webkit",
+    "width": 1280,
+    "height": 1280,
+    "mode": "webgl",
+    "points": 15289,
+    "active": true,
+    "draws": 1,
+    "reducedMotion": true,
+    "visibilityPause": true,
+    "menuRoundTrip": true,
+    "clue": true,
+    "finalHidden": true,
+    "errors": []
+  },
+  {
+    "browser": "webkit",
+    "width": 1059,
+    "height": 1059,
+    "mode": "webgl",
+    "points": 15289,
+    "active": true,
+    "draws": 1,
+    "reducedMotion": true,
+    "visibilityPause": true,
+    "menuRoundTrip": true,
+    "clue": true,
+    "finalHidden": true,
+    "errors": []
+  },
+  {
+    "browser": "webkit",
+    "width": 777,
+    "height": 777,
+    "mode": "webgl",
+    "points": 10003,
+    "active": true,
+    "draws": 1,
+    "reducedMotion": true,
+    "visibilityPause": true,
+    "menuRoundTrip": true,
+    "clue": true,
+    "finalHidden": true,
+    "errors": []
+  },
+  {
+    "browser": "webkit",
+    "width": 453,
+    "height": 453,
+    "mode": "webgl",
+    "points": 15289,
+    "active": true,
+    "draws": 1,
+    "reducedMotion": true,
+    "visibilityPause": true,
+    "menuRoundTrip": true,
+    "clue": true,
+    "finalHidden": true,
+    "errors": []
+  },
+  {
+    "browser": "webkit",
+    "forcedNoWebGL": "pass"
+  },
+  {
+    "browser": "webkit",
+    "localFile": "pass"
+  }
+]

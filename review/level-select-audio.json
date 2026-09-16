@@ -1,0 +1,9 @@
+{
+  "sampleRate": 48000,
+  "channels": 2,
+  "duration": 0.28,
+  "peak": 0.6199951171875,
+  "mean": 0.0003331036794753302,
+  "encoding": "PCM signed 16-bit",
+  "clipping": false
+}

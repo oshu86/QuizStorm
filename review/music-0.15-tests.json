@@ -1,0 +1,13 @@
+[
+  {
+    "engine": "chromium",
+    "before": 0.61554,
+    "currentTime": 1.161972,
+    "paused": false,
+    "pauses": 0,
+    "seeks": 0,
+    "instances": 1,
+    "mutedStaysMuted": true,
+    "gameStartStopsMenu": true
+  }
+]

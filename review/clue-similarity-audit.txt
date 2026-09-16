@@ -1,0 +1,31 @@
+pairs 10
+ 95.6 | aldrig [Ordspråk:4] <> illa fäkta [Ordspråk:22]
+  Fyll i slutet av ordspråket: ”Bättre sent än …”.
+  Fyll i slutet av ordspråket: ”Bättre fly än …”.
+ 93.0 | babord [Sjöfart:1811] <> styrbord [Sjöfart:1812]
+  När man tittar framåt på ett fartyg kallas vänster sida med detta nautiska ord och markeras med rött ljus.
+  När man tittar framåt kallas höger sida på ett fartyg med detta ord och markeras med grönt ljus.
+ 92.0 | än tio i skogen [Ordspråk:9] <> illa fäkta [Ordspråk:22]
+  Fyll i slutet av ordspråket: ”Bättre en fågel i handen …”.
+  Fyll i slutet av ordspråket: ”Bättre fly än …”.
+ 91.1 | innan man är över bäcken [Ordspråk:8] <> i glashus [Ordspråk:12]
+  Fyll i slutet av ordspråket: ”Man ska inte ropa hej …”.
+  Fyll i slutet av ordspråket: ”Man ska inte kasta sten …”.
+ 91.1 | innan man är över bäcken [Ordspråk:8] <> han kommer [Ordspråk:18]
+  Fyll i slutet av ordspråket: ”Man ska inte ropa hej …”.
+  Fyll i slutet av ordspråket: ”Man ska inte måla fan på väggen förrän …”.
+ 91.1 | innan man är över bäcken [Ordspråk:8] <> innan kvällen kommer [Ordspråk:23]
+  Fyll i slutet av ordspråket: ”Man ska inte ropa hej …”.
+  Fyll i slutet av ordspråket: ”Man ska inte prisa dagen …”.
+ 90.9 | aldrig [Ordspråk:4] <> än tio i skogen [Ordspråk:9]
+  Fyll i slutet av ordspråket: ”Bättre sent än …”.
+  Fyll i slutet av ordspråket: ”Bättre en fågel i handen …”.
+ 89.3 | i glashus [Ordspråk:12] <> han kommer [Ordspråk:18]
+  Fyll i slutet av ordspråket: ”Man ska inte kasta sten …”.
+  Fyll i slutet av ordspråket: ”Man ska inte måla fan på väggen förrän …”.
+ 89.3 | i glashus [Ordspråk:12] <> innan kvällen kommer [Ordspråk:23]
+  Fyll i slutet av ordspråket: ”Man ska inte kasta sten …”.
+  Fyll i slutet av ordspråket: ”Man ska inte prisa dagen …”.
+ 88.5 | han kommer [Ordspråk:18] <> innan kvällen kommer [Ordspråk:23]
+  Fyll i slutet av ordspråket: ”Man ska inte måla fan på väggen förrän …”.
+  Fyll i slutet av ordspråket: ”Man ska inte prisa dagen …”.
