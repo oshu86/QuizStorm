@@ -1,0 +1,27 @@
+/* 0.20: quiet independent motion, behind all controls. */
+.menu-shell .menu-scene{position:fixed;inset:0;width:100%;height:100svh;opacity:1}
+.menu-shell .menu-scene .menu-person{display:none}
+.menu-scene .menu-floaters .floater{display:block;left:0;top:0;right:auto;bottom:auto;width:clamp(52px,8vw,120px);animation:none;opacity:0;will-change:transform,opacity}
+.menu-scene .manifestation{position:absolute;z-index:3;pointer-events:none;will-change:transform,opacity;opacity:0;transform-origin:center}
+.manifestation .manifest-portrait{display:block;width:100%;height:100%;object-fit:contain;filter:grayscale(1);-webkit-mask-image:radial-gradient(ellipse at 50% 40%,#000 28%,#000a 53%,transparent 73%);mask-image:radial-gradient(ellipse at 50% 40%,#000 28%,#000a 53%,transparent 73%)}
+.manifest-mist{position:absolute;inset:20% -25% -15%;width:150%;height:95%;object-fit:contain;opacity:.48;mix-blend-mode:screen;animation:manifestSmoke 19s ease-in-out infinite alternate}
+@keyframes manifestSmoke{from{transform:translate(-3%,2%) scale(1,.9) skew(-5deg,-2deg)}to{transform:translate(4%,-3%) scale(1.1,1.04) skew(5deg,3deg)}}
+#board-stars{display:none;position:fixed;inset:0;overflow:hidden;pointer-events:none;z-index:0}
+.board-atmosphere-active #board-stars{display:block}
+body.playing #app{position:relative;z-index:1}
+.distant-star{position:absolute;width:var(--size);height:var(--size);margin-left:calc(var(--size) / -2);margin-top:calc(var(--size) / -2);opacity:var(--star-opacity,.3);mix-blend-mode:screen;animation:starDrift var(--drift) ease-in-out var(--delay) infinite alternate}
+.distant-star img{width:100%;height:100%;object-fit:contain;filter:grayscale(1);animation:starTwinkle var(--twinkle) ease-in-out var(--delay) infinite}
+@keyframes starDrift{from{transform:translate(calc(var(--dx) * -.6),calc(var(--dy) * -.6))}to{transform:translate(var(--dx),var(--dy))}}
+@keyframes starTwinkle{0%,100%{opacity:.2;transform:scale(.88)}50%{opacity:.85;transform:scale(1.08)}}
+html.menu-motion-paused #board-stars *{animation-play-state:paused!important}
+@media(prefers-reduced-motion:reduce){.manifest-mist,#board-stars *{animation:none!important}.distant-star img{opacity:.45}}
+
+/* Only the photographic background is displaced, never the board or its text. */
+body.board-atmosphere-active .backdrop{inset:-24px;filter:url(#board-cloud-displacement)}
+.board-displacement-defs{position:absolute;width:0;height:0;overflow:hidden;pointer-events:none}
+.near-star img{animation-name:nearStarTwinkle}
+@keyframes nearStarTwinkle{0%,100%{opacity:.32;transform:scale(.91)}50%{opacity:1;transform:scale(1.13)}}
+#board-stars *{animation-play-state:paused}
+.board-atmosphere-active #board-stars *{animation-play-state:running}
+@media(max-width:700px){.distant-star:nth-child(n+23){display:none}}
+@media(prefers-reduced-motion:reduce){body.board-atmosphere-active .backdrop{filter:none;inset:0}}

@@ -3,23 +3,25 @@
 const QuizEffects=(()=>{
  let enabled=true,context=null,stopCelebration=null,media={};
  try{enabled=localStorage.getItem('quizstorm-sound')!=='off'}catch{}
- const mediaFiles={menu:'assets/audio/menu-music.mp3',launch:'assets/audio/game-launch.mp3',intro:'assets/audio/round-intro.mp3',roundEnd:'assets/audio/round-end.mp3',thinking30:'assets/audio/final-thinking-30.mp3',thinking45:'assets/audio/final-thinking-45.mp3',thinking60:'assets/audio/final-thinking-60.mp3',winner:'assets/audio/winner-loop.mp3',wrong:'assets/audio/wrong-answer.mp3',double:'assets/audio/double-fanfare.mp3',scramble:'assets/audio/scramble.mp3',level:'assets/audio/level-select.mp3'};
- let activeThinking=null;
+ const mediaFiles={menu:'assets/audio/menu-music.mp3',launch:'assets/audio/game-launch.mp3',intro:'assets/audio/round-intro.mp3',roundEnd:'assets/audio/round-end.mp3',thinking30:'assets/audio/final-thinking-30.mp3',thinking45:'assets/audio/final-thinking-45.mp3',thinking60:'assets/audio/final-thinking-60.mp3',winner:'assets/audio/winner-loop.mp3',correct:'assets/audio/answer-correct.mp3',wrong:'assets/audio/wrong-answer.mp3',double:'assets/audio/double-fanfare.mp3',scramble:'assets/audio/scramble.mp3',level:'assets/audio/level-select.mp3'};
+ let activeThinking=null,menuRequested=false;
+ function retryMenuAutoplay(){if(menuRequested&&enabled&&!document.hidden&&media.menu?.paused)playMedia('menu',{loop:true,restart:false,volume:.32})}
  function getAudio(name){
   if(media[name])return media[name];
-  try{const A=window.Audio;if(typeof A!=='function')return null;const a=new A(mediaFiles[name]);a.preload='auto';a.playsInline=true;media[name]=a;return a}catch{return null}
+  try{const A=window.Audio;if(typeof A!=='function')return null;const a=new A(mediaFiles[name]);a.preload='auto';a.playsInline=true;media[name]=a;if(name==='menu'){a.loop=true;a.volume=.32;a.addEventListener?.('canplay',retryMenuAutoplay,{once:true})}return a}catch{return null}
  }
  function unlock(){if(!enabled)return;try{const AudioCtx=window.AudioContext||window.webkitAudioContext;if(!AudioCtx)return;context ||= new AudioCtx();if(context.state==='suspended')void context.resume().catch(()=>{});}catch{}}
  function pauseMedia(name,reset=false){const a=media[name];if(!a)return;try{a.pause();if(reset)a.currentTime=0}catch{}}
- function stopPersistent(reset=true){for(const name of ['thinking30','thinking45','thinking60'])pauseMedia(name,reset);activeThinking=null;pauseMedia('menu',reset);pauseMedia('launch',true);pauseMedia('winner',reset);pauseMedia('intro',true);pauseMedia('roundEnd',true);pauseMedia('wrong',true);pauseMedia('double',true);pauseMedia('scramble',true);pauseMedia('level',true);if(stopCelebration){const stop=stopCelebration;stopCelebration=null;stop()}}
+ function stopPersistent(reset=true){menuRequested=false;for(const name of ['thinking30','thinking45','thinking60'])pauseMedia(name,reset);activeThinking=null;pauseMedia('menu',reset);pauseMedia('launch',true);pauseMedia('winner',reset);pauseMedia('intro',true);pauseMedia('roundEnd',true);pauseMedia('wrong',true);pauseMedia('correct',true);pauseMedia('double',true);pauseMedia('scramble',true);pauseMedia('level',true);if(stopCelebration){const stop=stopCelebration;stopCelebration=null;stop()}}
  function toggle(){enabled=!enabled;try{localStorage.setItem('quizstorm-sound',enabled?'on':'off')}catch{}if(enabled)unlock();else for(const name of Object.keys(media))pauseMedia(name,false);document.querySelectorAll('[data-sound-toggle]').forEach(b=>{b.textContent=enabled?'Ljud på':'Ljud av';b.setAttribute('aria-pressed',String(enabled))})}
  function playMedia(name,{loop=false,restart=true,volume=.45}={}){if(!enabled)return;unlock();const a=getAudio(name);if(!a)return;try{a.loop=loop;a.volume=volume;if(restart)a.currentTime=0;const p=a.play();if(p?.catch)p.catch(()=>{})}catch{}}
  function levelSelect(){playMedia('level',{volume:.42})}
- function wrong(){playMedia('wrong',{volume:.62})}
+ function correct(){pauseMedia('wrong',true);playMedia('correct',{volume:.58})}
+ function wrong(){pauseMedia('correct',true);playMedia('wrong',{volume:.62})}
  function fanfare(){playMedia('double',{volume:.60})}
  function scramble(){playMedia('scramble',{volume:.58})}
- function menuMusic(restart=false){pauseMedia('winner',false);playMedia('menu',{loop:true,restart,volume:.32})}
- function stopMenu(reset=true){pauseMedia('menu',reset)}
+ function menuMusic(restart=false){menuRequested=true;pauseMedia('winner',false);if(!restart&&media.menu&&!media.menu.paused)return;playMedia('menu',{loop:true,restart,volume:.32})}
+ function stopMenu(reset=true){menuRequested=false;pauseMedia('menu',reset)}
  function gameLaunch(){stopMenu(true);pauseMedia('roundEnd',true);pauseMedia('intro',true);playMedia('launch',{volume:.58})}
  function roundIntro(){stopMenu(true);pauseMedia('launch',true);pauseMedia('roundEnd',true);playMedia('intro',{volume:.38})}
  function roundEnd(){pauseMedia('launch',true);pauseMedia('intro',true);playMedia('roundEnd',{volume:.48})}
@@ -47,9 +49,10 @@ const QuizEffects=(()=>{
   const fallback=continuous?null:setTimeout(finish,seconds*1000+300);stopCelebration=finish;resize();window.addEventListener('resize',resize);frame=window.requestAnimationFrame(tick);
  }
  function stopWinner(){if(stopCelebration){const stop=stopCelebration;stopCelebration=null;stop()}else pauseMedia('winner',true)}
- function stop(){if(stopCelebration){const stop=stopCelebration;stopCelebration=null;stop()}for(const name of ['thinking30','thinking45','thinking60'])pauseMedia(name,false);pauseMedia('menu',false);pauseMedia('launch',true);pauseMedia('intro',true);pauseMedia('roundEnd',true);pauseMedia('winner',false);pauseMedia('wrong',true);pauseMedia('double',true);pauseMedia('scramble',true);pauseMedia('level',true)}
+ function stop(){if(stopCelebration){const stop=stopCelebration;stopCelebration=null;stop()}for(const name of ['thinking30','thinking45','thinking60'])pauseMedia(name,false);pauseMedia('menu',false);pauseMedia('launch',true);pauseMedia('intro',true);pauseMedia('roundEnd',true);pauseMedia('winner',false);pauseMedia('wrong',true);pauseMedia('correct',true);pauseMedia('double',true);pauseMedia('scramble',true);pauseMedia('level',true)}
  getAudio('level'); // Small local cue preloads before the first tile press.
- document.addEventListener('visibilitychange',()=>{if(document.hidden)stop()});
+ document.addEventListener('visibilitychange',()=>{if(document.hidden)stop();else retryMenuAutoplay()});
+ window.addEventListener('pageshow',retryMenuAutoplay);
  window.addEventListener('pagehide',stop);
- return {unlock,levelSelect,wrong,scramble,menuMusic,stopMenu,gameLaunch,roundIntro,roundEnd,startFinalThinking,pauseFinalThinking,stopFinalThinking,celebrate,stopWinner,stopPersistent,toggle,stop,get enabled(){return enabled}};
+ return {unlock,levelSelect,correct,wrong,scramble,menuMusic,stopMenu,gameLaunch,roundIntro,roundEnd,startFinalThinking,pauseFinalThinking,stopFinalThinking,celebrate,stopWinner,stopPersistent,toggle,stop,get enabled(){return enabled}};
 })();
