@@ -1,58 +1,58 @@
-@Svensk musik|Vem är|Denna svenska artist {1}.
-Avicii~Tim Bergling|skapade världshits som Wake Me Up och Levels och arbetade främst med elektronisk dansmusik
-Zara Larsson|slog igenom som barn i Talang och fick internationella hits med Lush Life och Never Forget You
-Håkan Hellström|slog igenom med Känn ingen sorg för mig Göteborg och har gjort stora konserter på Ullevi
-Carola Häggkvist~Carola|slog igenom med Främling 1983 och vann Eurovision med Fångad av en stormvind
-Laleh Pourkarim~Laleh|har skapat låtar som Some Die Young och Goliat och producerar mycket av sin musik själv
-Veronica Maggio|sjunger bland annat Jag kommer och Satan i gatan och har rötter i Uppsala
-Darin Zanyar~Darin|slog igenom i Idol 2004 och har sjungit Ta mig tillbaka och En säng av rosor
-Robyn~Robin Miriam Carlsson|har internationella hits som Dancing on My Own och With Every Heartbeat
-Tomas Ledin|sjunger Sommaren är kort och Sensuella Isabella och tävlade i Eurovision med Just nu
-Lars Winnerbäck|förknippas med Linköping och låtar som Hugger i sten och Om du lämnade mig nu
-Ted Gärdestad|sjöng Sol, vind och vatten och Jag vill ha en egen måne, ofta med texter av brodern Kenneth
-Eva Dahlgren|har skapat Ängeln i rummet och Vem tänder stjärnorna och är känd för sin mörka röst
-Lisa Nilsson|fick sitt stora genombrott med Himlen runt hörnet och Varje gång jag ser dig
-Magnus Uggla|blandar satir med poprock i låtar som Kung för en dag och Varning på stan
-Melissa Horn|sjunger bland annat Lät du henne komma närmre och har en lågmäld svenskspråkig stil
-Monica Zetterlund|förenade jazz med svenska texter och sjöng Sakta vi gå genom stan
-Cornelis Vreeswijk|skrev visor om bland annat Somliga går med trasiga skor och Balladen om herr Fredrik Åkare
-Evert Taube|skrev Sjösala vals och visor om sjömän, skärgård och västkust
-Olle Adolphson|skrev bland annat Trubbel och Det gåtfulla folket och var också verksam som konstnär
-Barbro Hörberg|skrev Med ögon känsliga för grönt och var både vissångare och textförfattare
-Sophie Zelmani|slog igenom med Always 1995 och sjunger lågmäld akustiskt präglad pop på engelska
-José González~Jose Gonzalez|fick internationell uppmärksamhet med sin akustiska version av Heartbeats
-Anna Ternheim|slog igenom med albumet Somebody Outside och låten To Be Gone
-Sarah Klang|slog igenom med albumet Love in the Milky Way och har en kraftfull röst med countryinfluenser
-Daniel Norgren|har gjort album som Alabursy och blandar blues, folk och suggestiva långa låtar
+@Svensk musik|Vem är|{1}.
+Avicii~Tim Bergling|Han skapade världshits som Wake Me Up och Levels och arbetade främst med elektronisk dansmusik
+Zara Larsson|Hon slog igenom som barn i Talang och fick internationella hits med Lush Life och Never Forget You
+Håkan Hellström|Han slog igenom med Känn ingen sorg för mig Göteborg och har gjort stora konserter på Ullevi
+Carola Häggkvist~Carola|Hon slog igenom med Främling 1983 och vann Eurovision med Fångad av en stormvind
+Laleh Pourkarim~Laleh|Hon har skapat låtar som Some Die Young och Goliat och producerar mycket av sin musik själv
+Veronica Maggio|Hon sjunger bland annat Jag kommer och Satan i gatan och har rötter i Uppsala
+Darin Zanyar~Darin|Han slog igenom i Idol 2004 och har sjungit Ta mig tillbaka och En säng av rosor
+Robyn~Robin Miriam Carlsson|Hon har internationella hits som Dancing on My Own och With Every Heartbeat
+Tomas Ledin|Han sjunger Sommaren är kort och Sensuella Isabella och tävlade i Eurovision med Just nu
+Lars Winnerbäck|Han förknippas med Linköping och låtar som Hugger i sten och Om du lämnade mig nu
+Ted Gärdestad|Han sjöng Sol, vind och vatten och Jag vill ha en egen måne, ofta med texter av brodern Kenneth
+Eva Dahlgren|Hon har skapat Ängeln i rummet och Vem tänder stjärnorna och är känd för sin mörka röst
+Lisa Nilsson|Hon fick sitt stora genombrott med Himlen runt hörnet och Varje gång jag ser dig
+Magnus Uggla|Han blandar satir med poprock i låtar som Kung för en dag och Varning på stan
+Melissa Horn|Hon sjunger bland annat Lät du henne komma närmre och har en lågmäld svenskspråkig stil
+Monica Zetterlund|Hon förenade jazz med svenska texter och sjöng Sakta vi gå genom stan
+Cornelis Vreeswijk|Han skrev visor om bland annat Somliga går med trasiga skor och Balladen om herr Fredrik Åkare
+Evert Taube|Han skrev Sjösala vals och visor om sjömän, skärgård och västkust
+Olle Adolphson|Han skrev bland annat Trubbel och Det gåtfulla folket och var också verksam som konstnär
+Barbro Hörberg|Hon skrev Med ögon känsliga för grönt och var både vissångare och textförfattare
+Sophie Zelmani|Hon slog igenom med Always 1995 och sjunger lågmäld akustiskt präglad pop på engelska
+José González~Jose Gonzalez|Han fick internationell uppmärksamhet med sin akustiska version av Heartbeats
+Anna Ternheim|Hon slog igenom med albumet Somebody Outside och låten To Be Gone
+Sarah Klang|Hon slog igenom med albumet Love in the Milky Way och har en kraftfull röst med countryinfluenser
+Daniel Norgren|Han har gjort album som Alabursy och blandar blues, folk och suggestiva långa låtar
 
-@Internationella artister|Vem är|Denna artist {1}.
-Michael Jackson|kallades King of Pop och gav ut albumen Thriller och Bad
-Madonna|gav ut Like a Virgin och Like a Prayer och har ofta kallats Queen of Pop
-Elvis Presley|förknippas med rockens genombrott, Graceland och hitlåten Jailhouse Rock
-Taylor Swift|gick från country till pop och gav ut albumen 1989 och Midnights
-Beyoncé~Beyonce|var medlem i Destiny's Child och gav senare ut bland annat Lemonade
-Adele|är brittisk sångare bakom Rolling in the Deep, Someone Like You och Hello
-Ed Sheeran|är brittisk sångare och gitarrist bakom Shape of You och Thinking Out Loud
-Rihanna|kommer från Barbados och har hits som Umbrella och Diamonds
-Lady Gaga~Stefani Germanotta|slog igenom med Poker Face och spelade huvudrollen i A Star Is Born från 2018
-Elton John~Reginald Dwight|spelar piano och har sjungit Rocket Man och Your Song
-David Bowie~David Robert Jones|skapade scenfiguren Ziggy Stardust och gav ut Heroes
-Prince~Prince Rogers Nelson|var multiinstrumentalist från Minneapolis bakom Purple Rain och Kiss
-Whitney Houston|sjöng I Will Always Love You i filmen The Bodyguard
-Bruce Springsteen|kallas The Boss och gav ut Born to Run samt Born in the U.S.A.
-Dolly Parton|är countryikon bakom Jolene och 9 to 5
-Kate Bush|slog igenom med Wuthering Heights och fick förnyad uppmärksamhet för Running Up That Hill
-Tracy Chapman|slog igenom med Fast Car 1988 och är känd för sin varma röst och akustiska gitarr
-Nina Simone~Eunice Waymon|förenade jazz och medborgarrättsengagemang i bland annat Mississippi Goddam
-Joni Mitchell~Roberta Joan Anderson|gav ut albumet Blue och skrev Big Yellow Taxi
-Leonard Cohen|var kanadensisk poet och sångare bakom Suzanne och Hallelujah
-Sade Adu~Helen Folasade Adu|sjunger Smooth Operator som frontfigur i gruppen som bär hennes förnamn
-Fela Kuti|var nigeriansk bandledare och central för utvecklingen av afrobeat
-Enya~Eithne Brennan|är irländsk sångare med månglagrade röster i Orinoco Flow och Only Time
-Nick Cave|är australisk sångare i The Bad Seeds och sjöng Where the Wild Roses Grow med Kylie Minogue
-Jacques Brel|var belgisk vissångare som skrev Ne me quitte pas och sjöng på franska
+@Internationella artister|Vem är|{1}.
+Michael Jackson|Han kallades King of Pop och gav ut albumen Thriller och Bad
+Madonna|Hon gav ut Like a Virgin och Like a Prayer och har ofta kallats Queen of Pop
+Elvis Presley|Han förknippas med rockens genombrott, Graceland och hitlåten Jailhouse Rock
+Taylor Swift|Hon gick från country till pop och gav ut albumen 1989 och Midnights
+Beyoncé~Beyonce|Hon var medlem i Destiny's Child och gav senare ut bland annat Lemonade
+Adele|Hon är brittisk sångare bakom Rolling in the Deep, Someone Like You och Hello
+Ed Sheeran|Han är brittisk sångare och gitarrist bakom Shape of You och Thinking Out Loud
+Rihanna|Hon kommer från Barbados och har hits som Umbrella och Diamonds
+Lady Gaga~Stefani Germanotta|Hon slog igenom med Poker Face och spelade huvudrollen i A Star Is Born från 2018
+Elton John~Reginald Dwight|Han spelar piano och har sjungit Rocket Man och Your Song
+David Bowie~David Robert Jones|Han skapade scenfiguren Ziggy Stardust och gav ut Heroes
+Prince~Prince Rogers Nelson|Han var multiinstrumentalist från Minneapolis bakom Purple Rain och Kiss
+Whitney Houston|Hon sjöng I Will Always Love You i filmen The Bodyguard
+Bruce Springsteen|Han kallas The Boss och gav ut Born to Run samt Born in the U.S.A.
+Dolly Parton|Hon är countryikon bakom Jolene och 9 to 5
+Kate Bush|Hon slog igenom med Wuthering Heights och fick förnyad uppmärksamhet för Running Up That Hill
+Tracy Chapman|Hon slog igenom med Fast Car 1988 och är känd för sin varma röst och akustiska gitarr
+Nina Simone~Eunice Waymon|Hon förenade jazz och medborgarrättsengagemang i bland annat Mississippi Goddam
+Joni Mitchell~Roberta Joan Anderson|Hon gav ut albumet Blue och skrev Big Yellow Taxi
+Leonard Cohen|Han var kanadensisk poet och sångare bakom Suzanne och Hallelujah
+Sade Adu~Helen Folasade Adu|Hon sjunger Smooth Operator som frontfigur i gruppen som bär hennes förnamn
+Fela Kuti|Han var nigeriansk bandledare och central för utvecklingen av afrobeat
+Enya~Eithne Brennan|Hon är irländsk sångare med månglagrade röster i Orinoco Flow och Only Time
+Nick Cave|Han är australisk sångare i The Bad Seeds och sjöng Where the Wild Roses Grow med Kylie Minogue
+Jacques Brel|Han var belgisk vissångare som skrev Ne me quitte pas och sjöng på franska
 
-@Band och musikgrupper|Vilka är|Denna grupp {1}.
+@Band och musikgrupper|Vilka är|De {1}.
 ABBA|vann Eurovision 1974 och består av två kvinnor och två män från svensk pophistoria
 The Beatles|kom från Liverpool och hade medlemmarna John, Paul, George och Ringo
 Queen|hade Freddie Mercury som sångare och gav ut Bohemian Rhapsody
@@ -79,7 +79,7 @@ Massive Attack|kommer från Bristol och förknippas med triphop samt albumet Mez
 Portishead|har Beth Gibbons som sångare och gav ut triphopalbumet Dummy 1994
 The Velvet Underground|hade Lou Reed som central medlem och ett bananmotiv av Andy Warhol på sitt debutomslag
 
-@Låtar och hits|Vad är|Denna låt {1}.
+@Låtar och hits|Vad är|Låten {1}.
 Dancing Queen|är en ABBA-hit från 1976 där en sjuttonåring står i centrum på dansgolvet
 Happy Birthday to You|är en engelskspråkig födelsedagssång som sjungs världen över innan ljusen blåses ut
 Last Christmas|är Wham!-låten från 1984 som återkommer på spellistor varje december
@@ -106,7 +106,7 @@ Wichita Lineman|är Jimmy Webbs låt, berömd med Glen Campbell, om en ensam tel
 Gimme Shelter|är Rolling Stones-låten där Merry Claytons intensiva gästsång möter Mick Jaggers röst
 Teardrop|är Massive Attacks låt med Elizabeth Fraser på sång vars musik användes till tv-serien House
 
-@Melodifestivalen och Eurovision|Vad är|Detta tävlingsbidrag {1}.
+@Melodifestivalen och Eurovision|Vad är|Bidraget {1}.
 Waterloo|gav Sverige dess första Eurovisionseger 1974 med ABBA
 Euphoria|vann Eurovision 2012 för Sverige med Loreen i svepande rörelser och barfotaframträdande
 Fångad av en stormvind|gav Carola Eurovisionsegern i Rom 1991 efter samma poäng som Frankrikes bidrag
@@ -144,15 +144,15 @@ en powerballad|Denna typ av känsloladdad rocklåt börjar ofta lugnt och växer
 punk|Denna musikrörelse från 1970-talet förknippas med korta råa låtar, protest och gör-det-själv-attityd.
 heavy metal|Denna rockgenre kännetecknas ofta av tung distad gitarr, starka riff och kraftfull sång.
 disco|Denna dansmusikstil från 1970-talet förknippas med fyrtaktsbastrumma, glittriga klubbar och stråkar.
-grunge|Denna rockstil förknippas med Seattle, distade gitarrer och band som Nirvana och Pearl Jam.
+grunge|Den förknippas med Seattle, distade gitarrer och band som Nirvana och Pearl Jam.
 britpop|Denna brittiska 1990-talsvåg förknippas med rivaliteten mellan Blur och Oasis.
-synthpop|I denna popstil har elektroniska klaviaturinstrument en framträdande roll, som hos Depeche Mode.
+synthpop|Här har elektroniska klaviaturinstrument en framträdande roll, som hos Depeche Mode.
 reggae|Denna jamaicanska musikstil har ofta tydliga markeringar på efterslagen och förknippas med Bob Marley.
 ska|Denna föregångare till reggae från Jamaica har ofta snabbare tempo och markerade efterslag med blås.
 progressiv rock~progrock|Denna rockinriktning använder gärna långa kompositioner, taktartsbyten och konceptalbum.
 shoegaze|Denna gitarrbaserade stil bygger ofta täta effektfyllda ljudväggar och förknippas med My Bloody Valentine.
 new wave|Denna stilbeteckning efter punkens genombrott omfattar ofta kantig pop och elektroniska inslag hos band som Blondie.
-glamrock|Denna 1970-talsstil kombinerade rock med glitter, smink och teatrala scenkläder.
+glamrock|Den kombinerade rock med glitter, smink och teatrala scenkläder.
 rockabilly|Denna tidiga rockstil blandar country med rhythm and blues och förknippas med ståbas och bakåtkammat hår.
 en brygga|Denna kontrasterande låtdel länkar ofta samman större delar och kallas på engelska bridge.
 en hook|Detta korta melodiska eller rytmiska inslag är gjort för att fastna i lyssnarens minne.
@@ -160,61 +160,61 @@ en backbeat|Denna rytmiska betoning ligger typiskt på andra och fjärde slaget 
 en fade-out|I detta låtslut tonas inspelningens ljud gradvis ner i stället för att sluta med ett tydligt sista slag.
 ett konceptalbum|På denna typ av album binds spåren samman av en övergripande berättelse eller idé.
 
-@Hiphop och rap|Vem är|Denna rappare {1}.
-Eminem~Marshall Mathers~Slim Shady|är Detroitrapparen som spelade huvudrollen i 8 Mile och gjorde Lose Yourself
-Snoop Dogg~Calvin Broadus|är känd för avslappnad västkuststil och debutalbumet Doggystyle
-Tupac Shakur~2Pac|var en amerikansk rappare bakom California Love och sköts till döds 1996
-Jay-Z~Shawn Carter|gav ut The Blueprint och samarbetade med Alicia Keys i Empire State of Mind
-Nicki Minaj~Onika Maraj|kommer ursprungligen från Trinidad och slog igenom internationellt med albumet Pink Friday
-Kendrick Lamar|gav ut To Pimp a Butterfly och fick Pulitzerpriset för albumet DAMN.
-Drake~Aubrey Graham|är kanadensare och gick från skådespeleri i Degrassi till hits som Hotline Bling
-Kanye West~Ye|gjorde debutalbumet The College Dropout och gav senare ut My Beautiful Dark Twisted Fantasy
-Missy Elliott~Melissa Elliott|är känd för kreativa musikvideor och låtar som Get Ur Freak On
-50 Cent~Curtis Jackson|slog igenom med In da Club och albumet Get Rich or Die Tryin'
-Petter Askergren~Petter|slog igenom i Sverige med Mikrofonkåt och albumet Mitt sjätte sinne
-Timbuktu~Jason Diakité|rappar på skånska och har gjort Alla vill till himmelen men ingen vill dö
-Ken Ring|är svensk rappare bakom Mamma och albumet Vägen tillbaka
-Linda Pira|gav ut EP:n Matriarken 2013 och blev känd med bland annat Knäpper mina fingrar
-Silvana Imam|är svensk rappare bakom albumet Naturkraft och förknippas med starkt politiskt uttryck
-Nas~Nasir Jones|debuterade med det hyllade albumet Illmatic 1994
-Lauryn Hill|var medlem i Fugees och fick soloframgång med Doo Wop (That Thing)
-The Notorious B.I.G.~Biggie Smalls~Christopher Wallace|var Brooklynartist bakom Ready to Die och dödades 1997
-Ice Cube~O'Shea Jackson|var med i N.W.A och har också spelat i filmer som Friday
-Dr. Dre~Andre Young|var med i N.W.A och producerade bland annat The Chronic samt flera stora västkustartister
-Rakim~William Griffin|bildade en inflytelserik duo med Eric B. och rappade på Paid in Full
-MF DOOM~Daniel Dumile|uppträdde i metallmask och gav ut Madvillainy tillsammans med Madlib
-Q-Tip~Kamaal Fareed|var en central röst i A Tribe Called Quest och hade en jazzpräglad stil
-Little Simz~Simbiatu Ajikawo|är brittisk rappare bakom Sometimes I Might Be Introvert och No Thank You
-J Dilla~James Yancey|var Detroitproducent och rappare vars instrumentala album Donuts blev särskilt inflytelserikt
+@Hiphop och rap|Vem är|{1}.
+Eminem~Marshall Mathers~Slim Shady|Han är Detroitrapparen som spelade huvudrollen i 8 Mile och gjorde Lose Yourself
+Snoop Dogg~Calvin Broadus|Han är känd för avslappnad västkuststil och debutalbumet Doggystyle
+Tupac Shakur~2Pac|Han var en amerikansk rappare bakom California Love och sköts till döds 1996
+Jay-Z~Shawn Carter|Han gav ut The Blueprint och samarbetade med Alicia Keys i Empire State of Mind
+Nicki Minaj~Onika Maraj|Hon kommer ursprungligen från Trinidad och slog igenom internationellt med albumet Pink Friday
+Kendrick Lamar|Han gav ut To Pimp a Butterfly och fick Pulitzerpriset för albumet DAMN.
+Drake~Aubrey Graham|Han är kanadensare och gick från skådespeleri i Degrassi till hits som Hotline Bling
+Kanye West~Ye|Han gjorde debutalbumet The College Dropout och gav senare ut My Beautiful Dark Twisted Fantasy
+Missy Elliott~Melissa Elliott|Hon är känd för kreativa musikvideor och låtar som Get Ur Freak On
+50 Cent~Curtis Jackson|Han slog igenom med In da Club och albumet Get Rich or Die Tryin'
+Petter Askergren~Petter|Han slog igenom i Sverige med Mikrofonkåt och albumet Mitt sjätte sinne
+Timbuktu~Jason Diakité|Han rappar på skånska och har gjort Alla vill till himmelen men ingen vill dö
+Ken Ring|Han är svensk rappare bakom Mamma och albumet Vägen tillbaka
+Linda Pira|Hon gav ut EP:n Matriarken 2013 och blev känd med bland annat Knäpper mina fingrar
+Silvana Imam|Hon är svensk rappare bakom albumet Naturkraft och förknippas med starkt politiskt uttryck
+Nas~Nasir Jones|Han debuterade med det hyllade albumet Illmatic 1994
+Lauryn Hill|Hon var medlem i Fugees och fick soloframgång med Doo Wop (That Thing)
+The Notorious B.I.G.~Biggie Smalls~Christopher Wallace|Han var Brooklynartist bakom Ready to Die och dödades 1997
+Ice Cube~O'Shea Jackson|Han var med i N.W.A och har också spelat i filmer som Friday
+Dr. Dre~Andre Young|Han var med i N.W.A och producerade bland annat The Chronic samt flera stora västkustartister
+Rakim~William Griffin|Han bildade en inflytelserik duo med Eric B. och rappade på Paid in Full
+MF DOOM~Daniel Dumile|Han uppträdde i metallmask och gav ut Madvillainy tillsammans med Madlib
+Q-Tip~Kamaal Fareed|Han var en central röst i A Tribe Called Quest och hade en jazzpräglad stil
+Little Simz~Simbiatu Ajikawo|Hon är brittisk rappare bakom Sometimes I Might Be Introvert och No Thank You
+J Dilla~James Yancey|Han var Detroitproducent och rappare vars instrumentala album Donuts blev särskilt inflytelserikt
 
-@Klassisk musik|Vem är|Denna tonsättare {1}.
-Wolfgang Amadeus Mozart~Mozart|skrev operan Trollflöjten och var ett turnerande musikaliskt underbarn
-Ludwig van Beethoven~Beethoven|skrev nio symfonier och fortsatte komponera trots tilltagande dövhet
-Johann Sebastian Bach~Bach|skrev Brandenburgkonserterna och Matteuspassionen under barocken
-Antonio Vivaldi~Vivaldi|skrev violinkonserterna De fyra årstiderna och var också präst
-Pjotr Tjajkovskij~Tchaikovsky|komponerade baletterna Svansjön och Nötknäpparen
-Frédéric Chopin~Frederic Chopin|var polsk-fransk pianovirtuos och skrev många nocturner och mazurkor
-Edvard Grieg~Grieg|skrev musik till Peer Gynt, bland annat I bergakungens sal
-Georg Friedrich Händel~Händel~Handel|skrev oratoriet Messias med den välkända Hallelujakören
-Gioachino Rossini~Rossini|skrev Barberaren i Sevilla och ouvertyren till Wilhelm Tell
-Giuseppe Verdi~Verdi|skrev operorna Aida, La traviata och Rigoletto
-Richard Wagner~Wagner|skapade den stora operacykeln Nibelungens ring och förknippas med Bayreuth
-Claude Debussy~Debussy|skrev Clair de lune och är förknippad med impressionism i musiken
-Maurice Ravel~Ravel|komponerade Boléro med en melodi som upprepas över en växande orkesterklang
-Jean Sibelius~Sibelius|skrev Finlandia och sju symfonier och blev en finländsk nationalsymbol
-Franz Schubert~Schubert|skrev många sånger, bland annat Erlkönig, och en berömd ofullbordad symfoni
-Antonín Dvořák~Antonin Dvorak|komponerade symfonin Från nya världen under sin tid i USA
-Johannes Brahms~Brahms|skrev en mycket känd vaggvisa samt fyra symfonier
-Camille Saint-Saëns~Camille Saint-Saens|skrev Djurens karneval där Svanen är ett känt cellostycke
-Gustav Holst~Holst|skrev orkestersviten Planeterna där Mars skildras som krigets budbärare
-Carl Orff~Orff|komponerade Carmina Burana med den dramatiska kören O Fortuna
-Erik Satie~Satie|skrev de stillsamma pianostyckena Gymnopédies
-Clara Schumann~Clara Wieck|var tysk pianovirtuos och tonsättare samt gift med en romantisk kompositör vid namn Robert
-Fanny Hensel~Fanny Mendelssohn|var tonsättare och pianist samt syster till Felix, i en musikalisk familj i Berlin
-Hugo Alfvén~Hugo Alfven|skrev Midsommarvaka och körsången Uti vår hage i en välkänd bearbetning
-Wilhelm Stenhammar~Stenhammar|var svensk pianist och tonsättare bakom bland annat Sverige och två fullbordade symfonier
+@Klassisk musik|Vem är|{1}.
+Wolfgang Amadeus Mozart~Mozart|Han skrev operan Trollflöjten och var ett turnerande musikaliskt underbarn
+Ludwig van Beethoven~Beethoven|Han skrev nio symfonier och fortsatte komponera trots tilltagande dövhet
+Johann Sebastian Bach~Bach|Han skrev Brandenburgkonserterna och Matteuspassionen under barocken
+Antonio Vivaldi~Vivaldi|Han skrev violinkonserterna De fyra årstiderna och var också präst
+Pjotr Tjajkovskij~Tchaikovsky|Han komponerade baletterna Svansjön och Nötknäpparen
+Frédéric Chopin~Frederic Chopin|Han var polsk-fransk pianovirtuos och skrev många nocturner och mazurkor
+Edvard Grieg~Grieg|Han skrev musik till Peer Gynt, bland annat I bergakungens sal
+Georg Friedrich Händel~Händel~Handel|Han skrev oratoriet Messias med den välkända Hallelujakören
+Gioachino Rossini~Rossini|Han skrev Barberaren i Sevilla och ouvertyren till Wilhelm Tell
+Giuseppe Verdi~Verdi|Han skrev operorna Aida, La traviata och Rigoletto
+Richard Wagner~Wagner|Han skapade den stora operacykeln Nibelungens ring och förknippas med Bayreuth
+Claude Debussy~Debussy|Han skrev Clair de lune och är förknippad med impressionism i musiken
+Maurice Ravel~Ravel|Han komponerade Boléro med en melodi som upprepas över en växande orkesterklang
+Jean Sibelius~Sibelius|Han skrev Finlandia och sju symfonier och blev en finländsk nationalsymbol
+Franz Schubert~Schubert|Han skrev många sånger, bland annat Erlkönig, och en berömd ofullbordad symfoni
+Antonín Dvořák~Antonin Dvorak|Han komponerade symfonin Från nya världen under sin tid i USA
+Johannes Brahms~Brahms|Han skrev en mycket känd vaggvisa samt fyra symfonier
+Camille Saint-Saëns~Camille Saint-Saens|Han skrev Djurens karneval där Svanen är ett känt cellostycke
+Gustav Holst~Holst|Han skrev orkestersviten Planeterna där Mars skildras som krigets budbärare
+Carl Orff~Orff|Han komponerade Carmina Burana med den dramatiska kören O Fortuna
+Erik Satie~Satie|Han skrev de stillsamma pianostyckena Gymnopédies
+Clara Schumann~Clara Wieck|Hon var tysk pianovirtuos och tonsättare samt gift med en romantisk kompositör vid namn Robert
+Fanny Hensel~Fanny Mendelssohn|Hon var tonsättare och pianist samt syster till Felix, i en musikalisk familj i Berlin
+Hugo Alfvén~Hugo Alfven|Han skrev Midsommarvaka och körsången Uti vår hage i en välkänd bearbetning
+Wilhelm Stenhammar~Stenhammar|Han var svensk pianist och tonsättare bakom bland annat Sverige och två fullbordade symfonier
 
-@Musikinstrument|Vad är|Detta instrument {1}.
+@Musikinstrument|Vad är|Instrumentet {1}.
 ett piano|har svarta och vita tangenter som får hammare att slå mot strängar
 en gitarr|har vanligen sex strängar och spelas genom att knäppa eller slå på dem
 en fiol~en violin|har fyra strängar och hålls vanligen under hakan när stråken dras
@@ -241,7 +241,7 @@ en theremin|spelas utan beröring genom att händerna flyttas nära två antenne
 en sitar|är ett indiskt långhalsat stränginstrument med resonanssträngar och rörliga band
 en didgeridoo|är ett långt australiskt blåsinstrument som traditionellt används av aboriginska folk i norr
 
-@Musik från film och musikal|Vad är|Detta verk {1}.
+@Musik från film och musikal|Vad är|Verket {1}.
 Mamma Mia!~Mamma Mia|är musikalen där en dotter söker sin far till ABBA-låtar på en grekisk ö
 Lejonkungen|är Disneyfilmen vars musik av bland andra Elton John senare blev en stor scenmusikal
 Grease|skildrar Danny och Sandy bland ungdomar på Rydell High med 1950-talsinspirerad musik

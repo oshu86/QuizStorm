@@ -1,65 +1,65 @@
-@Fotboll|Vem är|Denna fotbollsspelare {1}.
-Zlatan Ibrahimović~Zlatan Ibrahimovic|är svensk anfallare som spelade i Malmö FF, Ajax, Inter, Barcelona och Milan
-Lionel Messi~Messi|ledde Argentina till VM-guld 2022 efter många år i Barcelona
-Cristiano Ronaldo~CR7|är portugisisk anfallare känd från Manchester United och Real Madrid
-Pelé~Pele~Edson Arantes do Nascimento|vann herr-VM med Brasilien 1958, 1962 och 1970
-Diego Maradona|gjorde både ett berömt solomål och ett omtalat handmål mot England i VM 1986
-David Beckham|blev känd för precisa frisparkar och inlägg i Manchester United
-Kylian Mbappé~Kylian Mbappe|gjorde tre mål för Frankrike i VM-finalen 2022
-Erling Haaland|är norsk anfallare som gjorde mål i mängder för Dortmund och Manchester City
-Marta Vieira da Silva~Marta|är brasiliansk anfallsstjärna som bland annat spelade i Umeå IK
-Lotta Schelin|var svensk anfallare som vann flera stora titlar med Lyon
-Ronaldinho~Ronaldo de Assis Moreira|var brasiliansk bollkonstnär i Barcelona, känd för leendet och kreativa finter
-Zinedine Zidane|gjorde två nickmål för Frankrike i VM-finalen 1998
-Thierry Henry|är fransk anfallare starkt förknippad med Arsenals framgångar under Arsène Wenger
-Andrés Iniesta~Andres Iniesta|gjorde Spaniens avgörande mål i VM-finalen 2010
-Gianluigi Buffon|är italiensk målvakt som vann VM 2006 och spelade länge i Juventus
-Johan Cruyff|förknippas med totalfotboll och framgångar i Ajax och Barcelona
-Franz Beckenbauer|var tysk libero med smeknamnet Der Kaiser och vann VM som spelare och förbundskapten
-Paolo Maldini|var italiensk försvarare som tillbringade hela sin seniorkarriär i Milan
-George Best|var nordirländsk dribbler som blev stjärna i Manchester United på 1960-talet
-Eusébio~Eusebio|var portugisisk anfallare född i Moçambique och kallades den svarta pantern
-Birgit Prinz|var tysk anfallare som vann VM 2003 och 2007
-Mia Hamm|var amerikansk anfallsstjärna i lagen som vann dam-VM 1991 och 1999
-Sun Wen|var kinesisk stjärna som spelade VM-final 1999 och delade skytteligasegern
-Ada Hegerberg|är norsk anfallare i Lyon och fick den första Ballon d'Or Féminin 2018
-Homare Sawa|ledde Japan till dam-VM-guld 2011 och utsågs till turneringens bästa spelare
+@Fotboll|Vem är|{1}.
+Zlatan Ibrahimović~Zlatan Ibrahimovic|Han är svensk anfallare som spelade i Malmö FF, Ajax, Inter, Barcelona och Milan
+Lionel Messi~Messi|Han ledde Argentina till VM-guld 2022 efter många år i Barcelona
+Cristiano Ronaldo~CR7|Han är portugisisk anfallare känd från Manchester United och Real Madrid
+Pelé~Pele~Edson Arantes do Nascimento|Han vann herr-VM med Brasilien 1958, 1962 och 1970
+Diego Maradona|Han gjorde både ett berömt solomål och ett omtalat handmål mot England i VM 1986
+David Beckham|Han blev känd för precisa frisparkar och inlägg i Manchester United
+Kylian Mbappé~Kylian Mbappe|Han gjorde tre mål för Frankrike i VM-finalen 2022
+Erling Haaland|Han är norsk anfallare som gjorde mål i mängder för Dortmund och Manchester City
+Marta Vieira da Silva~Marta|Hon är brasiliansk anfallsstjärna som bland annat spelade i Umeå IK
+Lotta Schelin|Hon var svensk anfallare som vann flera stora titlar med Lyon
+Ronaldinho~Ronaldo de Assis Moreira|Han var brasiliansk bollkonstnär i Barcelona, känd för leendet och kreativa finter
+Zinedine Zidane|Han gjorde två nickmål för Frankrike i VM-finalen 1998
+Thierry Henry|Han är fransk anfallare starkt förknippad med Arsenals framgångar under Arsène Wenger
+Andrés Iniesta~Andres Iniesta|Han gjorde Spaniens avgörande mål i VM-finalen 2010
+Gianluigi Buffon|Han är italiensk målvakt som vann VM 2006 och spelade länge i Juventus
+Johan Cruyff|Han förknippas med totalfotboll och framgångar i Ajax och Barcelona
+Franz Beckenbauer|Han var tysk libero med smeknamnet Der Kaiser och vann VM som spelare och förbundskapten
+Paolo Maldini|Han var italiensk försvarare som tillbringade hela sin seniorkarriär i Milan
+George Best|Han var nordirländsk dribbler som blev stjärna i Manchester United på 1960-talet
+Eusébio~Eusebio|Han var portugisisk anfallare född i Moçambique och kallades den svarta pantern
+Birgit Prinz|Hon var tysk anfallare som vann VM 2003 och 2007
+Mia Hamm|Hon var amerikansk anfallsstjärna i lagen som vann dam-VM 1991 och 1999
+Sun Wen|Hon var kinesisk stjärna som spelade VM-final 1999 och delade skytteligasegern
+Ada Hegerberg|Hon är norsk anfallare i Lyon och fick den första Ballon d'Or Féminin 2018
+Homare Sawa|Hon ledde Japan till dam-VM-guld 2011 och utsågs till turneringens bästa spelare
 
 @Ishockey|Vad är
 en puck|Denna svarta gummiskiva skjuts över isen och in i målet.
 en klubba|Med detta redskap med skaft och blad passar och skjuter utespelaren.
 ett utvisningsbås|Här sitter spelaren när laget fått ett tidsstraff och tillfälligt måste spela med färre spelare.
-en tekning|Vid denna återstart släpper domaren pucken mellan två motståndares redskap.
+en tekning|Då släpper domaren pucken mellan två motståndares redskap.
 en rink|Så kallas den inhägnade isytan med sarg där matchen spelas.
-powerplay~numerärt överläge|I detta spelläge har laget fler spelare på isen eftersom motståndare är utvisade.
-boxplay~numerärt underläge|I detta spelläge försvarar sig laget med färre spelare på isen på grund av utvisning.
-icing|Denna avblåsning kan uppstå när pucken skjuts från egen planhalva förbi motståndarnas förlängda mållinje.
-offside i ishockey|Denna regel stoppar anfallet när en anfallare går in i anfallszonen före pucken.
-ett slagskott|Vid denna skotteknik förs klubban högt bakåt innan den slås ner mot isen.
+powerplay~numerärt överläge|Här har laget fler spelare på isen eftersom motståndare är utvisade.
+boxplay~numerärt underläge|Här försvarar sig laget med färre spelare på isen på grund av utvisning.
+icing|Den kan uppstå när pucken skjuts från egen planhalva förbi motståndarnas förlängda mållinje.
+offside i ishockey|Den stoppar anfallet när en anfallare går in i anfallszonen före pucken.
+ett slagskott|Då förs klubban högt bakåt innan den slås ner mot isen.
 ett handledsskott|Vid denna skotteknik sveps pucken iväg med kort rörelse och kraft från händerna.
-en tackling|Denna kroppskontakt används inom reglerna för att stoppa eller tränga undan en motståndare.
-en assist i ishockey|Denna poäng noteras för en spelare som bidrar med passning eller beröring före ett mål.
+en tackling|Den används inom reglerna för att stoppa eller tränga undan en motståndare.
+en assist i ishockey|Den noteras för en spelare som bidrar med passning eller beröring före ett mål.
 ett hattrick|Tre mål av samma spelare under en match kallas detta.
 en målgård|Detta markerade område framför kassen skyddar målvaktens arbetsutrymme.
-en ismaskin~en zamboni|Detta fordon skrapar och spolar rinkens yta under pauserna.
-en backhand|Vid detta skott används klubbladets baksida i stället för den vanliga träffsidan.
+en ismaskin~en zamboni|Det skrapar och spolar rinkens yta under pauserna.
+en backhand|Då används klubbladets baksida i stället för den vanliga träffsidan.
 tackling bakifrån~checking from behind|Detta otillåtna angrepp träffar motståndarens rygg i ett utsatt läge.
-hög klubba~high sticking|Denna förseelse kan bestraffas när redskapet träffar en motståndare för högt på kroppen.
-en straffläggning|I detta avgörande turas spelare om att ensamma försöka överlista målvakten.
+hög klubba~high sticking|Den kan bestraffas när redskapet träffar en motståndare för högt på kroppen.
+en straffläggning|Här turas spelare om att ensamma försöka överlista målvakten.
 Stanley Cup|Denna stora silverpokal tilldelas segraren i NHL:s slutspel.
 Tre Kronor|Detta svenska landslagsnamn syftar på tröjans tre gula kungliga symboler.
 Damkronorna|Så kallas Sveriges kvinnliga landslag i sporten med puck och skridskor.
-forechecking~forecheck|Denna taktik pressar motståndaren högt när den försöker spela upp pucken.
-sudden death~sudden victory|I denna förlängningsform avgör första målet direkt matchen.
+forechecking~forecheck|Den pressar motståndaren högt när den försöker spela upp pucken.
+sudden death~sudden victory|Här avgör första målet direkt matchen.
 
 @Olympiska spelen|Vad är
 de olympiska ringarna|Fem sammanlänkade färgade cirklar på vit botten bildar denna idrottssymbol.
-den olympiska elden|Denna låga förs i stafett och brinner under spelen.
+den olympiska elden|Den förs i stafett och brinner under spelen.
 en guldmedalj|Denna medalj delas ut till segraren i en olympisk gren.
 en silvermedalj|Denna medalj tillfaller andraplatsen i en olympisk gren.
-en bronsmedalj|Denna medalj tilldelas normalt tredjeplatsen i en olympisk gren.
+en bronsmedalj|Den tilldelas normalt tredjeplatsen i en olympisk gren.
 Olympia|På denna grekiska plats hölls antikens spel som gav det moderna evenemanget dess namn.
-Paris 2024|Dessa sommarspel hade invigningen längs Seine och tävlingar vid flera berömda stadslandmärken.
+Paris 2024|De hade invigningen längs Seine och tävlingar vid flera berömda stadslandmärken.
 Lillehammer 1994|Dessa norska vinterspel gav Sverige hockeyguld efter Forsbergs och Salos straffinsatser.
 Stockholm 1912|Dessa sommarspel i Sverige kallades solskensolympiaden och hade ett nybyggt stadion.
 Los Angeles 1984|Dessa sommarspel i Kalifornien bojkottades av Sovjetunionen och flera allierade.
@@ -69,18 +69,18 @@ Barcelona 1992|Vid dessa sommarspel i Katalonien deltog USA:s Dream Team i baske
 Sydney 2000|Vid dessa australiska spel tände Cathy Freeman elden och vann senare 400 meter.
 Tokyo 2020|Dessa sommarspel behöll sitt årtal i namnet trots att pandemin sköt dem till 2021.
 modern femkamp|Denna olympiska mångkamp skapades med inspiration från en soldats allsidiga färdigheter.
-konstsim|Denna bassängidrott kombinerar simning, koreografi och musik och kallades tidigare synkroniserad simning.
+konstsim|Den kombinerar simning, koreografi och musik och kallades tidigare synkroniserad simning.
 bancykling~velodromcykling|Denna olympiska idrott körs på en oval med doserade kurvor och tvåhjuliga fordon.
-trampolin|I denna gymnastikgren görs volter efter höga studsar på en spänd duk.
+trampolin|Här görs volter efter höga studsar på en spänd duk.
 slalomkanot|I denna paddelgren ska tävlande passera portar i forsande vatten utan att nudda dem.
 den olympiska eden|Vid invigningen avges detta högtidliga löfte om regler och respekt.
-Pierre de Coubertin|Denna franske initiativtagare drev återupplivandet av spelen i slutet av 1800-talet.
-Internationella olympiska kommittén~IOK~IOC|Denna organisation leder övergripande rörelsen bakom sommar- och vinterspelen.
+Pierre de Coubertin|Han drev återupplivandet av de moderna olympiska spelen i slutet av 1800-talet.
+Internationella olympiska kommittén~IOK~IOC|Den leder övergripande rörelsen bakom sommar- och vinterspelen.
 Chamonix 1924|Dessa tävlingar i franska Alperna erkändes som de första olympiska vinterspelen.
 Aten 1896|Dessa tävlingar i Greklands huvudstad blev de första moderna olympiska sommarspelen.
 
 @Friidrott|Vad är
-100 meter~ett hundrameterslopp|I denna sprintgren springer deltagarna en raksträcka på en tiondels kilometer.
+100 meter~ett hundrameterslopp|Här springer deltagarna en raksträcka på en tiondels kilometer.
 längdhopp|Deltagaren springer mot en planka och försöker landa så långt bort som möjligt i sand.
 höjdhopp|Deltagaren försöker passera en vågrät ribba utan redskap och utan att riva.
 stavhopp|Ett långt böjligt redskap hjälper deltagaren över en högt placerad ribba.
@@ -90,38 +90,38 @@ spjutkastning|Ett långt spetsigt redskap skickas framåt efter en löpande ansa
 släggkastning|En metallboll i vajer med handtag roteras före utkastet i denna gren.
 häcklöpning|Löparna passerar uppställda hinder på bestämda avstånd i sina banor.
 en stafett|Lagkamrater springer varsin sträcka och lämnar vanligen över en pinne.
-tiokamp|Denna mångkamp omfattar tio grenar under normalt två dagar.
+tiokamp|Den omfattar tio grenar under normalt två dagar.
 sjukamp|Denna kvinnliga utomhusmångkamp omfattar sju grenar, bland annat höjd, längd och spjut.
 tresteg|Ett hopp på samma fot följs av ett steg och ett avslutande hopp ner i sanden.
 gång|I denna gren krävs synlig markkontakt och sträckt främre ben enligt särskilda regler.
-maraton|Denna löpgren är 42 195 meter lång och har namn efter en grekisk plats.
-3000 meter hinder|Denna löpgren är tre kilometer och omfattar fasta bommar och vattengrav.
+maraton|Den är 42 195 meter lång och har namn efter en grekisk plats.
+3000 meter hinder|Den är tre kilometer och omfattar fasta bommar och vattengrav.
 en tjuvstart~en falsk start|Detta sker när löparen påbörjar starten före tillåten reaktion på signalen.
-ett startblock|Detta redskap ger sprintlöparens fötter stöd vid en hukande start.
+ett startblock|Det ger sprintlöparens fötter stöd vid en hukande start.
 en växlingszon|Inom detta markerade område måste stafettpinnen lämnas till nästa löpare.
-en vindmätare~en anemometer|Detta instrument registrerar luftens hastighet som kan påverka om sprintresultat godkänns som rekord.
+en vindmätare~en anemometer|Det registrerar luftens hastighet som kan påverka om sprintresultat godkänns som rekord.
 Fosburyflopp|I denna höjdhoppsteknik passerar idrottaren ribban med ryggen först.
-en negativ split|Denna lopptaktik innebär att andra halvan löps snabbare än första.
-en farthållare~en hare i löpning|Denna löpare hjälper andra att hålla önskat tempo och behöver inte fullfölja.
-ett målfoto~en fotofinish|Denna bildteknik skiljer mycket täta målgångar åt.
+en negativ split|Den innebär att andra halvan löps snabbare än första.
+en farthållare~en hare i löpning|Den hjälper andra att hålla önskat tempo och behöver inte fullfölja.
+ett målfoto~en fotofinish|Den skiljer mycket täta målgångar åt.
 en sektorlinje|Denna markering avgränsar området där ett kast måste landa för att gälla.
 
 @Vintersport|Vad är
 längdskidåkning|Åkare färdas genom terräng i klassisk stil eller fristil i denna idrott.
 slalom|I denna alpina gren gör åkaren många snabba svängar mellan täta portar.
-skidskytte|Denna vinteridrott kombinerar skidåkning med gevärsskytte i två kroppsställningar.
+skidskytte|Den kombinerar skidåkning med gevärsskytte i två kroppsställningar.
 backhoppning|Åkaren tar fart i brant ansats och flyger med långa skidor.
-konståkning|Denna isidrott förenar musik med hopp, piruetter och koreografi.
+konståkning|Den förenar musik med hopp, piruetter och koreografi.
 curling|Stenar glider mot ett bo medan lagkamrater kan sopa framför dem.
 snowboard|Båda fötterna sitter fast på samma bräda tvärs mot färdriktningen.
 störtlopp|Denna alpina fartgren har långa svepande svängar och är normalt snabbast.
 storslalom|Denna alpina gren har större svängradie än slalom men fler svängar än super-G.
 super-G|Denna alpina fartgren ligger mellan störtlopp och storslalom i karaktär.
 short track|Flera skridskoåkare tävlar samtidigt på en kort oval, ofta i en hockeyhall.
-rodel|I denna kälkidrott ligger åkaren på rygg med fötterna först.
-skeleton|I denna kälkidrott ligger åkaren på mage med huvudet först.
+rodel|Här ligger åkaren på rygg med fötterna först.
+skeleton|Här ligger åkaren på mage med huvudet först.
 bob|Laget skjuter igång en styrbar tävlingskälke och hoppar sedan in.
-nordisk kombination|Denna idrott förenar backhoppning med längdskidåkning.
+nordisk kombination|Den förenar backhoppning med längdskidåkning.
 puckelpist|Åkaren tar sig genom täta snögupp och gör även hopp i denna freestylegren.
 skicross|Flera skidåkare tävlar samtidigt över hopp, doserade svängar och ojämnheter.
 halfpipe|Trick utförs mellan väggarna i en stor halvrörsformad snöanläggning.
@@ -131,29 +131,29 @@ en vallabod|Här förbereds skidornas glid och fäste före loppet.
 en straffrunda|Efter bommade skott i flera skidskyttegrenar kör åkaren denna extra slinga.
 en jaktstart|Deltagarna startar med tidsskillnader från tidigare resultat och först i mål vinner normalt.
 en skiathlon|I detta längdlopp byts klassisk teknik mot fristil under samma tävling.
-saxning|Med denna teknik går skidåkaren uppför med spetsarna utåt i V-form.
+saxning|Med den går skidåkaren uppför med spetsarna utåt i V-form.
 
 @Racketsport|Vad är
 tennis|Här används filtklädd boll och poängen räknas bland annat 15, 30 och 40.
-bordtennis~pingis|Spelet går över ett litet nät på en bordsskiva med lätt ihålig boll.
+bordtennis~pingis|Ett litet nät, en bordsskiva och en lätt ihålig boll är centrala delar.
 badminton|Här slås en fjäderförsedd boll över ett högt nät.
-padel|Denna sport spelas vanligen i dubbel på en bana där väggarna ingår.
+padel|Den spelas vanligen i dubbel på en bana där väggarna ingår.
 squash|Spelarna slår en liten boll mot den främre väggen i ett slutet rum.
 en serve|Med detta inledande slag sätts bollen i spel i många racketsporter.
-en volley|Detta slag träffar bollen före studs i tennis eller padel.
+en volley|Det träffar bollen före studs i tennis eller padel.
 en smash|Detta hårda slag ovanför huvudet försöker ofta avsluta bollväxlingen.
 en lobb|Detta höga slag skickas över en motståndare som står nära nätet.
 ett ess~en ace|En giltig serve ger här poäng utan att motståndaren vidrör bollen.
-en forehand|Detta slag görs på rackethandens sida med handflatan orienterad framåt.
+en forehand|Det görs på rackethandens sida med handflatan orienterad framåt.
 ett tiebreak|Detta särskilda poängspel kan avgöra ett jämnt tennisset.
 en breakboll|Här kan servemottagaren vinna ett tennisgame med nästa poäng.
 ett dubbelfel|Så kallas två missade serveförsök i följd i tennis.
 en stoppboll~en drop shot|Detta mjuka slag får bollen att landa nära nätet på andra sidan.
-topspin|Denna framåtskruv hjälper bollen att dyka ner efter nätpassagen.
+topspin|Den hjälper bollen att dyka ner efter nätpassagen.
 en slice|Detta skärande slag ger ofta underskruv och låg studs.
 en sweet spot|Denna del av racketens träffyta ger en särskilt ren och effektiv träff.
 en Grand Slam|Att vinna alla fyra största singelturneringarna samma kalenderår kallas detta i tennis.
-en let|Detta domaruttryck kan innebära omspel, exempelvis efter nätserve i tennis.
+en let|Det kan innebära omspel, exempelvis efter nätserve i tennis.
 en clear|Detta höga djupa badmintonslag går mot banans bakre del.
 en chiquita|Detta mjuka låga padelslag går mot fötterna på motståndare nära nätet.
 en bandeja|Detta kontrollerade padelslag ovanför huvudet hjälper spelaren behålla nätpositionen.
@@ -168,17 +168,17 @@ en gokart|Detta låga lilla racerfordon används ofta i början av framtida form
 en hjälmkamera|Denna inspelningsutrustning på huvudskyddet visar en vy nära förarens perspektiv.
 pole position|Denna startplats längst fram i fältet avgörs ofta genom kval.
 ett depåstopp~en pitstop|Under detta korta uppehåll får tävlingsbilen exempelvis nya däck.
-en säkerhetsbil~safety car|Detta fordon samlar och bromsar fältet när banan måste säkras.
+en säkerhetsbil~safety car|Det samlar och bromsar fältet när banan måste säkras.
 en schackrutig flagga|Denna svartvita signal visar att loppet eller tävlingspasset är avslutat.
 en kartläsare|Denna rallylagkamrat läser noter om kommande kurvor och krön.
 Le Mans 24-timmars|Detta franska uthållighetslopp pågår ett helt dygn på delvis vanliga vägar.
 Indianapolis 500~Indy 500|Detta amerikanska ovalbanelopp körs över femhundra engelska mil.
-Dakarrallyt|Detta terrängrally bär namn efter en afrikansk stad men har senare körts på andra kontinenter.
+Dakarrallyt|Det bär namn efter en afrikansk stad men har senare körts på andra kontinenter.
 speedway|Motorcyklar utan bromsar tävlar på ovalbana, ofta i heat med fyra förare.
 motocross|Denna motorcykelsport körs på jordbanor med ojämnheter och stora hopp.
 drifting|Kontrollerade bredsladdar genom kurvor bedöms i denna motorsport.
 dragracing|Fordon tävlar i acceleration rakt fram över en kort sträcka i denna sport.
-enduro|Denna motorcykelsport kombinerar svår terräng med uthållighet och specialsträckor.
+enduro|Den kombinerar svår terräng med uthållighet och specialsträckor.
 en chikan|Denna följd av motriktade kurvor sänker ofta hastigheten på en racingbana.
 ett apex|Denna punkt nära kurvans insida ingår i förarens val av snabbaste spår.
 överstyrning|När bakänden tappar grepp svänger bilen mer än föraren avsett; beteendet kallas detta.
@@ -187,32 +187,32 @@ en slipstream|Denna luftströmsfördel bakom ett annat fordon kan hjälpa en fö
 parc fermé~parc ferme|I detta bevakade område begränsas teamets möjligheter att ändra bilen.
 homologering|Detta godkännande fastställer att en modell eller del uppfyller tävlingsklassens krav.
 
-@Svenska idrottsstjärnor|Vem är|Denna svenska idrottare {1}.
-Björn Borg|vann fem raka Wimbledontitlar mellan 1976 och 1980
-Armand Duplantis~Mondo Duplantis|satte världsrekord i stavhopp när han vann OS-guld i Paris 2024
-Sarah Sjöström~Sarah Sjostrom|vann OS-guld på 100 meter fjäril 2016 och båda korta frisimdistanserna 2024
-Ingemar Stenmark|vann 86 världscuptävlingar i alpin skidåkning och förknippas med Tärnaby
-Charlotte Kalla|vann OS-guld på 10 kilometer 2010 och körde en avgörande stafettsträcka i Sotji 2014
-Peter Forsberg~Foppa|gjorde den berömda enhandsstraffen i OS-finalen i hockey 1994
-Mats Sundin~Sudden|var hockeylagkapten i Toronto Maple Leafs under många år
-Anja Pärson|vann VM-guld i fem alpina grenar och firade med att glida på magen
-Carolina Klüft~Carolina Kluft|dominerade sjukamp och vann OS-guld i Aten 2004
-Gunde Svan|vann fyra OS-guld i längdskidåkning och blev senare tv-profil
-Henrik Lundqvist|var målvaktsstjärna i New York Rangers och tog OS-guld 2006
-Nicklas Lidström~Nicklas Lidstrom|var hockeyback i Detroit och vann Norris Trophy sju gånger
-Therese Alshammar|var simstjärna på sprintdistanser och deltog i sex olympiska spel
-Susanna Kallur|är häcklöpare från Falun som satte inomhusvärldsrekord på 60 meter häck 2008
-Stefan Holm|vann OS-guld i höjdhopp 2004 trots att han var kortare än många konkurrenter
-Jan-Ove Waldner|blev bordtennislegend och vann OS-guld i singel 1992
-Jörgen Persson|blev världsmästare i bordtennis 1991 och spelade sju olympiska spel
-Pernilla Wiberg|vann OS-guld i storslalom 1992 och kombination 1994
-Annika Sörenstam~Annika Sorenstam|dominerade damgolf och gick en LPGA-runda på 59 slag
-Henrik Stenson|vann The Open 2016 efter en berömd golfduell med Phil Mickelson
-Tove Alexandersson|är orienteringsstjärna och har även vunnit stora titlar i skidorientering
-Magdalena Forsberg|vann skidskyttets totala världscup sex gånger i rad
-Gert Fredriksson|var kanotist och vann sex olympiska guld 1948–1960
-Agneta Andersson|vann tre OS-guld i kanot och tävlade ofta med Susanne Gunnarsson
-Tomas Gustafson|vann två OS-guld i skridsko i Calgary 1988
+@Svenska idrottsstjärnor|Vem är|{1}.
+Björn Borg|Han vann fem raka Wimbledontitlar mellan 1976 och 1980
+Armand Duplantis~Mondo Duplantis|Han satte världsrekord i stavhopp när han vann OS-guld i Paris 2024
+Sarah Sjöström~Sarah Sjostrom|Hon vann OS-guld på 100 meter fjäril 2016 och båda korta frisimdistanserna 2024
+Ingemar Stenmark|Han vann 86 världscuptävlingar i alpin skidåkning och förknippas med Tärnaby
+Charlotte Kalla|Hon vann OS-guld på 10 kilometer 2010 och körde en avgörande stafettsträcka i Sotji 2014
+Peter Forsberg~Foppa|Han gjorde den berömda enhandsstraffen i OS-finalen i hockey 1994
+Mats Sundin~Sudden|Han var hockeylagkapten i Toronto Maple Leafs under många år
+Anja Pärson|Hon vann VM-guld i fem alpina grenar och firade med att glida på magen
+Carolina Klüft~Carolina Kluft|Hon dominerade sjukamp och vann OS-guld i Aten 2004
+Gunde Svan|Han vann fyra OS-guld i längdskidåkning och blev senare tv-profil
+Henrik Lundqvist|Han var målvaktsstjärna i New York Rangers och tog OS-guld 2006
+Nicklas Lidström~Nicklas Lidstrom|Han var hockeyback i Detroit och vann Norris Trophy sju gånger
+Therese Alshammar|Hon var simstjärna på sprintdistanser och deltog i sex olympiska spel
+Susanna Kallur|Hon är häcklöpare från Falun som satte inomhusvärldsrekord på 60 meter häck 2008
+Stefan Holm|Han vann OS-guld i höjdhopp 2004 trots att han var kortare än många konkurrenter
+Jan-Ove Waldner|Han blev bordtennislegend och vann OS-guld i singel 1992
+Jörgen Persson|Han blev världsmästare i bordtennis 1991 och spelade sju olympiska spel
+Pernilla Wiberg|Hon vann OS-guld i storslalom 1992 och kombination 1994
+Annika Sörenstam~Annika Sorenstam|Hon dominerade damgolf och gick en LPGA-runda på 59 slag
+Henrik Stenson|Han vann The Open 2016 efter en berömd golfduell med Phil Mickelson
+Tove Alexandersson|Hon är orienteringsstjärna och har även vunnit stora titlar i skidorientering
+Magdalena Forsberg|Hon vann skidskyttets totala världscup sex gånger i rad
+Gert Fredriksson|Han var kanotist och vann sex olympiska guld 1948–1960
+Agneta Andersson|Hon vann tre OS-guld i kanot och tävlade ofta med Susanne Gunnarsson
+Tomas Gustafson|Han vann två OS-guld i skridsko i Calgary 1988
 
 @Sportens regler och begrepp|Vad är
 en straffspark|I fotboll tas denna spark från elva meter efter vissa regelbrott i försvararnas område.
@@ -224,7 +224,7 @@ en touchdown|I amerikansk fotboll ger detta sex poäng när bollen når motstån
 en knockout|En träffad boxare kan här inte fortsätta före domarens fulla räkning.
 en birdie|I golf betyder detta ett slag under par på ett hål.
 en bogey|I golf betyder detta ett slag över par på ett hål.
-en home run|Detta basebollslag låter slagmannen springa runt alla baser, ofta när bollen slagits över staketet.
+en home run|Det låter slagmannen springa runt alla baser, ofta när bollen slagits över staketet.
 en alley-oop|Basketspelaren fångar här en passning i luften och gör mål utan att landa emellan.
 en scrum|I rugby återstartas spelet med denna klunga där lagen binder ihop sig och trycker mot varandra.
 en ippon|Denna fulla poäng avgör en judomatch direkt.
@@ -234,36 +234,36 @@ en triple-double|En basketspelare når här tvåsiffrigt i tre statistiska kateg
 en eagle|I golf betyder detta två slag under par på ett hål.
 en albatross i golf|I golf betyder detta tre slag under par på ett hål.
 en dropkick|I rugby kan detta sparkmål göras genom att sparka bollen precis efter att den studsat.
-en libero i volleyboll|Denna försvarsspecialist har annan tröjfärg och särskilda begränsningar för anfall och block.
+en libero i volleyboll|Den har annan tröjfärg och särskilda begränsningar för anfall och block.
 en balk|Denna otillåtna kaströrelse av basebollpitchern kan låta löpare avancera en bas.
-offside i fotboll|Denna regel kan stoppa en anfallare som är för långt fram vid passningen och sedan deltar i spelet.
+offside i fotboll|Den kan stoppa en anfallare som är för långt fram vid passningen och sedan deltar i spelet.
 ett återkval~repechage|Denna extra tävlingsväg ger utslagna deltagare en ny möjlighet att nå nästa steg.
 en walkover~WO|Någon går här vidare utan spel eftersom motståndaren inte ställer upp.
 en seedning|Denna rangordning sprider starka deltagare i ett slutspelsträd för att undvika tidiga möten.
 
-@Brädspel och kortspel|Vad är|Detta spel {1}.
-schack|har kung, dam, torn, löpare, springare och bönder på ett rutigt bräde
-Monopol~Monopoly|låter spelarna köpa gator och bygga hotell för att driva andra i konkurs
-Fia med knuff|låter spelarna flytta pjäser från boet och slå ut motståndare på samma ruta
-Yatzy|använder fem tärningar och poängkombinationer som kåk och stegar
-Uno|låter kortens färger eller tal matchas och kräver en signal när ett kort återstår
-Cluedo~Clue|låter spelarna lista ut mördare, rum och vapen i ett herrgårdsmysterium
-Risk|låter arméer strida om territorier på en världskarta med tärningar
-Trivial Pursuit|låter deltagarna samla färgade tårtbitar genom att besvara kunskapsfrågor
-Othello~Reversi|har svartvita brickor som vänds när de fångas mellan egna
-Backgammon|har brickor som flyttas med tärningar över långsmala trianglar
-Ticket to Ride|låter spelarna bygga tåglinjer mellan städer med färgade kort
-Catan|låter spelarna samla resurser och bygga vägar och bosättningar på en sexkantsindelad ö
-Carcassonne|bygger ett landskap av brickor där små figurer sätts på vägar, städer och kloster
-Pandemic|låter laget samarbeta för att stoppa sjukdomsutbrott runt världen
-Codenames|låter ledaren ge ett ord och ett tal för att laget ska hitta rätt ordkort
-bridge|är ett kortspel för fyra med budgivning, sticktagning och fasta partners
-canasta|använder jokrar och samlingar där sju kort av samma valör är centrala
-cribbage|räknar poäng med pinnar på ett bräde och kortkombinationer som ger femton
-mahjong|använder kinesiska brickor med bland annat vindar och drakar
-go|låter svarta och vita stenar omringa territorier på ett rutnät
-Azul|låter spelarna bygga mönster av färgade kakelbrickor inspirerade av Portugal
-Wingspan|låter spelarna skapa livsmiljöer med fågelkort, föda och ägg
-Terraforming Mars|låter spelarna utveckla den röda planetens temperatur, syre och hav
-7 Wonders|låter spelarna utveckla antika civilisationer genom att välja kort och skicka resten vidare
-Dixit|låter deltagarna associera till drömlika bildkort och gissa berättarens kort
+@Brädspel och kortspel|Vad är
+schack|Kung, dam, torn, löpare, springare och bönder rör sig på ett rutigt bräde.
+Monopol~Monopoly|Spelarna köper gator och bygger hotell för att försöka driva motståndarna i konkurs.
+Fia med knuff|Pjäser flyttas från boet och motståndare på samma ruta kan slås ut.
+Yatzy|Fem tärningar används för poängkombinationer som kåk och stegar.
+Uno|Kortens färger eller tal matchas, och spelaren måste signalera när bara ett kort återstår.
+Cluedo~Clue|Spelarna försöker lista ut mördare, rum och vapen i ett herrgårdsmysterium.
+Risk|Arméer strider om territorier på en världskarta med hjälp av tärningar.
+Trivial Pursuit|Deltagarna samlar färgade tårtbitar genom att besvara kunskapsfrågor.
+Othello~Reversi|Svartvita brickor vänds när de fångas mellan egna brickor.
+Backgammon|Brickor flyttas med tärningar över ett bräde med långsmala trianglar.
+Ticket to Ride|Spelarna bygger tåglinjer mellan städer med hjälp av färgade kort.
+Catan|Spelarna samlar resurser och bygger vägar och bosättningar på en sexkantsindelad ö.
+Carcassonne|Ett landskap växer fram av brickor där små figurer placeras på vägar, städer och kloster.
+Pandemic|Laget samarbetar för att stoppa sjukdomsutbrott runt världen.
+Codenames|En ledare ger ett ord och ett tal för att laget ska hitta rätt ordkort.
+bridge|Fyra spelare använder budgivning och sticktagning i fasta partnerskap.
+canasta|Jokrar och samlingar används, där sju kort av samma valör är centrala.
+cribbage|Poäng räknas med pinnar på ett bräde och kortkombinationer som ger femton.
+mahjong|Kinesiska brickor med bland annat vindar och drakar används.
+go|Svarta och vita stenar placeras för att omringa territorier på ett rutnät.
+Azul|Spelarna bygger mönster av färgade kakelbrickor inspirerade av Portugal.
+Wingspan|Spelarna skapar livsmiljöer med fågelkort, föda och ägg.
+Terraforming Mars|Spelarna utvecklar den röda planetens temperatur, syre och hav.
+7 Wonders|Spelarna utvecklar antika civilisationer genom att välja kort och skicka resten vidare.
+Dixit|Deltagarna associerar till drömlika bildkort och försöker gissa berättarens kort.

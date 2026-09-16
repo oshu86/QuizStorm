@@ -2,7 +2,7 @@
 en gladiator|Denna arenakämpe i Rom kunde möta andra kämpar inför publik och tränades ofta i särskilda skolor.
 en farao|Denna titel bars av forntida egyptiska härskare som lät uppföra stora gravanläggningar.
 en mumie|Denna bevarade kropp behandlades i det gamla Egypten för att klara resan till livet efter döden.
-en pyramid|Denna gravbyggnad har bred bas och triangulära sidor som möts i en spets.
+en pyramid|Den har bred bas och triangulära sidor som möts i en spets.
 en toga|Detta stora draperade plagg bars av romerska manliga medborgare över tunikan.
 en akvedukt|Denna romerska vattenledning kunde löpa på höga bågar för att föra vatten till städer.
 hieroglyfer|Dessa egyptiska skrivtecken föreställer bland annat människor, djur och föremål.
@@ -14,7 +14,7 @@ Sparta|Denna grekiska stadsstat var känd för sin stränga militära uppfostran
 Troja|Denna stad belägrades i grekisk sagotradition och förknippas med en listig gåva i form av en trähäst.
 en senat|Detta råd av inflytelserika män spelade en central politisk roll i den romerska republiken.
 en konsul|Två personer åt gången innehade normalt detta högsta årliga ämbete i den romerska republiken.
-Forum Romanum|Detta torgområde var centrum för politik, handel och religion i det antika Rom.
+Forum Romanum|Det var centrum för politik, handel och religion i det antika Rom.
 Parthenon|Detta tempel på Atens Akropolis uppfördes till stadens skyddsgudinna Athena.
 en hoplit|Denna tungt beväpnade grekiska fotsoldat stred med spjut och rund sköld i tät formation.
 kilskrift|Detta skrivsystem från Mesopotamien skapades genom att trycka vass i lera så att kilformiga märken bildades.
@@ -58,7 +58,7 @@ en borg|Denna befästa bostad skyddades ofta av tjocka murar, torn och vallgrav.
 en vallgrav|Detta grävda hinder runt en befästning kunde fyllas med vatten för att försvåra anfall.
 digerdöden|Denna stora pestpandemi drabbade Europa på 1300-talet och dödade en stor del av befolkningen.
 ett kloster|I denna religiösa gemenskap levde munkar eller nunnor efter särskilda regler.
-en vallfärd~en pilgrimsfärd|Denna resa gick till en helig plats, exempelvis Santiago de Compostela eller Jerusalem.
+en vallfärd~en pilgrimsfärd|Den gick till en helig plats, exempelvis Santiago de Compostela eller Jerusalem.
 ett korståg|Denna religiöst motiverade militära expedition förknippas bland annat med europeiska härars färder till Heliga landet.
 en fogde|Denna företrädare för en herre eller kronan kunde driva in skatt och sköta ett område.
 ett skrå|Detta medeltida samfund reglerade ett hantverksyrke och vägen från lärling till mästare.
@@ -66,10 +66,10 @@ en gycklare|Denna kringresande eller hovanknutna underhållare kunde roa med sk�
 Hansan|Detta nätverk av handelsstäder dominerade mycket av handeln kring Östersjön och Nordsjön.
 feodalism|Så kallas ofta systemet där län och jord knöts till trohet och tjänster mellan herrar och underlydande.
 en vasall|Denna underordnade storman lovade trohet och tjänst åt en länsherre i utbyte mot beskydd eller ett län.
-en livegen|Denna bonde var bunden till jorden och kunde inte fritt lämna godset där han eller hon arbetade.
+en livegen|Den var bunden till jorden och kunde inte fritt lämna godset där han eller hon arbetade.
 tionde|Denna kyrkliga avgift motsvarade i princip tio procent av vissa inkomster eller jordbruksprodukter.
 en katedral|Så kallas kyrkan där en biskop har sitt säte; många fick höga torn och stora valv under medeltiden.
-gotik|Denna byggnadsstil känns igen på spetsbågar, ribbvalv och stora fönster i höga kyrkor.
+gotik|Den känns igen på spetsbågar, ribbvalv och stora fönster i höga kyrkor.
 en strävbåge|Denna yttre bågkonstruktion hjälper en hög kyrkas väggar att stå emot valvens sidotryck.
 en illumination|Så kallas en målad dekoration eller bild i en handskriven bok, ofta med guld och starka färger.
 en trubadur|Denna medeltida diktare och sångare i södra Frankrike skrev ofta om hövisk kärlek.
@@ -133,51 +133,51 @@ Boxarupproret|Detta kinesiska uppror kring år 1900 riktades mot utländskt infl
 Meijirestaurationen|Denna japanska omvandling från 1868 återförde formellt makten till kejsaren och drev snabb modernisering.
 den arabiska våren|Denna våg av protester började i Tunisien 2010 och spreds till flera länder i Nordafrika och Mellanöstern.
 
-@Kungar och drottningar|Vem är|Denna monark {1}.
-Gustav Vasa|valdes till svensk kung 1523 och ledde landet ur den nordiska unionen
-Carl XVI Gustaf~Carl Gustaf|blev svensk kung 1973 och har valspråket För Sverige – i tiden
-Elizabeth II~Elisabet II|var brittisk drottning från 1952 till 2022 och firade sjuttio år på tronen
-Karl XII|var Sveriges krigarkung som stupade vid Fredrikstens fästning 1718
-Kleopatra VII~Kleopatra|var Egyptens sista härskare i den ptolemeiska dynastin och förknippas med Caesar och Antonius
-drottning Kristina~Kristina av Sverige|abdikerade från Sveriges tron 1654 och övergick senare till katolicismen
-Gustav II Adolf|stupade i slaget vid Lützen 1632 under trettioåriga kriget
-Gustav III|sköts på en maskeradbal på Stockholmsoperan 1792
-Henrik VIII|regerade i England och är särskilt känd för sex äktenskap samt brytningen med Rom
-Ludvig XIV|kallades Solkungen och gjorde Versailles till centrum för det franska hovet
-Napoleon Bonaparte~Napoleon|krönte sig till fransk kejsare 1804 och slutade sitt liv på Sankta Helena
-drottning Victoria~Victoria av Storbritannien|regerade i Storbritannien 1837–1901 och gav namn åt en hel epok
-Margareta I~drottning Margareta|var den drivande härskaren bakom nordisk förening i Kalmar 1397
-Harald Blåtand|var dansk kung på 900-talet och har gett namn åt den trådlösa tekniken Bluetooth
-Karl XIV Johan~Jean Baptiste Bernadotte|föddes i Frankrike, blev svensk kronprins 1810 och grundade den nuvarande svenska kungadynastin
-Katarina den stora~Katarina II|var rysk kejsarinna på 1700-talet och utvidgade rikets makt och territorium
-Peter den store~Peter I|var rysk tsar som grundade en ny stad vid Neva och ville öppna riket mot väster
-Vilhelm Erövraren~Vilhelm I|blev engelsk kung efter segern vid Hastings 1066
-Richard Lejonhjärta~Rikard I|var engelsk kung och deltog i det tredje korståget under slutet av 1100-talet
-Marie Antoinette|var fransk drottning född i Österrike och avrättades under revolutionen 1793
-Hatshepsut|var en kvinnlig farao vars stora terrasserade gravtempel ligger vid Deir el-Bahri
-Tutankhamon|var en ung egyptisk farao vars nästan orörda grav öppnades av Howard Carter 1922
-Qin Shi Huangdi~Qin Shi Huang|enade Kina 221 före vår tideräkning och lät anlägga graven med soldater i bränd lera
-Haile Selassie|var Etiopiens kejsare och blev en central symbol inom rastafarirörelsen
-Akihito|var japansk kejsare före sin abdikation 2019 och efterträddes av sonen Naruhito
+@Kungar och drottningar|Vem är|{1}.
+Gustav Vasa|Han valdes till svensk kung 1523 och ledde landet ur den nordiska unionen
+Carl XVI Gustaf~Carl Gustaf|Han blev svensk kung 1973 och har valspråket För Sverige – i tiden
+Elizabeth II~Elisabet II|Hon var brittisk drottning från 1952 till 2022 och firade sjuttio år på tronen
+Karl XII|Han var Sveriges krigarkung som stupade vid Fredrikstens fästning 1718
+Kleopatra VII~Kleopatra|Hon var Egyptens sista härskare i den ptolemeiska dynastin och förknippas med Caesar och Antonius
+drottning Kristina~Kristina av Sverige|Hon abdikerade från Sveriges tron 1654 och övergick senare till katolicismen
+Gustav II Adolf|Han stupade i slaget vid Lützen 1632 under trettioåriga kriget
+Gustav III|Han sköts på en maskeradbal på Stockholmsoperan 1792
+Henrik VIII|Han regerade i England och är särskilt känd för sex äktenskap samt brytningen med Rom
+Ludvig XIV|Han kallades Solkungen och gjorde Versailles till centrum för det franska hovet
+Napoleon Bonaparte~Napoleon|Han krönte sig till fransk kejsare 1804 och slutade sitt liv på Sankta Helena
+drottning Victoria~Victoria av Storbritannien|Hon regerade i Storbritannien 1837–1901 och gav namn åt en hel epok
+Margareta I~drottning Margareta|Hon var den drivande härskaren bakom nordisk förening i Kalmar 1397
+Harald Blåtand|Han var dansk kung på 900-talet och har gett namn åt den trådlösa tekniken Bluetooth
+Karl XIV Johan~Jean Baptiste Bernadotte|Han föddes i Frankrike, blev svensk kronprins 1810 och grundade den nuvarande svenska kungadynastin
+Katarina den stora~Katarina II|Hon var rysk kejsarinna på 1700-talet och utvidgade rikets makt och territorium
+Peter den store~Peter I|Han var rysk tsar som grundade en ny stad vid Neva och ville öppna riket mot väster
+Vilhelm Erövraren~Vilhelm I|Han blev engelsk kung efter segern vid Hastings 1066
+Richard Lejonhjärta~Rikard I|Han var engelsk kung och deltog i det tredje korståget under slutet av 1100-talet
+Marie Antoinette|Hon var fransk drottning född i Österrike och avrättades under revolutionen 1793
+Hatshepsut|Hon var en kvinnlig farao vars stora terrasserade gravtempel ligger vid Deir el-Bahri
+Tutankhamon|Han var en ung egyptisk farao vars nästan orörda grav öppnades av Howard Carter 1922
+Qin Shi Huangdi~Qin Shi Huang|Han enade Kina 221 före vår tideräkning och lät anlägga graven med soldater i bränd lera
+Haile Selassie|Han var Etiopiens kejsare och blev en central symbol inom rastafarirörelsen
+Akihito|Han var japansk kejsare före sin abdikation 2019 och efterträddes av sonen Naruhito
 
 @Upptäcktsresor|Vad är
 en kompass|Detta navigationsinstrument använder en magnetisk nål för att visa riktning mot norr.
 ett segel|Denna stora duk fångar vinden och gav fart åt många av upptäcktsresornas skepp.
 en sjökarta|På detta navigationsunderlag visas kuster, djup och farleder i stället för främst vägar.
 ekvatorn|Denna tänkta cirkel delar jorden i norra och södra halvklotet.
-Nordpolen|Denna punkt är jordaxelns norra skärning med ytan och ligger ute i Arktiska oceanen.
-Sydpolen|Denna punkt är jordaxelns södra skärning med ytan och ligger på den antarktiska inlandsisen.
+Nordpolen|Den är jordaxelns norra skärning med ytan och ligger ute i Arktiska oceanen.
+Sydpolen|Den är jordaxelns södra skärning med ytan och ligger på den antarktiska inlandsisen.
 Godahoppsudden|Denna udde nära Afrikas sydspets rundades av Bartolomeu Dias 1488 på vägen mot Indiska oceanen.
 Kap Horn|Denna udde vid Sydamerikas sydspets var fruktad av segelfartyg på grund av stormigt hav.
-Magellans sund|Denna farled skiljer Sydamerikas fastland från Eldslandet och användes under den första världsomseglingen.
+Magellans sund|Den skiljer Sydamerikas fastland från Eldslandet och användes under den första världsomseglingen.
 Sidenvägen|Detta nät av handelsleder band samman Östasien med områden längre västerut och förknippas med karavaner.
-en sextant|Med detta vinkelmätningsinstrument kan en navigatör mäta solens höjd över horisonten.
+en sextant|Med det kan en navigatör mäta solens höjd över horisonten.
 en kronometer|Ett mycket noggrant sådant ur hjälpte sjöfarare att bestämma längdgrad genom jämförelse med referenstid.
 en karavell|Denna relativt lilla manövrerbara portugisiska fartygstyp användes under 1400-talets kustutforskning.
-latitud~breddgrad|Denna vinkelkoordinat anger hur långt norr eller söder om ekvatorn en plats ligger.
-longitud~längdgrad|Denna vinkelkoordinat anger hur långt öster eller väster om nollmeridianen en plats ligger.
-Nordvästpassagen|Denna sjöväg går genom den kanadensiska arktiska övärlden mellan Atlanten och Stilla havet.
-Nordostpassagen|Denna sjöväg följer Asiens arktiska kust mellan Atlanten och Stilla havet.
+latitud~breddgrad|Den anger hur långt norr eller söder om ekvatorn en plats ligger.
+longitud~längdgrad|Den anger hur långt öster eller väster om nollmeridianen en plats ligger.
+Nordvästpassagen|Den går genom den kanadensiska arktiska övärlden mellan Atlanten och Stilla havet.
+Nordostpassagen|Den följer Asiens arktiska kust mellan Atlanten och Stilla havet.
 Kon-Tiki|På denna balsaflotte seglade Thor Heyerdahl från Peru mot Polynesien 1947.
 Endurance|Detta fartyg fastnade i Antarktis is under Ernest Shackletons expedition och sjönk 1915.
 Fram|Detta norska polarfartyg byggdes för att tåla istryck och användes av både Nansen och Amundsen.
@@ -187,65 +187,65 @@ skörbjugg|Denna bristsjukdom drabbade sjöfarare utan färsk mat och förebyggs
 Terra Australis|Detta latinska namn betecknade en hypotetisk sydlig kontinent på äldre kartor innan dess verkliga form var känd.
 ett astrolabium|Detta äldre astronomiska instrument användes för att mäta himlakroppars höjd innan sextanten blev vanlig.
 
-@Historiska personer|Vem är|Denna person {1}.
-Martin Luther King Jr~Martin Luther King|kämpade för svarta amerikaners medborgerliga rättigheter och höll talet I Have a Dream 1963
-Nelson Mandela|satt länge fängslad och blev Sydafrikas president efter apartheid
-Mahatma Gandhi~Mohandas Gandhi|ledde indiskt motstånd mot brittiskt kolonialstyre genom bland annat icke-våld och saltmarschen
-Anne Frank|skrev dagbok medan hon gömde sig undan nazisternas förföljelse i Amsterdam
-Jeanne d'Arc~Jeanne d’Arc|ledde franska trupper som tonåring och brändes på bål 1431
-Winston Churchill|var brittisk premiärminister under stora delar av andra världskriget och känd för sina tal
-Abraham Lincoln|var amerikansk president under inbördeskriget och mördades på teater 1865
-Rosa Parks|vägrade lämna sin bussplats till en vit resenär i Montgomery 1955
-Florence Nightingale|reformerade sjukvård och förknippas med en lampa under Krimkriget
-Raoul Wallenberg|räddade judar i Budapest med svenska skyddspass under andra världskriget
-Julius Caesar|var romersk fältherre, korsade Rubicon och mördades i senaten år 44 före vår tideräkning
-Alexander den store|var makedonisk kung som erövrade ett rike från Grekland till Indien under 300-talet före vår tideräkning
-Martin Luther|kritiserade avlatshandeln och blev en central gestalt i den protestantiska reformationen
-Harriet Tubman|flydde från slaveri och hjälpte andra att fly genom det hemliga nätverket Underground Railroad
-Emmeline Pankhurst|var en ledande brittisk suffragett som kämpade för kvinnors rösträtt
-Olof Palme|var svensk socialdemokratisk statsminister och mördades på Sveavägen 1986
-Dag Hammarskjöld|var svensk generalsekreterare i FN och omkom i en flygkrasch i Afrika 1961
-Folke Bernadotte|förknippas med de vita bussarna och mördades som FN-medlare i Jerusalem 1948
-Desmond Tutu|var sydafrikansk ärkebiskop och ledde sannings- och försoningskommissionen efter apartheid
-Eleanor Roosevelt|var amerikansk presidenthustru och drivande i arbetet med FN:s deklaration om mänskliga rättigheter
-Simón Bolívar~Simon Bolivar|ledde självständighetskamp i flera sydamerikanska länder och har gett Bolivia dess namn
-Mustafa Kemal Atatürk~Atatürk|grundade den moderna turkiska republiken och blev dess förste president
-Lech Wałęsa~Lech Walesa|var polsk elektriker och ledare för Solidaritet innan han blev president
-Václav Havel~Vaclav Havel|var dramatiker och dissident som blev president efter sammetsrevolutionen i Tjeckoslovakien
-Olympe de Gouges|skrev 1791 en deklaration om kvinnans och medborgarinnans rättigheter under franska revolutionen
+@Historiska personer|Vem är|{1}.
+Frederick Douglass|Han flydde från slaveri i USA och blev en inflytelserik abolitionist, författare och talare under 1800-talet
+Nelson Mandela|Han satt länge fängslad och blev Sydafrikas president efter apartheid
+Mahatma Gandhi~Mohandas Gandhi|Han ledde indiskt motstånd mot brittiskt kolonialstyre genom bland annat icke-våld och saltmarschen
+Anne Frank|Hon skrev dagbok medan hon gömde sig undan nazisternas förföljelse i Amsterdam
+Jeanne d'Arc~Jeanne d’Arc|Hon ledde franska trupper som tonåring och brändes på bål 1431
+Winston Churchill|Han var brittisk premiärminister under stora delar av andra världskriget och känd för sina tal
+Abraham Lincoln|Han var amerikansk president under inbördeskriget och mördades på teater 1865
+Rosa Parks|Hon vägrade lämna sin bussplats till en vit resenär i Montgomery 1955
+Florence Nightingale|Hon reformerade sjukvård och förknippas med en lampa under Krimkriget
+Raoul Wallenberg|Han räddade judar i Budapest med svenska skyddspass under andra världskriget
+Toussaint Louverture|Han blev den viktigaste militära och politiska ledaren under den haitiska revolutionens tidiga skede efter att själv ha fötts i slaveri
+Alexander den store|Han var makedonisk kung som erövrade ett rike från Grekland till Indien under 300-talet före vår tideräkning
+Martin Luther|Han kritiserade avlatshandeln och blev en central gestalt i den protestantiska reformationen
+Harriet Tubman|Hon flydde från slaveri och hjälpte andra att fly genom det hemliga nätverket Underground Railroad
+Emmeline Pankhurst|Hon var en ledande brittisk suffragett som kämpade för kvinnors rösträtt
+Olof Palme|Han var svensk socialdemokratisk statsminister och mördades på Sveavägen 1986
+Dag Hammarskjöld|Han var svensk generalsekreterare i FN och omkom i en flygkrasch i Afrika 1961
+Folke Bernadotte|Han förknippas med de vita bussarna och mördades som FN-medlare i Jerusalem 1948
+Desmond Tutu|Han var sydafrikansk ärkebiskop och ledde sannings- och försoningskommissionen efter apartheid
+Eleanor Roosevelt|Hon var amerikansk presidenthustru och drivande i arbetet med FN:s deklaration om mänskliga rättigheter
+Simón Bolívar~Simon Bolivar|Han ledde självständighetskamp i flera sydamerikanska länder och har gett Bolivia dess namn
+Mustafa Kemal Atatürk~Atatürk|Han grundade den moderna turkiska republiken och blev dess förste president
+Lech Wałęsa~Lech Walesa|Han var polsk elektriker och ledare för Solidaritet innan han blev president
+Václav Havel~Vaclav Havel|Han var dramatiker och dissident som blev president efter sammetsrevolutionen i Tjeckoslovakien
+Olympe de Gouges|Hon skrev 1791 en deklaration om kvinnans och medborgarinnans rättigheter under franska revolutionen
 
 @Politik och demokrati|Vad är
-demokrati|Detta styrelseskick bygger på folkets möjlighet att påverka, exempelvis genom fria och återkommande val.
-en diktatur|I detta styrelseskick är makten koncentrerad och fria val samt politiska rättigheter starkt begränsade.
+demokrati|Det bygger på folkets möjlighet att påverka, exempelvis genom fria och återkommande val.
+en diktatur|Här är makten koncentrerad och fria val samt politiska rättigheter starkt begränsade.
 en röstsedel~en valsedel|På detta papper anges ett parti eller en kandidat när en väljare deltar i ett val.
 en riksdag|Så kallas Sveriges folkvalda parlament som stiftar lagar och beslutar om statens budget.
 en regering|Denna grupp med statsminister och ministrar styr landet och lägger fram många lagförslag.
 en opposition|Så kallas partierna som står utanför regeringsmakten och granskar eller utmanar den.
 en majoritet|Mer än hälften av rösterna ger denna ställning vid en vanlig omröstning.
-en folkomröstning|Vid denna omröstning får väljarna ta ställning direkt till en sakfråga.
+en folkomröstning|Då får väljarna ta ställning direkt till en sakfråga.
 en grundlag|Denna typ av lag lägger fast statsskickets grundläggande regler och ändras genom en särskild ordning.
-yttrandefrihet|Denna rättighet skyddar möjligheten att uttrycka tankar, åsikter och information.
-parlamentarism|Denna princip innebär att regeringen måste tolereras av parlamentet för att kunna sitta kvar.
+yttrandefrihet|Den skyddar möjligheten att uttrycka tankar, åsikter och information.
+parlamentarism|Den innebär att regeringen måste tolereras av parlamentet för att kunna sitta kvar.
 en koalitionsregering|I denna regeringsform delar två eller flera partier på ministerposterna.
 ett utskott|Denna mindre arbetsgrupp i riksdagen bereder ärenden inom ett visst område före beslut.
 en motion|Så kallas ett förslag som lämnas av en eller flera riksdagsledamöter.
 en proposition|Så kallas ett förslag som regeringen lämnar till riksdagen.
 en misstroendeförklaring|Genom detta beslut kan riksdagen visa att en minister eller statsministern saknar dess förtroende.
-en talman|Denna person leder riksdagens arbete och föreslår i Sverige vem som ska bli statsminister.
+en talman|Den leder riksdagens arbete och föreslår i Sverige vem som ska bli statsminister.
 ett proportionellt valsystem|I detta system fördelas mandat i huvudsak efter partiernas andel av rösterna.
-maktdelning|Denna princip skiljer exempelvis lagstiftande, verkställande och dömande makt åt för att begränsa maktkoncentration.
+maktdelning|Den skiljer exempelvis lagstiftande, verkställande och dömande makt åt för att begränsa maktkoncentration.
 en rättsstat|I denna statlighetsprincip ska även makthavare följa lagar och domstolar kunna verka oberoende.
-subsidiaritetsprincipen|Denna EU-princip innebär att beslut ska tas så nära medborgarna som möjligt när det är ändamålsenligt.
-en konstitutionell monarki|I detta statsskick är kungens eller drottningens befogenheter begränsade av grundläggande lagar.
+subsidiaritetsprincipen|Den innebär att beslut ska tas så nära medborgarna som möjligt när det är ändamålsenligt.
+en konstitutionell monarki|Här är kungens eller drottningens befogenheter begränsade av grundläggande lagar.
 en federal stat~en federation|I denna statsform delas makt mellan en central nivå och delstater med egen beslutanderätt.
-en minoritetsregering|Denna regering har färre än hälften av parlamentets mandat bakom sina egna partier.
-ett mandat|Detta ord kan beteckna en plats i en folkvald församling och det uppdrag väljarna ger.
+en minoritetsregering|Den har färre än hälften av parlamentets mandat bakom sina egna partier.
+ett mandat|Det kan beteckna en plats i en folkvald församling och det uppdrag väljarna ger.
 
 @Lag och rätt|Vad är
 en domstol|Här prövas rättsliga tvister och brottmål av domare enligt lag.
 en advokat|Denna skyddade svenska yrkestitel tillhör en jurist som kan försvara eller företräda klienter.
 en åklagare|Denna jurist beslutar om åtal och för statens talan i brottmål.
-ett vittne|Denna person kan berätta i domstol om vad han eller hon har sett eller hört.
+ett vittne|Den kan berätta i domstol om vad han eller hon har sett eller hört.
 en dom|Detta avgörande meddelar rättens beslut efter prövningen av ett mål.
 ett åtal|Genom detta väcker åklagaren talan i domstol om att någon ska dömas för brott.
 en målsägande|Så kallas vanligtvis personen som ett brott riktats mot och som kan kräva skadestånd.
@@ -259,11 +259,11 @@ ett prejudikat|Detta vägledande domstolsavgörande ger stöd när senare liknan
 en förlikning|Vid denna uppgörelse kommer parterna överens om att avsluta en tvist.
 en fullmakt|Med detta dokument eller meddelande får någon rätt att handla för en annan persons räkning.
 ett avtal|Denna bindande överenskommelse kan gälla exempelvis köp, arbete eller hyra.
-ett testamente|I denna rättshandling anger en person hur kvarlåtenskapen ska fördelas efter döden.
+ett testamente|Här anger en person hur kvarlåtenskapen ska fördelas efter döden.
 en nämndeman|Denna lekmannadomare deltar tillsammans med juristdomare i vissa svenska mål.
-en häktning|Detta domstolsbeslut innebär att en misstänkt frihetsberövas medan utredning eller rättegång pågår.
-oskuldspresumtionen|Denna rättsprincip innebär att en anklagad ska betraktas som oskyldig tills skuld har fastställts.
-bevisbörda|Detta begrepp anger vilken part som måste styrka ett påstående för att få det lagt till grund för ett avgörande.
+en häktning|Det innebär att en misstänkt frihetsberövas medan utredning eller rättegång pågår.
+oskuldspresumtionen|Den innebär att en anklagad ska betraktas som oskyldig tills skuld har fastställts.
+bevisbörda|Det anger vilken part som måste styrka ett påstående för att få det lagt till grund för ett avgörande.
 preskription|Detta kan göra att ett anspråk eller möjligheten att lagföra ett brott upphör efter en viss tid.
 nödvärn|Denna rättsliga grund kan tillåta försvar mot ett påbörjat eller överhängande brottsligt angrepp.
 laga kraft|När ett avgörande inte längre kan överklagas på vanligt sätt sägs det ha vunnit detta.

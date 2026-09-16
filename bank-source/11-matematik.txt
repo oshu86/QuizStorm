@@ -21,6 +21,6 @@
 96|Så många kronor kostar tre varor för fyrtio kronor styck efter tjugo procents rabatt på hela köpet.
 225|Så många kronor blir tvåhundrafemtio efter att priset först höjs med tjugo procent och sedan sänks med tjugofem procent.
 160|Så många kronor kostade varan före en tjugofemprocentig rabatt om reapriset är etthundratjugo kronor.
-108|Detta tal får du genom att ta tre fjärdedelar av nittiosex och sedan öka resultatet med hälften.
+108|Det får du genom att ta tre fjärdedelar av nittiosex och sedan öka resultatet med hälften.
 81|Så många kronor blir etthundra efter att priset först höjs med åtta procent och sedan sänks med tjugofem procent.
 144|Så många kronor kostar tre likadana varor tillsammans om varje vara kostar sextio kronor före tjugo procents rabatt.
