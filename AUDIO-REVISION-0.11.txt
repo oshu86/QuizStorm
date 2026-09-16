@@ -1,0 +1,28 @@
+QuizStorm 0.11 – custom soundtrack expansion
+
+User-supplied 4.8 s bright synth/arpeggiator cue
+  -> dist/assets/audio/double-fanfare.mp3
+  -> plays once when Dubbelchans is revealed.
+
+User-supplied 7.7 s bright synth/arpeggiator cue
+  -> dist/assets/audio/round-intro.mp3
+  -> plays when round 2 and round 3 boards open.
+
+Victory Lap.mp3
+  -> dist/assets/audio/winner-loop.mp3
+  -> loops while the winner fireworks screen is active and stops when that screen is left.
+
+Scramble / category shuffle
+  -> dist/assets/audio/scramble.mp3
+  -> new original 48 kHz stereo cue with layered whooshes, rising synth sparks and a landing chime.
+  -> plays when the host presses the dice button and all six categories are rerolled.
+
+Wrong answer
+  -> dist/assets/audio/wrong-answer.mp3
+  -> new original 48 kHz stereo deep sad BEEE–BOOOP horn cue (~1.6 s), with low brass/boat-horn harmonics, sub reinforcement and short room reverb.
+
+Retained from 0.10
+  -> menu-music.mp3 (Menu of Shadows)
+  -> game-launch.mp3 (Galaxy Launch)
+  -> round-end.mp3 (10 Seconds Mysterious Gameshow Music)
+  -> final-thinking-30/45/60.mp3 (Final Question Countdown variants)

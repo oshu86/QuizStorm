@@ -1,0 +1,27 @@
+QuizStorm 0.10 – custom soundtrack mapping
+
+Menu of Shadows.mp3
+  -> dist/assets/audio/menu-music.mp3
+  -> loops in main menu after the browser has received a user interaction.
+
+Galaxy Launch.mp3
+  -> dist/assets/audio/game-launch.mp3
+  -> plays once when a new game is created. Round 2/3 retain the shorter round-intro cue.
+
+10 Seconds Mysterious Gameshow Music.mp3
+  -> dist/assets/audio/round-end.mp3
+  -> plays when a board is completed or the host confirms an early round end.
+
+Final Question Countdown.mp3
+  -> final-thinking-30.mp3 (original timing)
+  -> final-thinking-45.mp3 and final-thinking-60.mp3 (central phrase extended; original ending retained at zero)
+  -> pauses/resumes together with the Final timer and does not loop.
+
+Wrong answer
+  -> wrong-answer.mp3
+  -> new original 48 kHz stereo bee-doo cue, 0.96 s, designed to be sharper and fuller while preserving the two-tone identity.
+
+Unchanged from 0.9
+  -> round-intro.mp3
+  -> winner-loop.mp3
+  -> double-fanfare.mp3

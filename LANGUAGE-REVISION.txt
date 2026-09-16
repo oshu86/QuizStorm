@@ -1,0 +1,36 @@
+QuizStorm 0.5 – språkjustering av ledtrådar
+
+Syfte
+Minska den repetitiva användningen av "Denna" och "Detta" i början av ledtrådarna utan att ändra facit, poängnivåer, kategorier eller spelmekanik.
+
+Genomfört
+- 41 fasta kategorimallar har skrivits om så att de inte längre börjar med "Denna/Detta".
+- Fotbollskategorin har fått naturliga Han/Hon-formuleringar; exempelvis börjar Maradona-ledtråden nu: "Han gjorde både ett berömt solomål ..."
+- 315 fristående ledtrådar har fått säkrare, kortare inledningar där kategoriinformationen gjorde typen överflödig.
+- Beskrivande formuleringar som "Denna röda planet ..." har ofta behållits när orden i nominalfrasen faktiskt fungerar som en viktig del av ledtråden.
+- Frågefakta och facit har inte avsiktligt ändrats.
+
+Resultat
+- Ursprungligen började 2 076 av 2 500 ordinarie ledtrådar direkt med "Denna" eller "Detta".
+- Efter justeringen gör 782 av 2 500 det.
+- Det motsvarar en minskning från cirka 83 % till cirka 31 %.
+
+Validering
+- build-bank.cjs: godkänd, 100 kategorier, 2 500 ordinarie frågor, 80 finalfrågor, 0 fel.
+- test.cjs: godkänd.
+- effects-test.cjs: godkänd.
+- variation-test.cjs: godkänd mot den återställda Git-historiken; 1 000 simulerade partier, 90 000 ordinarie rutor, alla 2 500 alternativ och alla 80 finalfrågor observerades; äldre sparade partier kompatibla.
+
+Andra språkpassningen – semantik och kategoriupprepning
+- Namngivna personer och personifierade gestalter använder nu i första hand Han/Hon i stället för Den/Denna, Figuren, Personen, Artisten, Författaren osv.
+- Grekisk och romersk mytologi samt Barnböcker och sagor har gåtts igenom rad för rad. Herakles/Herkules börjar exempelvis nu med "Han är känd för tolv storverk ...".
+- Nordisk mytologi har fått samma behandling för namngivna gudar och gestalter.
+- Tv-serier, Filmklassiker, Svenska filmer och serier, Animerat och tecknat, Tv-program och underhållning, Datorspel och tv-spel samt Brädspel och kortspel har skrivits om så att ledtrådarna inte behöver börja med kategoriord som "Serien", "Filmen", "Programmet" eller "Spelet".
+- I flera tvådelade kategorier har det unika kännetecknet flyttats först, så exempelvis Världens städer inte längre börjar varje ledtråd med "Staden ...".
+- Band och musikgrupper använder naturligt "De ..." i stället för "Gruppen ...".
+- Ett urval av finalfrågorna har också fått personliga pronomen och mindre onödig upprepning av medium, exempelvis roman/berättelse.
+
+Resultat för andra passningen
+- 791 av 2 500 ordinarie ledtrådar ändrades jämfört med föregående språkversion.
+- Ledtrådar som började med ett generiskt typ-/kategoriord i de granskade mönstren minskade från 726 till 0.
+- Direkta starter med "Denna/Detta" minskade ytterligare från 782 till 736. Dessa finns främst kvar där själva beskrivningen är en naturlig del av ledtråden, exempelvis föremål, fenomen, växter och liknande.

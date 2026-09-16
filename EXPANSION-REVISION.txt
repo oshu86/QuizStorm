@@ -1,0 +1,12 @@
+QuizStorm 0.6 – utökad frågebank
+
+- Banken har utökats från 100 till 200 kategorier.
+- Varje kategori innehåller 25 ordinarie ledtrådar: fem svårighetsnivåer med fem slumpbara alternativ på varje nivå.
+- Totalt finns 5 000 ordinarie ledtrådar.
+- Finalpoolen har utökats från 80 till 120 ledtrådar.
+- De av användaren önskade nya kategorierna ingår, bland annat Ordspråk, Disney, första och andra världskriget, Hästar, Hundar, 1980-/1990-/2000-/2010-talet, USA, USA:s delstater, Svenska landskap, Leksaker, Kalla kriget, Vietnamkriget, Biologi, Klassiska actionfilmer och Kända citat.
+- Exakta dubbletter och registrerade alias stoppas av byggvalidatorn.
+- Därutöver gjordes en manuell/semantisk aliaspassning för sådant som olika stavningar, bestämd form och geografiska suffix.
+- Konstgjorda fällfrågor och onaturliga facit som upptäcktes under kvalitetskontrollen ersattes med nya frågor.
+- Personledtrådar i expansionen har språkgranskats så att `Vem är`-frågor inte börjar med Den/Denna/Det/Detta.
+- Spelmekaniken är inte ändrad av innehållsutökningen.
