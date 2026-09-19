@@ -1,4 +1,4 @@
-# QuizStorm 0.24
+# QuizStorm 0.27
 
 Svenskt frågesportspel för 2–8 spelare och en spelledare. Tre omgångar, dubbelchans och final. Spelet sparas lokalt i webbläsaren.
 
@@ -23,6 +23,7 @@ Kräver Node.js. Kör:
     node test.cjs
     node effects-test.cjs
     node atmosphere-test.cjs
+    node menu-motion-test.cjs
 
 GitHub Actions kör kontrollerna före publicering av `dist` till GitHub Pages vid uppdateringar av `main`. Källbilder, tester och frågkällor ingår inte i den publicerade webbplatsen.
 
@@ -30,6 +31,8 @@ GitHub Actions kör kontrollerna före publicering av `dist` till GitHub Pages v
 
 ## Senaste versionen
 
-Version 0.24 inkluderar levande menygrafik, stjärnor och mjuk displacement på spelplanen, nya svarsljud och NewLable som grafik för kategorier/ospelade nivåer. Spelade nivåer använder QuizStorm2. Se `RELEASE-0.24.md` och tidigare versionsanteckningar.
+Version 0.27 förbättrar ledtrådar och facit. Se `RELEASE-0.27.md` och `review/EDITORIAL.md` för granskningens omfattning, exempel och källor. Version 0.26:s grafik, raka rutnät och effekter är bevarade. Starta ett nytt parti för att få de uppdaterade ledtrådarna; redan dragna frågor i ett sparat parti är sparade med sin tidigare text.
 
 Menymusiken försöker starta automatiskt. Webbläsaren kan kräva ett första klick eller tangenttryck. Inställningen för minskad rörelse ger stilla dekorationer. Tidigare sparade partier fungerar fortsatt.
+
+

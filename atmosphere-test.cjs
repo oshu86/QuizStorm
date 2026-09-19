@@ -21,9 +21,10 @@ console.log('PASS: smooth bounded displacement over 200 seconds; inactive/hidden
 const children=[];
 const element=()=>({style:{},setAttribute(){},append(...nodes){this.children.push(...nodes)},children:[]});
 vm.runInNewContext(fs.readFileSync(__dirname+'/dist/menu-motion.js','utf8'),{
- Math,matchMedia:()=>motion,document:{hidden:false,createElement:element,body:{append:el=>children.push(el)},documentElement:{classList:{toggle(){}}},querySelector:()=>null,getElementById:()=>({}),addEventListener(){}},window:{addEventListener(){}},MutationObserver:class{observe(){}},requestAnimationFrame(){},cancelAnimationFrame(){}
+ Math,matchMedia:()=>motion,document:{hidden:false,createElement:element,createElementNS:element,body:{append:el=>children.push(el)},documentElement:{classList:{toggle(){}}},querySelector:()=>null,getElementById:()=>({}),addEventListener(){}},window:{addEventListener(){}},MutationObserver:class{observe(){}},requestAnimationFrame(){},cancelAnimationFrame(){}
 });
-const stars=children[0];assert.equal(stars.id,'board-stars');assert.equal(stars.children.length,30);
+const stars=children.find(el=>el.id==='board-stars');assert.equal(stars.id,'board-stars');assert.equal(stars.children.length,30);
 assert.equal(stars.children.filter(el=>el.className.includes('near-star')).length,6);
 for(const star of stars.children){assert(fs.existsSync(__dirname+'/dist/'+star.children[0].src));assert(star.style.cssText.includes('--star-opacity:'))}
 console.log('PASS: 30 randomized stars, six nearer stars, and valid local image paths.');
+
