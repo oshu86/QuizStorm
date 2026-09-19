@@ -52,86 +52,86 @@ Enya~Eithne Brennan|Hon är irländsk sångare med månglagrade röster i Orinoc
 Nick Cave|Han är australisk sångare i The Bad Seeds och sjöng Where the Wild Roses Grow med Kylie Minogue
 Jacques Brel|Han var belgisk vissångare som skrev Ne me quitte pas och sjöng på franska
 
-@Band och musikgrupper|Vilka är|De {1}.
-ABBA|vann Eurovision 1974 och består av två kvinnor och två män från svensk pophistoria
-The Beatles|kom från Liverpool och hade medlemmarna John, Paul, George och Ringo
-Queen|hade Freddie Mercury som sångare och gav ut Bohemian Rhapsody
-The Rolling Stones|har Mick Jagger som sångare och Keith Richards som gitarrist
-Metallica|är metalbandet bakom Enter Sandman och Nothing Else Matters
-Coldplay|har Chris Martin som sångare och hits som Yellow och Viva la Vida
-U2|kommer från Irland och har Bono som sångare samt The Edge som gitarrist
-Nirvana|förknippas med Kurt Cobain och grungens genombrott med Nevermind
-Roxette|bestod av Marie Fredriksson och Per Gessle och fick världshits med The Look och It Must Have Been Love
-Kent|kom från Eskilstuna och gav ut bland annat Vapen & ammunition
-Pink Floyd|gav ut The Dark Side of the Moon och rockoperan The Wall
-Fleetwood Mac|gav ut Rumours och hade bland andra Stevie Nicks och Lindsey Buckingham som medlemmar
-Depeche Mode|är en brittisk elektronisk grupp bakom Enjoy the Silence och Personal Jesus
-Oasis|bildades i Manchester kring bröderna Liam och Noel Gallagher och gjorde Wonderwall
-The Cure|har Robert Smith som frontfigur och gjorde Boys Don't Cry och Friday I'm in Love
-Toto|fick en stor hit med Africa och är känd för skickliga studiomusiker i sättningen
-Dire Straits|hade Mark Knopfler som sångare och gitarrist och gav ut Brothers in Arms
-Eurythmics|bestod av Annie Lennox och Dave Stewart och slog igenom med Sweet Dreams
-Daft Punk|var en fransk elektronisk duo vars medlemmar ofta uppträdde i robothjälmar
-First Aid Kit|består av de svenska systrarna Johanna och Klara Söderberg och sjunger folkpräglad pop
-Talking Heads|hade David Byrne som sångare och gjorde Once in a Lifetime
-Kraftwerk|är tyska pionjärer inom elektronisk musik och gav ut Autobahn
-Massive Attack|kommer från Bristol och förknippas med triphop samt albumet Mezzanine
-Portishead|har Beth Gibbons som sångare och gav ut triphopalbumet Dummy 1994
-The Velvet Underground|hade Lou Reed som central medlem och ett bananmotiv av Andy Warhol på sitt debutomslag
+@Band och musikgrupper|Vilka är
+ABBA|Denna musikgrupp vann Eurovision 1974 och består av två kvinnor och två män från svensk pophistoria.
+The Beatles|Denna musikgrupp kom från Liverpool och hade medlemmarna John, Paul, George och Ringo.
+Queen|Denna musikgrupp hade Freddie Mercury som sångare och gav ut Bohemian Rhapsody.
+The Rolling Stones|Denna musikgrupp har Mick Jagger som sångare och Keith Richards som gitarrist.
+Metallica|Denna musikgrupp är metalbandet bakom Enter Sandman och Nothing Else Matters.
+Coldplay|Denna musikgrupp har Chris Martin som sångare och hits som Yellow och Viva la Vida.
+U2|Denna musikgrupp kommer från Irland och har Bono som sångare samt The Edge som gitarrist.
+Nirvana|Denna musikgrupp förknippas med Kurt Cobain och grungens genombrott med Nevermind.
+Roxette|Denna musikgrupp bestod av Marie Fredriksson och Per Gessle och fick världshits med The Look och It Must Have Been Love.
+Kent|Denna musikgrupp kom från Eskilstuna och gav ut bland annat Vapen & ammunition.
+Pink Floyd|Denna musikgrupp gav ut The Dark Side of the Moon och rockoperan The Wall.
+Fleetwood Mac|Denna musikgrupp gav ut Rumours och hade bland andra Stevie Nicks och Lindsey Buckingham som medlemmar.
+Depeche Mode|Denna musikgrupp är en brittisk elektronisk grupp bakom Enjoy the Silence och Personal Jesus.
+Oasis|Denna musikgrupp bildades i Manchester kring bröderna Liam och Noel Gallagher och gjorde Wonderwall.
+The Cure|Denna musikgrupp har Robert Smith som frontfigur och gjorde Boys Don't Cry och Friday I'm in Love.
+Toto|Denna musikgrupp fick en stor hit med Africa och är känd för skickliga studiomusiker i sättningen.
+Dire Straits|Denna musikgrupp hade Mark Knopfler som sångare och gitarrist och gav ut Brothers in Arms.
+Eurythmics|Denna musikgrupp bestod av Annie Lennox och Dave Stewart och slog igenom med Sweet Dreams.
+Daft Punk|Denna musikgrupp var en fransk elektronisk duo vars medlemmar ofta uppträdde i robothjälmar.
+First Aid Kit|Denna musikgrupp består av de svenska systrarna Johanna och Klara Söderberg och sjunger folkpräglad pop.
+Talking Heads|Denna musikgrupp hade David Byrne som sångare och gjorde Once in a Lifetime.
+Kraftwerk|Denna musikgrupp är tyska pionjärer inom elektronisk musik och gav ut Autobahn.
+Massive Attack|Denna musikgrupp kommer från Bristol och förknippas med triphop samt albumet Mezzanine.
+Portishead|Denna musikgrupp har Beth Gibbons som sångare och gav ut triphopalbumet Dummy 1994.
+The Velvet Underground|Denna musikgrupp hade Lou Reed som central medlem och ett bananmotiv av Andy Warhol på sitt debutomslag.
 
-@Låtar och hits|Vad är|Låten {1}.
-Dancing Queen|är en ABBA-hit från 1976 där en sjuttonåring står i centrum på dansgolvet
-Happy Birthday to You|är en engelskspråkig födelsedagssång som sjungs världen över innan ljusen blåses ut
-Last Christmas|är Wham!-låten från 1984 som återkommer på spellistor varje december
-Imagine|är John Lennons pianoballad från 1971 om en värld utan bland annat nationsgränser
-Smells Like Teen Spirit|öppnar Nirvanas Nevermind och blev en symbol för grungens genombrott 1991
-Billie Jean|finns på Michael Jacksons Thriller och kretsar kring ett omstritt faderskap
-Like a Prayer|är Madonnas titelspår från 1989 med tydliga gospelinslag
-Hotel California|är Eagles långa rockklassiker om ett lockande men gåtfullt hotell
-Sweet Child o' Mine|är Guns N' Roses hit med ett omedelbart igenkännligt inledande gitarrmönster av Slash
-Wonderwall|är Oasis stora akustiskt präglade singel från albumet med titeln (What's the Story) Morning Glory?
-Take on Me|är a-has hit vars musikvideo blandar verkliga människor med tecknad blyertsvärld
-Africa|är Totos hit från 1982 med ett geografiskt namn och ett berömt trumkomp
-Purple Rain|är Prince-balladen som också gav namn åt hans film och album från 1984
-Gimme! Gimme! Gimme!~Gimme Gimme Gimme|är ABBA-låten vars syntmotiv samplades i Madonnas Hung Up
-Stayin' Alive|är Bee Gees discohit från Saturday Night Fever med hög falsettsång
-Space Oddity|är David Bowies berättelse om astronauten Major Tom från 1969
-Fast Car|är Tracy Chapmans debutalbums stora låt om drömmen att fly ett svårt liv med bil
-Both Sides Now|är Joni Mitchells sång som betraktar moln, kärlek och livet från flera håll
-The Sound of Silence|är Simon & Garfunkels välkända sång med tystnad som centralt motiv i titeln
-Life on Mars?~Life on Mars|är David Bowies pianodrivna låt på Hunky Dory med en frågande titel om en annan planet
-Strange Fruit|är sången som Billie Holiday gjorde berömd och som skildrar lynchning genom en mörk trädmetafor
-A Change Is Gonna Come|är Sam Cookes soulballad som blev förknippad med medborgarrättsrörelsens hopp
-Wichita Lineman|är Jimmy Webbs låt, berömd med Glen Campbell, om en ensam telefonledningsarbetare
-Gimme Shelter|är Rolling Stones-låten där Merry Claytons intensiva gästsång möter Mick Jaggers röst
-Teardrop|är Massive Attacks låt med Elizabeth Fraser på sång vars musik användes till tv-serien House
+@Låtar och hits|Vad är
+Dancing Queen|Denna låt är en ABBA-hit från 1976 där en sjuttonåring står i centrum på dansgolvet.
+Happy Birthday to You|Denna låt är en engelskspråkig födelsedagssång som sjungs världen över innan ljusen blåses ut.
+Last Christmas|Denna låt är Wham!-låten från 1984 som återkommer på spellistor varje december.
+Imagine|Denna låt är John Lennons pianoballad från 1971 om en värld utan bland annat nationsgränser.
+Smells Like Teen Spirit|Denna låt öppnar Nirvanas Nevermind och blev en symbol för grungens genombrott 1991.
+Billie Jean|Denna låt finns på Michael Jacksons Thriller och kretsar kring ett omstritt faderskap.
+Like a Prayer|Denna låt är Madonnas titelspår från 1989 med tydliga gospelinslag.
+Hotel California|Denna låt är Eagles långa rockklassiker om ett lockande men gåtfullt hotell.
+Sweet Child o' Mine|Denna låt är Guns N' Roses hit med ett omedelbart igenkännligt inledande gitarrmönster av Slash.
+Wonderwall|Denna låt är Oasis stora akustiskt präglade singel från albumet med titeln (What's the Story) Morning Glory?.
+Take on Me|Denna låt är a-has hit vars musikvideo blandar verkliga människor med tecknad blyertsvärld.
+Africa|Denna låt är Totos hit från 1982 med ett geografiskt namn och ett berömt trumkomp.
+Purple Rain|Denna låt är Prince-balladen som också gav namn åt hans film och album från 1984.
+Gimme! Gimme! Gimme!~Gimme Gimme Gimme|Denna låt är ABBA-låten vars syntmotiv samplades i Madonnas Hung Up.
+Stayin' Alive|Denna låt är Bee Gees discohit från Saturday Night Fever med hög falsettsång.
+Space Oddity|Denna låt är David Bowies berättelse om astronauten Major Tom från 1969.
+Fast Car|Denna låt är Tracy Chapmans debutalbums stora låt om drömmen att fly ett svårt liv med bil.
+Both Sides Now|Denna låt är Joni Mitchells sång som betraktar moln, kärlek och livet från flera håll.
+The Sound of Silence|Denna låt är Simon & Garfunkels välkända sång med tystnad som centralt motiv i titeln.
+Life on Mars?~Life on Mars|Denna låt är David Bowies pianodrivna låt på Hunky Dory med en frågande titel om en annan planet.
+Strange Fruit|Denna låt är sången som Billie Holiday gjorde berömd och som skildrar lynchning genom en mörk trädmetafor.
+A Change Is Gonna Come|Denna låt är Sam Cookes soulballad som blev förknippad med medborgarrättsrörelsens hopp.
+Wichita Lineman|Denna låt är Jimmy Webbs låt, berömd med Glen Campbell, om en ensam telefonledningsarbetare.
+Gimme Shelter|Denna låt är Rolling Stones-låten där Merry Claytons intensiva gästsång möter Mick Jaggers röst.
+Teardrop|Denna låt är Massive Attacks låt med Elizabeth Fraser på sång vars musik användes till tv-serien House.
 
-@Melodifestivalen och Eurovision|Vad är|Bidraget {1}.
-Waterloo|gav Sverige dess första Eurovisionseger 1974 med ABBA
-Euphoria|vann Eurovision 2012 för Sverige med Loreen i svepande rörelser och barfotaframträdande
-Fångad av en stormvind|gav Carola Eurovisionsegern i Rom 1991 efter samma poäng som Frankrikes bidrag
-Främling|var Carolas stora genombrott i Melodifestivalen 1983 när hon bar gul scenklädsel
-Diggi-Loo Diggi-Ley|vann Eurovision 1984 med Herreys och deras gyllene skor
-Tattoo|gav Loreen hennes andra Eurovisionseger 2023 under en stor lågt hängande skärm
-Heroes|vann Eurovision 2015 med Måns Zelmerlöw och animerade figurer på scenen
-Stad i ljus|framfördes av Tommy Körberg för Sverige i Eurovision 1988 och har blivit en allsångsfavorit
-Den vilda|framfördes av One More Time för Sverige i Eurovision 1996 med nordisk stämning
-Take Me to Your Heaven|gav Charlotte Nilsson Eurovisionsegern i Jerusalem 1999
-Hold Me Closer|framfördes av Cornelia Jakobs för Sverige i Eurovision 2022 framför en stor ljusskiva
-Undo|var Sanna Nielsens svenska Eurovisionbidrag 2014 och slutade på tredje plats
-Popular|framfördes av Eric Saade i Eurovision 2011 med glasväggar som del av scenshowen
-Invincible|var den engelska Eurovisionversionen av Carolas Evighet 2006
-If I Were Sorry|var Frans svenska Eurovisionbidrag 2016 med en avskalad popstil
-Hard Rock Hallelujah|vann Eurovision 2006 för Finland med monsterklädda Lordi
-Fairytale|vann Eurovision 2009 för Norge med fiolspelande Alexander Rybak
-Rise Like a Phoenix|vann Eurovision 2014 för Österrike med Conchita Wurst
-Molitva|vann Eurovision 2007 för Serbien med Marija Šerifović
-Zitti e buoni|vann Eurovision 2021 för Italien med rockbandet Måneskin
-Poupée de cire, poupée de son|vann Eurovision 1965 med France Gall för Luxemburg och skrevs av Serge Gainsbourg
-Nel blu dipinto di blu~Volare|blev en internationell klassiker efter Domenico Modugnos Eurovisionframträdande för Italien 1958
-Nocturne|vann Eurovision 1995 för Norge med Secret Garden och innehåller mycket instrumentalmusik
-Dansevise|gav Danmark Eurovisionsegern 1963 med duon Grethe och Jørgen Ingmann
-1944|vann Eurovision 2016 för Ukraina med Jamala och anknyter till deportationen av krimtatarer
+@Melodifestivalen och Eurovision|Vad är
+Waterloo|Detta bidrag gav Sverige dess första Eurovisionseger 1974 med ABBA.
+Euphoria|Detta bidrag vann Eurovision 2012 för Sverige med Loreen i svepande rörelser och barfotaframträdande.
+Fångad av en stormvind|Detta bidrag gav Carola Eurovisionsegern i Rom 1991 efter samma poäng som Frankrikes bidrag.
+Främling|Detta bidrag var Carolas stora genombrott i Melodifestivalen 1983 när hon bar gul scenklädsel.
+Diggi-Loo Diggi-Ley|Detta bidrag vann Eurovision 1984 med Herreys och deras gyllene skor.
+Tattoo|Detta bidrag gav Loreen hennes andra Eurovisionseger 2023 under en stor lågt hängande skärm.
+Heroes|Detta bidrag vann Eurovision 2015 med Måns Zelmerlöw och animerade figurer på scenen.
+Stad i ljus|Detta bidrag framfördes av Tommy Körberg för Sverige i Eurovision 1988 och har blivit en allsångsfavorit.
+Den vilda|Detta bidrag framfördes av One More Time för Sverige i Eurovision 1996 med nordisk stämning.
+Take Me to Your Heaven|Detta bidrag gav Charlotte Nilsson Eurovisionsegern i Jerusalem 1999.
+Hold Me Closer|Detta bidrag framfördes av Cornelia Jakobs för Sverige i Eurovision 2022 framför en stor ljusskiva.
+Undo|Detta bidrag var Sanna Nielsens svenska Eurovisionbidrag 2014 och slutade på tredje plats.
+Popular|Detta bidrag framfördes av Eric Saade i Eurovision 2011 med glasväggar som del av scenshowen.
+Invincible|Detta bidrag var den engelska Eurovisionversionen av Carolas Evighet 2006.
+If I Were Sorry|Detta bidrag var Frans svenska Eurovisionbidrag 2016 med en avskalad popstil.
+Hard Rock Hallelujah|Detta bidrag vann Eurovision 2006 för Finland med monsterklädda Lordi.
+Fairytale|Detta bidrag vann Eurovision 2009 för Norge med fiolspelande Alexander Rybak.
+Rise Like a Phoenix|Detta bidrag vann Eurovision 2014 för Österrike med Conchita Wurst.
+Molitva|Detta bidrag vann Eurovision 2007 för Serbien med Marija Šerifović.
+Zitti e buoni|Detta bidrag vann Eurovision 2021 för Italien med rockbandet Måneskin.
+Poupée de cire, poupée de son|Detta bidrag vann Eurovision 1965 med France Gall för Luxemburg och skrevs av Serge Gainsbourg.
+Nel blu dipinto di blu~Volare|Detta bidrag blev en internationell klassiker efter Domenico Modugnos Eurovisionframträdande för Italien 1958.
+Nocturne|Detta bidrag vann Eurovision 1995 för Norge med Secret Garden och innehåller mycket instrumentalmusik.
+Dansevise|Detta bidrag gav Danmark Eurovisionsegern 1963 med duon Grethe och Jørgen Ingmann.
+1944|Detta bidrag vann Eurovision 2016 för Ukraina med Jamala och anknyter till deportationen av krimtatarer.
 
 @Rock och pop|Vad är
 en refräng|Denna återkommande del av en poplåt brukar bära den mest minnesvärda melodin och texten.
@@ -214,56 +214,56 @@ Fanny Hensel~Fanny Mendelssohn|Hon var tonsättare och pianist samt syster till 
 Hugo Alfvén~Hugo Alfven|Han skrev Midsommarvaka och körsången Uti vår hage i en välkänd bearbetning
 Wilhelm Stenhammar~Stenhammar|Han var svensk pianist och tonsättare bakom bland annat Sverige och två fullbordade symfonier
 
-@Musikinstrument|Vad är|Instrumentet {1}.
-ett piano|har svarta och vita tangenter som får hammare att slå mot strängar
-en gitarr|har vanligen sex strängar och spelas genom att knäppa eller slå på dem
-en fiol~en violin|har fyra strängar och hålls vanligen under hakan när stråken dras
-ett trumset|samlar bastrumma, virvel, pukor och cymbaler kring en sittande musiker
-en trumpet|är ett bleckblås med ofta tre ventiler och har en klar stark ton
-en saxofon|är vanligen gjort av metall men räknas till träblåsen och har ett enkelt rörblad
-en klarinett|har ett enkelt rörblad och en oftast svart cylindrisk kropp med klaffar
-en tvärflöjt|hålls åt sidan och ljudet skapas när musikern blåser över ett hål
-ett dragspel|har en bälg mellan två sidor och spelas med tangenter eller knappar
-en harpa|har många strängar i en stor ram och spelas genom att knäppa på dem
-en cello|är ett stort stråkinstrument som hålls mellan knäna med en stackel mot golvet
-en kontrabas|är det största vanliga stråkinstrumentet och spelas stående eller på hög pall
-en trombon|är ett bleckblås där tonhöjden ofta ändras med en utdragbar bygel
-en tuba|är orkesterns stora djupa bleckblåsinstrument med en bred klocka
-en ukulele|är ett litet fyrsträngat instrument starkt förknippat med Hawaii
-en oboe|är ett träblås med dubbelt rörblad och ger ofta orkesterns stämton
-en fagott|är ett djupt träblås med dubbelt rörblad och ett långt vikt trärör
-ett valthorn|har ett långt hoprullat mässingsrör och spelaren håller ofta en hand i klockstycket
-en mandolin|har vanligen fyra dubbelsträngar och spelas ofta med plektrum
-en banjo|har strängar över en rund kropp med spänt skinn och förknippas med bluegrass
-en cembalo|är ett klaverinstrument där strängar knäpps i stället för att slås av hammare
-en nyckelharpa|är ett svenskt stråkinstrument där tangenter kortar strängarna och resonanssträngar ger extra klang
-en theremin|spelas utan beröring genom att händerna flyttas nära två antenner
-en sitar|är ett indiskt långhalsat stränginstrument med resonanssträngar och rörliga band
-en didgeridoo|är ett långt australiskt blåsinstrument som traditionellt används av aboriginska folk i norr
+@Musikinstrument|Vad är
+ett piano|Detta instrument har svarta och vita tangenter som får hammare att slå mot strängar.
+en gitarr|Detta instrument har vanligen sex strängar och spelas genom att knäppa eller slå på dem.
+en fiol~en violin|Detta instrument har fyra strängar och hålls vanligen under hakan när stråken dras.
+ett trumset|Detta instrument samlar bastrumma, virvel, pukor och cymbaler kring en sittande musiker.
+en trumpet|Detta instrument är ett bleckblås med ofta tre ventiler och har en klar stark ton.
+en saxofon|Detta instrument är vanligen gjort av metall men räknas till träblåsen och har ett enkelt rörblad.
+en klarinett|Detta instrument har ett enkelt rörblad och en oftast svart cylindrisk kropp med klaffar.
+en tvärflöjt|Detta instrument hålls åt sidan och ljudet skapas när musikern blåser över ett hål.
+ett dragspel|Detta instrument har en bälg mellan två sidor och spelas med tangenter eller knappar.
+en harpa|Detta instrument har många strängar i en stor ram och spelas genom att knäppa på dem.
+en cello|Detta instrument är ett stort stråkinstrument som hålls mellan knäna med en stackel mot golvet.
+en kontrabas|Detta instrument är det största vanliga stråkinstrumentet och spelas stående eller på hög pall.
+en trombon|Detta instrument är ett bleckblås där tonhöjden ofta ändras med en utdragbar bygel.
+en tuba|Detta instrument är orkesterns stora djupa bleckblåsinstrument med en bred klocka.
+en ukulele|Detta instrument är ett litet fyrsträngat instrument starkt förknippat med Hawaii.
+en oboe|Detta instrument är ett träblås med dubbelt rörblad och ger ofta orkesterns stämton.
+en fagott|Detta instrument är ett djupt träblås med dubbelt rörblad och ett långt vikt trärör.
+ett valthorn|Detta instrument har ett långt hoprullat mässingsrör och spelaren håller ofta en hand i klockstycket.
+en mandolin|Detta instrument har vanligen fyra dubbelsträngar och spelas ofta med plektrum.
+en banjo|Detta instrument har strängar över en rund kropp med spänt skinn och förknippas med bluegrass.
+en cembalo|Detta instrument är ett klaverinstrument där strängar knäpps i stället för att slås av hammare.
+en nyckelharpa|Detta instrument är ett svenskt stråkinstrument där tangenter kortar strängarna och resonanssträngar ger extra klang.
+en theremin|Detta instrument spelas utan beröring genom att händerna flyttas nära två antenner.
+en sitar|Detta instrument är ett indiskt långhalsat stränginstrument med resonanssträngar och rörliga band.
+en didgeridoo|Detta instrument är ett långt australiskt blåsinstrument som traditionellt används av aboriginska folk i norr.
 
-@Musik från film och musikal|Vad är|Verket {1}.
-Mamma Mia!~Mamma Mia|är musikalen där en dotter söker sin far till ABBA-låtar på en grekisk ö
-Lejonkungen|är Disneyfilmen vars musik av bland andra Elton John senare blev en stor scenmusikal
-Grease|skildrar Danny och Sandy bland ungdomar på Rydell High med 1950-talsinspirerad musik
-The Sound of Music|följer en musikalisk guvernant hos familjen von Trapp i Österrike
-Frost~Frozen|är Disneyfilmen där Elsa sjunger Let It Go och hennes syster heter Anna
-Les Misérables~Les Miserables|bygger på Victor Hugos roman om Jean Valjean och innehåller sången I Dreamed a Dream
-The Phantom of the Opera~Fantomen på Operan|är Andrew Lloyd Webbers musikal om en maskerad gestalt under ett parisiskt operahus
-Cats|bygger på T.S. Eliots dikter om katter och innehåller sången Memory
-West Side Story|flyttar Romeo och Julia-motivet till rivaliserande ungdomsgäng i New York
-Jesus Christ Superstar|är rockoperan av Andrew Lloyd Webber och Tim Rice om Jesu sista dagar
-Kristina från Duvemåla|är Benny Anderssons och Björn Ulvaeus musikal om svenska emigranter till Amerika
-Chess|är musikalen med schack, kärlek och kalla kriget, skriven av bland andra två ABBA-medlemmar
-Rent|är Jonathan Larsons musikal om unga konstnärer i New York och har Seasons of Love som känt nummer
-Hamilton|är Lin-Manuel Mirandas hiphoppräglade musikal om en av USA:s grundlagsfäder
-Billy Elliot|är musikalversionen av berättelsen om en gruvarbetarson som vill dansa balett
-Cabaret|utspelar sig delvis på Kit Kat Club i Berlin under nazismens framväxt
-Chicago|är en musikal om brott, kändisskap och showbusiness med Roxie Hart och Velma Kelly
-Evita|skildrar Eva Peróns liv och innehåller Don't Cry for Me Argentina
-My Fair Lady|följer Eliza Doolittles talträning hos professor Higgins
-Hair|är en rockmusikal om hippiekultur och Vietnamkrigstid med sången Aquarius
-Fiddler on the Roof~Spelman på taket|är musikalen om mjölkbudet Tevje och hans döttrar i en judisk by
-Sweeney Todd|är Stephen Sondheims mörka musikal om en hämndlysten barberare i London
-Into the Woods|väver samman sagogestalter som Askungen och Rödluvan i en musikal av Stephen Sondheim
-La La Land|är filmmusikalen från 2016 om en jazzpianist och en skådespelardrömmande kvinna i Los Angeles
-Singin' in the Rain~Singin in the Rain|är filmmusikalen där Gene Kelly dansar med paraply under övergången till ljudfilm
+@Musik från film och musikal|Vad är
+Mamma Mia!~Mamma Mia|Detta verk är musikalen där en dotter söker sin far till ABBA-låtar på en grekisk ö.
+Lejonkungen|Detta verk är Disneyfilmen vars musik av bland andra Elton John senare blev en stor scenmusikal.
+Grease|Detta verk skildrar Danny och Sandy bland ungdomar på Rydell High med 1950-talsinspirerad musik.
+The Sound of Music|Detta verk följer en musikalisk guvernant hos familjen von Trapp i Österrike.
+Frost~Frozen|Detta verk är Disneyfilmen där Elsa sjunger Let It Go och hennes syster heter Anna.
+Les Misérables~Les Miserables|Detta verk bygger på Victor Hugos roman om Jean Valjean och innehåller sången I Dreamed a Dream.
+The Phantom of the Opera~Fantomen på Operan|Detta verk är Andrew Lloyd Webbers musikal om en maskerad gestalt under ett parisiskt operahus.
+Cats|Detta verk bygger på T.S. Eliots dikter om katter och innehåller sången Memory.
+West Side Story|Detta verk flyttar Romeo och Julia-motivet till rivaliserande ungdomsgäng i New York.
+Jesus Christ Superstar|Detta verk är rockoperan av Andrew Lloyd Webber och Tim Rice om Jesu sista dagar.
+Kristina från Duvemåla|Detta verk är Benny Anderssons och Björn Ulvaeus musikal om svenska emigranter till Amerika.
+Chess|Detta verk är musikalen med schack, kärlek och kalla kriget, skriven av bland andra två ABBA-medlemmar.
+Rent|Detta verk är Jonathan Larsons musikal om unga konstnärer i New York och har Seasons of Love som känt nummer.
+Hamilton|Detta verk är Lin-Manuel Mirandas hiphoppräglade musikal om en av USA:s grundlagsfäder.
+Billy Elliot|Detta verk är musikalversionen av berättelsen om en gruvarbetarson som vill dansa balett.
+Cabaret|Detta verk utspelar sig delvis på Kit Kat Club i Berlin under nazismens framväxt.
+Chicago|Detta verk är en musikal om brott, kändisskap och showbusiness med Roxie Hart och Velma Kelly.
+Evita|Detta verk skildrar Eva Peróns liv och innehåller Don't Cry for Me Argentina.
+My Fair Lady|Detta verk följer Eliza Doolittles talträning hos professor Higgins.
+Hair|Detta verk är en rockmusikal om hippiekultur och Vietnamkrigstid med sången Aquarius.
+Fiddler on the Roof~Spelman på taket|Detta verk är musikalen om mjölkbudet Tevje och hans döttrar i en judisk by.
+Sweeney Todd|Detta verk är Stephen Sondheims mörka musikal om en hämndlysten barberare i London.
+Into the Woods|Detta verk väver samman sagogestalter som Askungen och Rödluvan i en musikal av Stephen Sondheim.
+La La Land|Detta verk är filmmusikalen från 2016 om en jazzpianist och en skådespelardrömmande kvinna i Los Angeles.
+Singin' in the Rain~Singin in the Rain|Detta verk är filmmusikalen där Gene Kelly dansar med paraply under övergången till ljudfilm.

@@ -1,73 +1,73 @@
-@Vilda djur|Vad är|Djuret {1}.
-ett lejon|lever bland annat på afrikanska savanner, och hanen har ofta en stor man
-en elefant|har snabel, stora öron och kan använda betar för att gräva
-en giraff|når trädens höga blad med sin långa hals och har fläckig päls
-en tiger|är en stor asiatisk katt med mörka ränder på orange päls
-en zebra|är ett afrikanskt hästdjur med ett karakteristiskt svartvitt randmönster
-en isbjörn|jagar sälar på Arktis havsis och har päls som ser vit ut
-en varg|lever ofta i familjegrupper och är tamhundens närmaste vilda släkting
-en räv|har ofta rödbrun päls, spetsiga öron och en yvig svans med ljus spets
-en älg|är världens största hjortdjur, med långa ben och stora horn hos tjuren
-en bäver|fäller träd med framtänderna och bygger dammar i vattendrag
-en gepard|är en fläckig afrikansk katt som jagar med mycket hög fart på korta sträckor
-en leopard|är en fläckig stor katt som gärna drar upp byten i träd
-en noshörning|har tjock hud och ett eller två horn på nosen beroende på art
-en flodhäst|tillbringar mycket tid i afrikanska vatten men betar vanligen på land
-en känguru|hoppar på starka bakben och bär sin unge i en pung
-en koala|är ett australiskt pungdjur som främst äter eukalyptusblad
-en gorilla|är den största nu levande människoapan, med vuxna silverryggade hanar
-en schimpans|är en afrikansk människoapa som kan fiska termiter med pinnar
-en orangutang|är en rödhårig människoapa som lever vilt på Borneo och Sumatra
-en sengångare|hänger ofta upp och ner i tropiska träd och rör sig mycket långsamt
-en myrslok|fångar små insekter med lång klibbig tunga och har en utdragen nos
-en okapi|är giraffens skogslevande släkting med randiga ben men kortare hals
-en tapir|har en kort rörlig snabel och lever bland annat i tropiska skogar i Sydamerika
-en surikat|lever i grupper i södra Afrika och står ofta upprätt som spanande vakt
-en järv|är ett kraftigt mårddjur i nordliga trakter, känt som både jägare och asätare
+@Vilda djur|Vad är
+ett lejon|Detta djur lever bland annat på afrikanska savanner, och hanen har ofta en stor man.
+en elefant|Detta djur har snabel, stora öron och kan använda betar för att gräva.
+en giraff|Detta djur når trädens höga blad med sin långa hals och har fläckig päls.
+en tiger|Detta djur är en stor asiatisk katt med mörka ränder på orange päls.
+en zebra|Detta djur är ett afrikanskt hästdjur med ett karakteristiskt svartvitt randmönster.
+en isbjörn|Detta djur jagar sälar på Arktis havsis och har päls som ser vit ut.
+en varg|Detta djur lever ofta i familjegrupper och är tamhundens närmaste vilda släkting.
+en räv|Detta djur har ofta rödbrun päls, spetsiga öron och en yvig svans med ljus spets.
+en älg|Detta djur är världens största hjortdjur, med långa ben och stora horn hos tjuren.
+en bäver|Detta djur fäller träd med framtänderna och bygger dammar i vattendrag.
+en gepard|Detta djur är en fläckig afrikansk katt som jagar med mycket hög fart på korta sträckor.
+en leopard|Detta djur är en fläckig stor katt som gärna drar upp byten i träd.
+en noshörning|Detta djur har tjock hud och ett eller två horn på nosen beroende på art.
+en flodhäst|Detta djur tillbringar mycket tid i afrikanska vatten men betar vanligen på land.
+en känguru|Detta djur hoppar på starka bakben och bär sin unge i en pung.
+en koala|Detta djur är ett australiskt pungdjur som främst äter eukalyptusblad.
+en gorilla|Detta djur är den största nu levande människoapan, med vuxna silverryggade hanar.
+en schimpans|Detta djur är en afrikansk människoapa som kan fiska termiter med pinnar.
+en orangutang|Detta djur är en rödhårig människoapa som lever vilt på Borneo och Sumatra.
+en sengångare|Detta djur hänger ofta upp och ner i tropiska träd och rör sig mycket långsamt.
+en myrslok|Detta djur fångar små insekter med lång klibbig tunga och har en utdragen nos.
+en okapi|Detta djur är giraffens skogslevande släkting med randiga ben men kortare hals.
+en tapir|Detta djur har en kort rörlig snabel och lever bland annat i tropiska skogar i Sydamerika.
+en surikat|Detta djur lever i grupper i södra Afrika och står ofta upprätt som spanande vakt.
+en järv|Detta djur är ett kraftigt mårddjur i nordliga trakter, känt som både jägare och asätare.
 
-@Fåglar|Vad är|Fågeln {1}.
-en pingvin|kan inte flyga men simmar skickligt med vingarna som fenor i södra halvklotets hav
-en struts|är världens största nu levande fågel och springer snabbt på afrikanska marker
-en påfågel|har en hane som kan breda ut långa fjädrar med ögonliknande fläckar
-en flamingo|står på långa ben och får sin rosa färg från födans färgämnen
-en skata|är svartvit med lång stjärt och bygger ofta ett tak över sitt bo
-en blåmes|är liten med blå hjässa och gul buk och besöker gärna svenska fågelbord
-en talgoxe|har svart huvud, vita kinder och ett mörkt band över den gula buken
-en domherre|har hos hanen tydligt rött bröst och syns ofta på svenska julkort
-en koltrast|har en svart hane med gul näbb och sjunger melodiskt från hustak
-en sädesärla|är en smal svartvit småfågel som vippar på sin långa stjärt
-en gök|låter andra fågelarter ruva sina ägg och föda upp ungarna
-en kungsfiskare|är liten och lysande blåorange och dyker från en sittplats efter fisk
-en lunnefågel|häckar vid nordliga hav och har en stor färgstark näbb under häckningstiden
-en havsörn|är en stor rovfågel som som vuxen har breda vingar och vit kilformad stjärt
-en trana|är långbent och samlas i stora flockar vid Hornborgasjön om våren
-en rödhake|har ett orangerött ansikte och bröst och rör sig ofta nära marken
-en sångsvan|är vit och långhalsad med gulsvart näbb och hörs ropa högt i flykten
-en korp|är en stor svart kråkfågel med kraftig näbb och kilformad stjärt
-en tofsvipa|har en lång smal huvudtofs och gör akrobatiska spelflykter över åkrar
-en tordmule|är en svartvit havsfågel med tjock mörk näbb genomdragen av ett vitt band
-en gärdsmyg|är mycket liten och brun och håller ofta den korta stjärten rakt upp
-en nötväcka|kan klättra nerför trädstammar med huvudet först och har blågrå rygg
-en lappuggla|har en stor rund ansiktsskiva med täta ringar och jagar i nordliga skogar
-en brushane|har hanar med praktfulla varierande halskragar under spelet på våta ängar
-en pilgrimsfalk|är en rovfågel känd för extremt snabba störtdykningar efter andra fåglar
+@Fåglar|Vad är
+en pingvin|Denna fågel kan inte flyga men simmar skickligt med vingarna som fenor i södra halvklotets hav.
+en struts|Denna fågel är världens största nu levande fågel och springer snabbt på afrikanska marker.
+en påfågel|Denna fågel har en hane som kan breda ut långa fjädrar med ögonliknande fläckar.
+en flamingo|Denna fågel står på långa ben och får sin rosa färg från födans färgämnen.
+en skata|Denna fågel är svartvit med lång stjärt och bygger ofta ett tak över sitt bo.
+en blåmes|Denna fågel är liten med blå hjässa och gul buk och besöker gärna svenska fågelbord.
+en talgoxe|Denna fågel har svart huvud, vita kinder och ett mörkt band över den gula buken.
+en domherre|Denna fågel har hos hanen tydligt rött bröst och syns ofta på svenska julkort.
+en koltrast|Denna fågel har en svart hane med gul näbb och sjunger melodiskt från hustak.
+en sädesärla|Denna fågel är en smal svartvit småfågel som vippar på sin långa stjärt.
+en gök|Denna fågel låter andra fågelarter ruva sina ägg och föda upp ungarna.
+en kungsfiskare|Denna fågel är liten och lysande blåorange och dyker från en sittplats efter fisk.
+en lunnefågel|Denna fågel häckar vid nordliga hav och har en stor färgstark näbb under häckningstiden.
+en havsörn|Denna fågel är en stor rovfågel som som vuxen har breda vingar och vit kilformad stjärt.
+en trana|Denna fågel är långbent och samlas i stora flockar vid Hornborgasjön om våren.
+en rödhake|Denna fågel har ett orangerött ansikte och bröst och rör sig ofta nära marken.
+en sångsvan|Denna fågel är vit och långhalsad med gulsvart näbb och hörs ropa högt i flykten.
+en korp|Denna fågel är en stor svart kråkfågel med kraftig näbb och kilformad stjärt.
+en tofsvipa|Denna fågel har en lång smal huvudtofs och gör akrobatiska spelflykter över åkrar.
+en tordmule|Denna fågel är en svartvit havsfågel med tjock mörk näbb genomdragen av ett vitt band.
+en gärdsmyg|Denna fågel är mycket liten och brun och håller ofta den korta stjärten rakt upp.
+en nötväcka|Denna fågel kan klättra nerför trädstammar med huvudet först och har blågrå rygg.
+en lappuggla|Denna fågel har en stor rund ansiktsskiva med täta ringar och jagar i nordliga skogar.
+en brushane|Denna fågel har hanar med praktfulla varierande halskragar under spelet på våta ängar.
+en pilgrimsfalk|Denna fågel är en rovfågel känd för extremt snabba störtdykningar efter andra fåglar.
 
 @Livet i havet|Vad är
-en delfin|Det andas luft, orienterar sig med ekolokalisering och hoppar ofta över vattenytan.
-en blåval|Det är det största kända djuret som har levt och äter främst krill.
+en delfin|Detta havsdjur andas luft, orienterar sig med ekolokalisering och hoppar ofta över vattenytan.
+en blåval|Detta havsdjur är det största kända djuret som har levt och äter främst krill.
 en bläckfisk|Detta mjuka havsdjur har armar runt munnen och många arter kan spruta mörk vätska vid fara.
 en manet|Detta geléartade djur driver i vattnet och har ofta tentakler med nässelceller.
-en sjöstjärna|Det har ofta fem armar och rör sig med små sugfötter.
+en sjöstjärna|Detta havsdjur har ofta fem armar och rör sig med små sugfötter.
 en späckhuggare|Denna stora svartvita tandval har hög ryggfena och jagar bland annat fisk och marina däggdjur.
 en sjöhäst|Hos denna lilla upprättsimmande fisk bär hanen äggen i en särskild ficka.
 en säl|Detta marina däggdjur har fenliknande extremiteter och vilar gärna på klippor eller is.
 en valross|Detta arktiska marina däggdjur har långa betar och styva morrhår.
 en hummer|Detta stora marina kräftdjur har två kraftiga klor och blir rött vid kokning.
-en krabba|Det har bred kropp, tio ben och går ofta sidledes.
+en krabba|Detta havsdjur har bred kropp, tio ben och går ofta sidledes.
 en havssköldpadda|Detta marina kräldjur simmar med fenliknande ben men lägger sina ägg på land.
-en rocka|Den har platt kropp och stora vingliknande bröstfenor.
+en rocka|Detta havsdjur har platt kropp och stora vingliknande bröstfenor.
 en ål|Denna långsträckta fisk från europeiska vatten fortplantar sig i Sargassohavet.
-en torsk|Den har skäggtöm under hakan och tre ryggfenor.
+en torsk|Detta havsdjur har skäggtöm under hakan och tre ryggfenor.
 en narval|Denna arktiska tandval har ofta en mycket lång spiralvriden tand hos hanen.
 en kaskelot|Denna stora tandval med kraftigt kantigt huvud dyker djupt efter bläckfisk.
 en muräna|Denna ålliknande rovfisk tittar ofta fram med öppen mun ur hålor i rev.
@@ -76,23 +76,23 @@ en havsanemon|Detta fastsittande nässeldjur liknar en blomma och kan ge skydd �
 en sjögurka|Detta långsträckta tagghudsdjur kryper på bottnen och har fått namn efter en grönsak.
 en svärdfisk|Denna stora rovfisk har en lång platt förlängning av överkäken som liknar ett vapen.
 en marulk|Denna bottenlevande fisk lockar byten med ett rörligt utskott ovanför den mycket stora munnen.
-en nautilus~en pärlbåt|Det har ett yttre spiralformat skal med flera kammare.
+en nautilus~en pärlbåt|Detta havsdjur har ett yttre spiralformat skal med flera kammare.
 en havsutter|Detta pälsrika marina mårddjur flyter ofta på rygg och kan använda stenar för att öppna skaldjur.
 
 @Småkryp|Vad är
 en myra|Denna lilla sexbenta samhällsbyggare samlar mat och kan anlägga stora stackar av barr.
 ett bi|Denna håriga pollinerande insekt kan leva i kupor och producera honung.
-en fjäril|Den utvecklas från larv via puppa och har vingar täckta av små fjäll.
+en fjäril|Detta småkryp utvecklas från larv via puppa och har vingar täckta av små fjäll.
 en nyckelpiga|Denna lilla kupolformade skalbagge är ofta röd med svarta prickar och äter bladlöss.
 en spindel|Detta åttabenta djur tillverkar silke och kan fånga byten i nät.
 en humla|Denna rundludna släkting till honungsbiet surrar mellan blommor och kan flyga i ganska svalt väder.
 en geting|Denna gulsvarta insekt kan bygga pappersliknande bon av tuggade träfibrer.
-en trollslända|Den har stora ögon och två par vingar och jagar ofta vid vatten.
-en gräshoppa|Den har kraftiga bakben för hopp och kan frambringa spelande ljud.
+en trollslända|Detta småkryp har stora ögon och två par vingar och jagar ofta vid vatten.
+en gräshoppa|Detta småkryp har kraftiga bakben för hopp och kan frambringa spelande ljud.
 en daggmask|Detta benlösa segmenterade jorddjur blandar jorden när det gräver gångar och äter organiskt material.
 en fästing|Detta lilla spindeldjur suger blod och kan sitta fast länge i huden på ett värddjur.
-en skorpion|Det har två stora gripklor och en ledad stjärt med giftgadd.
-en tvestjärt|Den känns igen på de tångliknande utskotten längst bak på kroppen.
+en skorpion|Detta småkryp har två stora gripklor och en ledad stjärt med giftgadd.
+en tvestjärt|Detta småkryp känns igen på de tångliknande utskotten längst bak på kroppen.
 en silverfisk|Denna vinglösa insekt med silvriga fjäll och långa spröt ses ofta i fuktiga badrum.
 en bönsyrsa|Denna rovlevande insekt håller sina gripframben framför kroppen som om den bad.
 en vandrande pinne|Denna insekt kamouflerar sig genom att likna en smal kvist.
@@ -130,60 +130,60 @@ en kalkon|Hanen hos denna stora tamfågel kan breda ut stjärten i en solfjäder
 en chinchilla|Denna sydamerikanska gnagare har mycket tät mjuk päls och sköter pälsen genom sandbad.
 en shetlandsponny|Denna lilla tåliga hästras kommer från en skotsk ögrupp och har historiskt använts i gruvor.
 en nymfparakit|Denna australiska papegoja har uppresbar huvudtofs och ofta orange kindfläckar.
-en dvärgvädur|Den känns igen på sin kompakta kropp och öron som hänger ner längs huvudets sidor.
+en dvärgvädur|Denna kaninras känns igen på sin kompakta kropp och öronen som hänger ned längs huvudets sidor.
 en border collie|Denna brittiska hundras är en skicklig vallare som ofta styr får med låg kroppshållning och intensiv blick.
 
-@Träd och skogar|Vad är|Trädet {1}.
-en björk|har ofta vit stam med mörka märken och små blad som gulnar om hösten
-en gran|har korta barr som sitter ett och ett och kottar som hänger ner
-en tall|har långa barr som i svensk natur vanligen sitter två och två samt ofta rödaktig övre stam
-en ek|kan bli mycket gammalt och bär ollon under flikiga blad
-en lönn|har handflikiga blad och frukter med vingar som snurrar när de faller
-en bok|har slät grå stam och trekantiga nötter i taggiga fruktskålar
-en rönn|har parbladiga blad och klasar av orangeröda bär som fåglar gärna äter
-en asp|har blad med platt bladskaft som darrar redan i svag vind
-en alm|har blad med tydligt osymmetrisk bladbas och har drabbats hårt av en svampsjukdom
-en ask|har mörka knoppar och parbladiga blad och gav förr virke till redskap
-en lind|har hjärtformiga blad och doftande blommor som lockar många pollinerare
-en sälg|blommar tidigt med videkissar och ger viktig vårmat åt bin
-en al|trivs ofta nära vatten och har små kottelika fruktställningar
-en hästkastanj|har stora handformade blad och blanka bruna frön i taggiga kapslar
-en en|är ett barrträd som ofta växer som buske och har blåsvarta bärlika kottar som krydda
-en lärk|är ett barrträd som fäller sina mjuka barr på hösten
-en idegran|har platta barr och röda köttiga fröhöljen medan stora delar av växten är giftiga
-en hängpil|har långa nedhängande grenar och planteras ofta vid dammar
-en eukalyptus|förknippas med Australien och har blad som är koalans viktigaste föda
-en baobab|har en mycket kraftig stam som lagrar vatten och kan se ut att stå med rötterna i luften
-en sekvoja|kan bli enormt högt och hör hemma längs delar av Nordamerikas Stillahavskust
-ett ginkgoträd|har solfjäderformiga blad och är den enda nu levande arten i en mycket gammal växtgrupp
-en korkek|ger bark som kan skördas till flaskförslutningar utan att trädet behöver fällas
-ett teakträd|ger ett tåligt tropiskt virke som länge använts till båtdäck och utemöbler
-ett kakaoträd|bär stora frukter direkt på stam och grövre grenar och ger bönor till choklad
+@Träd och skogar|Vad är
+en björk|Detta träd har ofta vit stam med mörka märken och små blad som gulnar om hösten.
+en gran|Detta träd har korta barr som sitter ett och ett och kottar som hänger ner.
+en tall|Detta träd har långa barr som i svensk natur vanligen sitter två och två samt ofta rödaktig övre stam.
+en ek|Detta träd kan bli mycket gammalt och bär ollon under flikiga blad.
+en lönn|Detta träd har handflikiga blad och frukter med vingar som snurrar när de faller.
+en bok|Detta träd har slät grå stam och trekantiga nötter i taggiga fruktskålar.
+en rönn|Detta träd har parbladiga blad och klasar av orangeröda bär som fåglar gärna äter.
+en asp|Detta träd har blad med platt bladskaft som darrar redan i svag vind.
+en alm|Detta träd har blad med tydligt osymmetrisk bladbas och har drabbats hårt av en svampsjukdom.
+en ask|Detta träd har mörka knoppar och parbladiga blad och gav förr virke till redskap.
+en lind|Detta träd har hjärtformiga blad och doftande blommor som lockar många pollinerare.
+en sälg|Detta träd blommar tidigt med videkissar och ger viktig vårmat åt bin.
+en al|Detta träd trivs ofta nära vatten och har små kottelika fruktställningar.
+en hästkastanj|Detta träd har stora handformade blad och blanka bruna frön i taggiga kapslar.
+en en|Detta träd är ett barrträd som ofta växer som buske och har blåsvarta bärlika kottar som krydda.
+en lärk|Detta träd är ett barrträd som fäller sina mjuka barr på hösten.
+en idegran|Detta träd har platta barr och röda köttiga fröhöljen medan stora delar av växten är giftiga.
+en hängpil|Detta träd har långa nedhängande grenar och planteras ofta vid dammar.
+en eukalyptus|Detta träd förknippas med Australien och har blad som är koalans viktigaste föda.
+en baobab|Detta träd har en mycket kraftig stam som lagrar vatten och kan se ut att stå med rötterna i luften.
+en sekvoja|Detta träd kan bli enormt högt och hör hemma längs delar av Nordamerikas Stillahavskust.
+ett ginkgoträd|Detta träd har solfjäderformiga blad och är den enda nu levande arten i en mycket gammal växtgrupp.
+en korkek|Detta träd ger bark som kan skördas till flaskförslutningar utan att trädet behöver fällas.
+ett teakträd|Detta träd ger ett tåligt tropiskt virke som länge använts till båtdäck och utemöbler.
+ett kakaoträd|Detta träd bär stora frukter direkt på stam och grövre grenar och ger bönor till choklad.
 
 @Blommor och växter|Vad är
 en ros|Denna klassiska kärleksblomma växer på buskar med taggar och finns i många färger.
 en tulpan|Denna lökväxt blommar om våren och förknippas starkt med nederländska blomsterfält.
 en solros|Denna höga växt har stora gula blomkorgar och frön som kan pressas till matolja.
 en maskros|Denna gula blomma blir en vit fröboll som barn gärna blåser på.
-en prästkrage|Den har gul mitt och vita strålblommor som kan plockas i leken älskar, älskar inte.
+en prästkrage|Denna växt har gul mitt och vita strålblommor som kan plockas i leken älskar, älskar inte.
 en blåsippa|Denna tidiga vårblomma har oftast blå kronbladsliknande hylleblad och växer i lundar.
 en vitsippa|Denna vita vårblomma kan bilda mattor på skogsmark innan trädens löv slår ut.
 en liljekonvalj|Denna doftande vårväxt har vita klockor längs stjälken och breda blad; växten är giftig.
-en näckros|Den har flytande blad och stora blommor på sjöars lugna ytor.
+en näckros|Denna växt har flytande blad och stora blommor på sjöars lugna ytor.
 en lavendel|Denna väldoftande växt har violetta blommor och används ofta i doftpåsar.
 en pelargon|Denna vanliga krukväxt finns i många sorter och har ofta runda blad med en mörk zon.
 en påsklilja|Denna gula lökväxt har en trumpetliknande mitt och blommar kring vårens stora kristna högtid.
 en hyacint|Denna doftande lökväxt med täta blomklasar drivs ofta inomhus till jul.
-en pion|Den har stora ofta fyllda blommor och blommar vanligen i början av sommaren.
-en orkidé|Den omfattar både tropiska krukväxter med luftrötter och svenska arter som guckusko.
-en lupin|Den har höga blomspiror och handdelade blad och kan sprida sig kraftigt längs vägkanter.
+en pion|Denna växt har stora ofta fyllda blommor och blommar vanligen i början av sommaren.
+en orkidé|Denna växt tillhör familjen Orchidaceae, som omfattar både tropiska krukväxter med luftrötter och svenska arter som guckusko.
+en lupin|Denna växt har höga blomspiror och handdelade blad och kan sprida sig kraftigt längs vägkanter.
 en fingerborgsblomma|Denna giftiga växt har en hög klase med hängande rörformiga blommor som liknar små skydd för fingertoppar.
 en riddarsporre|Denna höga rabattväxt har ofta blå blommor med en bakåtriktad utskjutande del.
 en stockros|Denna höga trädgårdsväxt blommar längs en upprätt stjälk och syns ofta vid skånska husväggar.
 en kaprifol|Denna klättrande växt har rörformiga blommor som ofta doftar särskilt starkt på kvällen.
-en klematis|Den har ofta stora stjärnformiga blommor och används för att täcka spaljéer.
+en klematis|Denna växt har ofta stora stjärnformiga blommor och används för att täcka spaljéer.
 en julros|Denna giftiga perenn kan blomma med vita eller färgade blommor under vintern eller tidigt på våren.
-en akleja|Den har karakteristiska bakåtböjda sporrar och ofta tvåfärgade blommor.
+en akleja|Denna växt har karakteristiska bakåtböjda sporrar och ofta tvåfärgade blommor.
 en linnea|Denna låga skogsväxt har två små rosa hängande klockor på varje blomstängel och var Linnés favorit.
 en sileshårsväxt|Denna lilla köttätande myrväxt fångar insekter med klibbiga glänsande droppar på bladen.
 
@@ -195,7 +195,7 @@ blåbär|Dessa mörkblå skogsbär färgar tungan och växer på lågt ris med g
 lingon|Dessa röda skogsbär växer på vintergrönt ris och kokas ofta till sylt som serveras till köttbullar.
 hallon|Dessa mjuka röda bär består av många små fruktdelar och blir ihåliga när de plockas.
 smultron|Dessa små röda vilda bär träs ibland på grässtrån och har samma släkte som jordgubbar.
-hjortron|De bär växer på myrar och används ofta till sylt med våfflor.
+hjortron|Dessa gulorange bär växer på myrar och används ofta till sylt som serveras med våfflor eller glass.
 svarta vinbär|Dessa mörka klasbär har aromatiska blad och används ofta till saft.
 krusbär|De växer på taggiga buskar och kan vara gröna, gula eller röda med tydliga längsstrimmor.
 karljohanssvamp~stensopp|Denna uppskattade sopp har brun hatt och kraftig fot och förknippas med en svensk kung.
@@ -204,7 +204,7 @@ ostronskivling|Den växer i överlappande hattar på trä och har namn efter ett
 shiitake|Denna östasiatiska matsvamp odlas på trä och säljs ofta torkad med brun hatt.
 svart trumpetsvamp|Denna mörka matsvamp liknar ett ihåligt blåsinstrument och kan vara svår att se bland löv.
 tranbär|Dessa syrliga röda bär växer på krypande ris på myrar och används också i drycker.
-havtorn|De bär sitter tätt på taggiga buskar och växten trivs bland annat längs kuster.
+havtorn|Denna buske har taggiga grenar och tätt sittande orange bär. Den trivs bland annat längs kuster och används till sylt och juice.
 aronia|Dessa mörka kärva bär kommer från en buske som ofta planteras som häck och används i saft.
 slånbär|Dessa blåsvarta kärva stenfrukter sitter på taggiga buskar och används till saft och likör.
 nypon|Dessa röda eller orange skenfrukter bildas på rosor och används i en klassisk svensk soppa.
@@ -217,7 +217,7 @@ en röksvamp|När denna mogna svamp trycks ihop kan ett moln av sporer puffa ut 
 @Dinosaurier och urtidsdjur|Vad är
 Tyrannosaurus rex~T-rex|Denna stora köttätande dinosaurie gick på två ben och hade enorma käkar men mycket korta armar.
 Triceratops|Denna växtätande dinosaurie hade tre horn i ansiktet och en stor nackkrage.
-Stegosaurus|Den hade stora plattor längs ryggen och långa taggar längst ut på svansen.
+Stegosaurus|Detta förhistoriska djur hade stora plattor längs ryggen och långa taggar längst ut på svansen.
 en mammut|Detta utdöda elefantdjur förknippas med istiden, lång päls och kraftigt böjda betar.
 en sabeltandad katt|Detta utdöda kattdjur hade mycket långa övre hörntänder; Smilodon är ett känt släkte.
 Diplodocus|Denna långhalsade växtätande dinosaurie hade en mycket lång pisklik svans och fyra pelarlika ben.
@@ -233,10 +233,10 @@ en jättehjort|Detta utdöda hjortdjur är känt för enormt breda horn och kall
 Pteranodon|Detta flygande kräldjur hade stor bakåtriktad huvudkam och saknade tänder; det var ingen dinosaurie.
 Plesiosaurus|Detta marina kräldjur hade lång hals, litet huvud och fyra fenliknande extremiteter.
 Ichthyosaurus|Detta marina kräldjur hade delfinlik kropp och födde levande ungar i havet.
-Archaeopteryx|Det hade fjädrar och vingar men också tänder och lång benig svans.
+Archaeopteryx|Detta förhistoriska djur hade fjädrar och vingar men också tänder och lång benig svans.
 Megalodon|Denna utdöda haj är känd genom enorma tänder och var betydligt större än dagens vithaj.
 Iguanodon|Denna växtätande dinosaurie hade en stor spetsig tumtagg och var en av de tidigt namngivna dinosaurierna.
-Parasaurolophus|Den hade en lång bakåtriktad rörformig huvudkam som kunde påverka dess ljud.
+Parasaurolophus|Detta förhistoriska djur hade en lång bakåtriktad rörformig huvudkam som kunde påverka dess ljud.
 Dimetrodon|Detta segelryggade rovdjur levde före dinosaurierna och var närmare släkt med däggdjur än med dem.
 ett jättesengångardjur~Megatherium|Detta utdöda sydamerikanska växtätande däggdjur levde på marken och kunde resa sig på bakbenen.
 en kvagga|Denna utdöda underart av stäppzebra hade tydlig randning framtill men mest brunaktig bakkropp.
@@ -247,7 +247,7 @@ en kvagga|Denna utdöda underart av stäppzebra hade tydlig randning framtill me
 kompostering|Vid denna process bryts matrester och växtdelar ner med syre till ett jordliknande material.
 en nationalpark|Det skyddade naturområde beslutas av staten för att bevara värdefull natur för framtiden.
 allemansrätten|Denna svenska möjlighet låter oss röra oss i naturen med ansvar att inte störa eller förstöra.
-biologisk mångfald|Det omfattar variationen av arter, gener och ekosystem i naturen.
+biologisk mångfald|Detta samlingsbegrepp omfattar variationen av arter, gener och ekosystem i naturen.
 ett ekosystem|Så kallas samspelet mellan levande organismer och den icke-levande miljön i ett område.
 en näringskedja|Denna förenklade modell visar hur energi går från exempelvis gräs till hare och vidare till räv.
 en pollinatör|Ett bi som för över pollen mellan blommor har denna roll i växters fortplantning.
@@ -265,5 +265,5 @@ mikroplast|Så kallas mycket små plastpartiklar, vanligen mindre än fem millim
 ekosystemtjänster|Pollinering, vattenrening och naturupplevelser är exempel på dessa nyttor som naturen ger människor.
 cirkulär ekonomi|I denna ekonomiska modell hålls produkter och material i bruk länge genom reparation, återanvändning och återvinning.
 en nyckelart|Denna typ av art påverkar sitt ekosystem mycket mer än dess mängd ensam antyder.
-biomagnifikation|Då ökar halten av vissa svårnedbrytbara ämnen högre upp i näringskedjan.
+biomagnifikation|Vid denna process ökar halten av vissa svårnedbrytbara ämnen ju högre upp i näringskedjan man kommer.
 ekologiskt fotavtryck|Detta mått uppskattar den biologiskt produktiva yta som behövs för att försörja konsumtion och ta hand om vissa utsläpp.

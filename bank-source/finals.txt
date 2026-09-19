@@ -1,5 +1,5 @@
 Geografi|Gibraltar sund|En europeisk och en afrikansk kust ligger nära varandra här. Genom denna smala passage utbyter Atlanten och Medelhavet vatten.
-Litteratur|1984|Historiska dokument ändras för att passa makten, Storebror vakar och ett nytt språk ska begränsa tänkandet.
+Litteratur|1984|I denna roman av George Orwell ändras historiska dokument för att passa makten. Storebror vakar och ett nytt språk ska begränsa tänkandet.
 Arkitektur|Sagrada Família~Sagrada Familia|Denna kyrka började byggas i Barcelona 1882. Antoni Gaudís naturinspirerade former har fortsatt växa fram långt efter hans död.
 Idrott|Nadia Comăneci~Nadia Comaneci|I Montréal 1976 visade resultattavlan 1,00 eftersom den inte var byggd för full poäng. Denna rumänska gymnast hade just fått 10,0.
 Afrika|Etiopien~Abessinien|I detta höglandsland finns klippkyrkorna i Lalibela och en mycket gammal kristen tradition. Huvudstaden heter Addis Abeba.
@@ -14,7 +14,7 @@ Konsthistoria|Bayeuxtapeten|Bilder och latinsk text berättar om den normandiska
 Matkultur|surströmming|Jäsning ger denna svenska fiskkonserv dess starka doft. Den förknippas med Norrland och äts ofta med tunnbröd, lök och potatis.
 Historia|Defenestrationen i Prag 1618|Två kejserliga ståthållare och en sekreterare kastades ut genom ett fönster på Pragborgen i denna händelse som bidrog till att utlösa trettioåriga kriget.
 Världsarv|Venediglagunen|Staden med gondolerna är byggd i detta grunda kustvatten där öar, sandrevlar och tidvatten möts i norra Adriatiska havet.
-Litteratur|Don Quijote~Don Quixote|En ivrig läsare av riddarromaner gör sig själv till vandrande riddare och angriper väderkvarnar som han tror är jättar.
+Litteratur|Don Quijote~Don Quixote|Denna roman av Miguel de Cervantes följer en ivrig läsare av riddarromaner som gör sig till vandrande riddare och angriper väderkvarnar.
 Historia|Suffragetterna|Dessa brittiska aktivister krävde kvinnlig rösträtt och använde allt från demonstrationer till hungerstrejk i början av 1900-talet.
 Geografi|Panamakanalen|Denna vattenväg kortar resan mellan två oceaner. Fartyg lyfts genom slussar över ett centralamerikanskt näs.
 Geografi|Suezkanalen|Denna konstgjorda vattenväg genom Egypten förbinder två hav utan slussar och gör resan runt Afrikas sydspets onödig.
@@ -35,8 +35,8 @@ Matematik|Pythagoras sats|I en rätvinklig triangel säger detta samband att sum
 Matematik|Fibonacciföljden|I denna talföljd är varje nytt tal summan av de två föregående; en vanlig början är noll, ett, ett, två, tre.
 Matematik|det gyllene snittet|Detta proportionsförhållande är ungefär 1,618. Hela sträckan förhåller sig till den större delen som den större till den mindre.
 Geografi|Baltikum|Detta samlingsnamn används för Estland, Lettland och Litauen vid Östersjöns östra kust.
-Litteratur|Den lille prinsen|En pojke lämnar sin lilla asteroid och möter bland annat en räv. Författaren var också pilot.
-Litteratur|Frankenstein|En vetenskapsman skapar en levande varelse som sedan överges. Titeln är skaparens namn, inte varelsens.
+Litteratur|Den lille prinsen|I denna bok av Antoine de Saint-Exupéry lämnar en pojke sin lilla asteroid och möter bland annat en räv och en pilot.
+Litteratur|Frankenstein|I denna roman av Mary Shelley skapar en vetenskapsman en levande varelse som sedan överges. Titeln är skaparens efternamn, inte varelsens.
 Musik|Rhapsody in Blue|Detta verk av George Gershwin förenar jazz med konsertmusik och börjar med ett berömt uppåtgående klarinettglissando.
 Film|Akira Kurosawa|Han gjorde Rashomon och Yojimbo och inspirerade många västernfilmer med sina samurajberättelser.
 Film|Charlie Chaplin|Han gestaltade en luffare med plommonstop, käpp och för stora skor och gjorde senare Diktatorn.
@@ -53,7 +53,7 @@ Vetenskap|kontinentaldrift|Alfred Wegener föreslog denna idé om rörliga värl
 Geologi|Pangea|Så kallas superkontinenten där nästan all landmassa en gång var samlad innan den splittrades till dagens världsdelar.
 Historia|Magellans expedition|Denna sjöfärd 1519–1522 blev den första världsomseglingen, men den ursprunglige ledaren dog före hemkomsten och Elcano fullföljde.
 Historia|Wienkongressen|Vid denna diplomatiska sammankomst 1814–1815 försökte Europas stormakter återställa stabilitet och maktbalans efter Napoleonkrigen.
-Svensk litteratur|Doktor Glas|En läkare i Hjalmar Söderbergs berättelse överväger att döda en pastor för att befria hans hustru.
+Svensk litteratur|Doktor Glas|I denna roman av Hjalmar Söderberg överväger en läkare att döda en pastor för att befria hans hustru.
 Litteratur|Processen|Josef K. grips utan att få veta varför i denna ofullbordade roman av Franz Kafka.
 Litteratur|Ett dockhem|Nora lämnar sin make efter att villkoren i deras äktenskap avslöjats i Henrik Ibsens drama.
 Musik|en Stradivarius|Detta namn används om stråkinstrument från en berömd familj av instrumentmakare i Cremona, särskilt Antonio.
@@ -73,23 +73,23 @@ Historia|den långa marschen|Kinesiska kommuniststyrkor genomförde 1934–1935 
 Historia|Operation Mincemeat|De allierade använde en död kropp med falska dokument för att vilseleda axelmakterna om invasionsplanerna inför Sicilien 1943.
 Svensk historia|1809 års regeringsform|Efter förlusten av Finland fick Sverige denna grundlag som delade makten mellan kung och riksdag och gällde till 1974.
 Svensk historia|Hattarnas ryska krig|Sverige anföll Ryssland 1741 i ett misslyckat krig under frihetstiden och tvingades senare avstå ytterligare områden i Finland.
-Geografi|Darién-gapet|Den väglösa regnskogsregionen mellan Panama och Colombia bryter den annars nästan sammanhängande Panamerikanska landsvägen.
-Geografi|Bab el-Mandeb|Det strategiska sundet mellan Afrikas horn och Arabiska halvön förbinder Röda havet med Adenviken.
-Rymdfart|Kármánlinjen|Höjden 100 kilometer över havet används ofta internationellt som en praktisk gräns mellan jordens atmosfär och yttre rymden.
+Geografi|Darién-gapet|Denna väglösa regnskogsregion mellan Panama och Colombia bryter den annars nästan sammanhängande Panamerikanska landsvägen.
+Geografi|Bab el-Mandeb|Detta strategiska sund mellan Afrikas horn och Arabiska halvön förbinder Röda havet med Adenviken.
+Rymdfart|Kármánlinjen|Denna tänkta gräns ligger enligt en vanlig internationell definition 100 kilometer över havet och skiljer jordens atmosfär från yttre rymden.
 Geografi|Torressundet|Detta grunda havsområde skiljer Australiens nordspets från Nya Guinea och rymmer många små öar.
-Geografi|Sundarbans|Världens största sammanhängande mangroveområde ligger i Ganges-Brahmaputras delta i Bangladesh och Indien.
+Geografi|Sundarbans|Detta stora mangroveområde i Ganges-Brahmaputras delta ligger i Bangladesh och Indien och är känt för sina tigrar.
 Geologi|Mohorovičić-diskontinuiteten|Seismiska vågor ändrar hastighet vid denna gräns mellan jordskorpan och manteln, ofta förkortad Moho.
-Geologi|superkontinentcykeln|Idén beskriver hur jordens kontinenter under geologisk tid återkommande samlas i stora landmassor och senare splittras igen.
+Geologi|superkontinentcykeln|Denna geologiska modell beskriver hur jordens kontinenter återkommande samlas i stora landmassor och senare splittras igen.
 Astronomi|Fermi-paradoxen|Denna fråga ställer den förväntade möjligheten till många tekniska civilisationer mot det faktum att vi ännu inte har tydliga bevis för någon av dem.
 Rymdhistoria|Voyager Golden Record|Två rymdsonder som sköts upp 1977 bär var sitt exemplar av denna guldpläterade skiva med ljud, musik, bilder och hälsningar från jorden.
 Astronomi|Drakeekvationen|Denna formel från 1961 multiplicerar flera osäkra faktorer för att uppskatta hur många kommunicerande tekniska civilisationer som kan finnas i Vintergatan.
 Astronomi|Olbers paradox|Frågan om varför natthimlen är mörk trots ett till synes mycket stort antal stjärnor bär detta namn.
 Astronomi|Pale Blue Dot|Ett fotografi från 1990 visar jorden som en mycket liten punkt sedd av en rymdsond långt bortom Neptunus.
 Fysik|Foucaults pendel|Den långsamma vridningen av svängningsplanet hos detta experiment ger en direkt demonstration av jordens rotation.
-Matematik|Eulers identitet|Sambandet som förenar e, den imaginära enheten, pi, ett och noll brukar hyllas som en av matematikens vackraste formler.
-Matematik|Möbiusbandet|En pappersremsa kan vridas ett halvt varv och fogas ihop så att den får bara en sammanhängande sida och en kant.
+Matematik|Eulers identitet|Denna matematiska likhet förenar talet e, den imaginära enheten, pi, ett och noll genom att e upphöjt till i gånger pi, plus ett, är lika med noll.
+Matematik|Möbiusbandet|Denna ensidiga yta kan skapas genom att vrida en pappersremsa ett halvt varv och foga ihop ändarna. Den får då en enda sammanhängande kant.
 Matematik|Bayes sats|Denna regel uppdaterar sannolikheten för en hypotes när ny evidens blir känd och är central i statistisk inferens.
-Matematik|de fyra färgernas sats|Resultatet säger att varje plan karta kan färgläggas med högst detta antal färger så att angränsande områden får olika färg.
+Matematik|de fyra färgernas sats|Denna matematiska sats säger att högst fyra färger räcker för att färglägga en plan karta så att områden som delar en gränssträcka får olika färg.
 Kemi|Haber–Bosch-processen|Kväve och väte reagerar under högt tryck och temperatur för industriell framställning av ammoniak i denna process.
 Kemi|kiralitet|Molekyler som inte kan överlagras på sin spegelbild uppvisar denna egenskap, viktig bland annat inom läkemedelskemi.
 Kemi|Le Chateliers princip|Om ett system i kemisk jämvikt störs förskjuts jämvikten i en riktning som motverkar förändringen enligt denna princip.
@@ -100,21 +100,21 @@ Biologi|Bates mimikry|En ofarlig art efterliknar en farlig eller osmaklig art oc
 Ekologi|Keelingkurvan|Denna långvariga mätserie från Mauna Loa visar den stigande halten koldioxid i atmosfären med en tydlig säsongsvariation.
 Samhällsvetenskap|Gini-koefficienten|Detta statistiska mått används ofta för ekonomisk ojämlikhet; ett lägre värde betyder jämnare fördelning och ett högre större koncentration.
 Medicin|antiseptisk kirurgi|Joseph Lister införde på 1800-talet metoder för att minska infektioner genom att bekämpa mikroorganismer kring sår och operationer.
-Medicin|smittkoppsutrotningen|WHO förklarade 1980 att denna mänskliga infektionssjukdom hade utrotats globalt efter en internationell vaccinationskampanj.
-Medicin|Semmelweis handtvätt|En ungersk läkare visade på 1840-talet att noggrann rengöring av händer kraftigt minskade barnsängsfeber på en förlossningsklinik.
+Medicin|smittkoppor|WHO förklarade 1980 att denna infektionssjukdom hade utrotats globalt efter en internationell vaccinationskampanj.
+Medicin|[VEM]Ignaz Semmelweis~Semmelweis|Denne ungerske läkare visade på 1840-talet att handdesinfektion med klorkalk kraftigt minskade dödligheten i barnsängsfeber på en förlossningsklinik.
 Teknikhistoria|Analytical Engine|Charles Babbage planerade denna mekaniska maskin med minne, beräkningsenhet och hålkort men den färdigställdes aldrig i hans livstid.
 Teknikhistoria|Colossus|Brittiska kryptologer använde denna elektroniska maskin under andra världskriget för att analysera krypterad tysk teleprintertrafik.
 Datorhistoria|paketförmedling|I stället för en dedikerad förbindelse delas data upp i mindre enheter som kan ta olika vägar genom nätet med denna teknik.
-Datorhistoria|Turingmaskinen|Den abstrakta beräkningsmodellen använder ett potentiellt oändligt band, ett läs- och skrivhuvud samt en uppsättning tillstånd.
+Datorhistoria|Turingmaskinen|Denna abstrakta beräkningsmodell använder ett potentiellt oändligt band, ett läs- och skrivhuvud samt en uppsättning tillstånd.
 Språkhistoria|Linear B|Michael Ventris visade på 1950-talet att denna mykenska skrift återgav en tidig form av grekiska.
 Språkhistoria|Grimms lag|Detta ljudskiftesmönster beskriver systematiska förändringar från urindoeuropeiska konsonanter till de germanska språken.
-Arkeologi|Antikytheramekanismen|Ett korroderat kugghjulssystem från ett antikt skeppsvrak kunde modellera astronomiska cykler med anmärkningsvärd mekanisk komplexitet.
-Arkeologi|Ötzi|Den naturligt mumifierade mannen hittades 1991 i Alperna och levde under kopparstenåldern för mer än fem tusen år sedan.
+Arkeologi|Antikytheramekanismen|Denna antika apparat hittades i ett skeppsvrak vid en grekisk ö. Dess kugghjul kunde modellera astronomiska cykler med stor mekanisk komplexitet.
+Arkeologi|[VEM]Ötzi|Den naturligt mumifierade mannen hittades 1991 i Alperna och levde under kopparstenåldern för mer än fem tusen år sedan.
 Arkeologi|Urstandaret|Detta dekorerade föremål från en kunglig grav i Mesopotamien visar scener av krig och fred i mosaik.
-Konst|Arnolfiniporträttet|Jan van Eycks målning visar ett rikt klätt par i ett rum med en konvex spegel som reflekterar ytterligare personer.
+Konst|Arnolfiniporträttet|Denna målning av Jan van Eyck visar ett rikt klätt par i ett rum med en konvex spegel som reflekterar ytterligare personer.
 Konst|Nattvakten|Rembrandt målade detta stora grupporträtt av ett amsterdamskt skyttekompani med dramatisk rörelse och ljussättning.
-Konst|Vågen utanför Kanagawa|Hokusais träsnitt visar en enorm blå våg som tornar över båtar medan Fuji syns litet i bakgrunden.
-Konst|Lustarnas trädgård|Hieronymus Boschs triptyk visar ett paradis, en märklig värld fylld av människor och djur samt ett mörkt helvete.
-Arkitektur|Villa Savoye|Le Corbusiers vita modernistiska hus utanför Paris demonstrerar hans fem punkter, bland annat pelare, takterrass och fritt plan.
-Arkitektur|Seagram Building|Mies van der Rohe och Philip Johnson ritade denna strama bronstonade skyskrapa på Park Avenue, färdig 1958.
-Arkitektur|Centre Pompidou|Den parisiska kulturbyggnaden vänder tekniska system, rör och rörelsevägar utåt och ritades av Renzo Piano och Richard Rogers.
+Konst|Vågen utanför Kanagawa|Detta träsnitt av Hokusai visar en enorm blå våg som tornar över båtar medan berget Fuji syns litet i bakgrunden.
+Konst|Lustarnas trädgård|Denna triptyk av Hieronymus Bosch visar ett paradis, en märklig värld fylld av människor och djur samt ett mörkt helvete.
+Arkitektur|Villa Savoye|Detta vita modernistiska hus av Le Corbusier ligger i Poissy utanför Paris och demonstrerar hans fem punkter, bland annat pelare och takterrass.
+Arkitektur|Seagram Building|Denna bronstonade skyskrapa på Park Avenue i New York ritades av Mies van der Rohe och Philip Johnson och färdigställdes 1958.
+Arkitektur|Centre Pompidou|Denna parisiska kulturbyggnad vänder rör och tekniska system utåt och ritades av Renzo Piano och Richard Rogers.

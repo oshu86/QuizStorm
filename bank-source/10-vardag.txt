@@ -2,10 +2,10 @@
 telefonen|Den överför tal över avstånd och förknippas historiskt med Alexander Graham Bell.
 glödlampan|Denna ljuskälla använder en elektriskt upphettad tråd i en glaskolv.
 boktryckarkonsten med lösa typer|Denna teknik spreds i Europa genom Gutenberg och gjorde många likadana textsidor möjliga.
-blixtlåset|Den fogar samman två rader små tänder med en löpare.
+blixtlåset|Denna stängningsanordning fogar samman två rader små tänder med hjälp av en löpare, exempelvis på en jacka.
 en cykel|Detta tvåhjuliga fordon drivs vanligen med pedaler och kedja.
 dynamit|Det utvecklades av Alfred Nobel genom att göra nitroglycerin lättare att hantera.
-kullagret|Den minskar friktion med små rullande klot mellan två ringar.
+kullagret|Denna maskindel minskar friktion med små rullande klot mellan två ringar.
 säkerhetständstickan|Den tänds mot ett särskilt plån och utvecklades industriellt i Sverige.
 trepunktsbältet|Den utvecklades av Nils Bohlin och håller kroppen över både höft och bröst.
 pacemakern|Denna medicinska apparat hjälper hjärtat med elektriska impulser och kan opereras in.
@@ -27,11 +27,11 @@ den integrerade kretsen~ett mikrochip|Den samlar många elektroniska komponenter
 
 @Datorer och digital teknik|Vad är
 ett tangentbord|Med det skriver användaren bokstäver och siffror med separata tangenter.
-en datormus|Det flyttas över en yta för att styra en markör på skärmen.
+en datormus|Detta pekdon flyttas över en yta för att styra en markör på datorskärmen.
 en skärm|Denna elektroniska yta visar datorns bilder och text för användaren.
 en skrivare|Denna kringutrustning för över digitala dokument till papper.
 ett lösenord|Denna hemliga teckenföljd används för att styrka rätten att logga in.
-en webbläsare|Det öppnar och visar webbsidor; Firefox är ett exempel.
+en webbläsare|Detta datorprogram hämtar och visar webbsidor; Firefox och Safari är exempel.
 en sökmotor|Den hjälper användaren hitta webbsidor genom sökord.
 en hårddisk|Denna lagringsenhet använder roterande magnetiska skivor för att spara data.
 ett RAM-minne|Detta snabba arbetsminne används av pågående program och förlorar normalt innehållet utan ström.
@@ -55,13 +55,13 @@ en brandvägg|Den filtrerar nätverkstrafik enligt regler mellan datorer eller n
 @Fordon och transport|Vad är
 en buss|Detta stora vägfordon transporterar många passagerare och följer ofta en bestämd linje.
 ett tåg|Detta rälsbundna fordon består ofta av flera sammankopplade vagnar.
-en helikopter|Det kan hovra och får lyftkraft från stora roterande blad.
-en ubåt|Det kan dyka under vattenytan genom att förändra sin flytkraft.
+en helikopter|Denna luftfarkost kan hovra och får lyftkraft från en eller flera stora rotorer ovanför kroppen.
+en ubåt|Detta fartyg kan färdas under vattenytan och reglerar bland annat ballasttankarna för att förändra sin flytkraft.
 en segelbåt|Detta vattenfordon använder vinden mot stora dukar för framdrift.
-en spårvagn|Det går i stadstrafik och delar ibland gatuutrymme med bilar.
-en tunnelbana|Det går ofta under mark och har täta avgångar mellan stationer.
-en färja|Det transporterar passagerare och ofta fordon mellan bestämda hamnar.
-en husbil|Det kombinerar motorfordon med sovplatser, kök och annat boendeutrymme.
+en spårvagn|Detta rälsbundna fordon går i stadstrafik och kan dela gatuutrymme med bilar.
+en tunnelbana|Detta stadsbanesystem går ofta under mark, har täta avgångar och körs på egna spår skilda från gatutrafiken.
+en färja|Detta slags fartyg transporterar passagerare och ofta fordon mellan bestämda hamnar på en återkommande rutt.
+en husbil|Detta motorfordon har sovplatser, kök och annat boendeutrymme inbyggt i samma fordon.
 en moped|Detta mindre motorfordon i två- eller flerhjuligt utförande har begränsad konstruktiv hastighet.
 en differential|Den låter bilens drivhjul rotera olika snabbt genom en kurva.
 en koppling|Den kan koppla samman eller skilja motorns drivning från växellådan.
@@ -71,7 +71,7 @@ en krockkudde~airbag|Det blåses upp mycket snabbt vid en kollision för att dä
 en pantograf~strömavtagare på tåg|Denna rörliga takanordning tar ström från kontaktledningen till ett eldrivet rälsfordon.
 en boggi|Detta svängbara underrede med flera hjulaxlar används under många järnvägsvagnar.
 en svävare|Detta fordon bärs upp på en luftkudde och kan färdas över både vatten och jämn mark.
-en katamaran|Det har två parallella skrov och får stabilitet av den stora bredden.
+en katamaran|Denna båttyp har två parallella skrov och får mycket av sin stabilitet av den stora bredden mellan dem.
 ett luftskepp|Detta styrbara luftfartyg bärs upp av lätt gas i en stor kropp och drivs av motorer.
 Shinkansen|Detta japanska snabbtågssystem invigdes 1964 och förknippas med strömlinjeformade nosar.
 TGV|Detta franska snabbtågssystem har ett namn som förkortar uttrycket tåg med hög hastighet.
@@ -81,23 +81,23 @@ en intermodal transport|Här flyttas samma lastenhet, exempelvis container, mell
 
 @Verktyg och byggande|Vad är
 en hammare|Med detta handverktyg slås spikar i med ett tungt huvud.
-en skruvmejsel|Det vrids i ett spår eller kryss för att dra åt ett fästelement.
+en skruvmejsel|Detta verktyg vrids i ett spår eller kryss för att dra åt ett fästelement.
 en såg|Med detta tandade blad delas trä eller annat material genom fram- och återgående rörelser.
-en borrmaskin|Den gör hål genom att rotera ett skärande verktyg.
+en borrmaskin|Detta verktyg gör hål genom att rotera ett skärande verktyg.
 en tumstock|Denna ledade mätsticka kan fällas ihop och används ofta av snickare.
 ett vattenpass|Här visar en luftbubbla om en yta är vågrät eller lodrät.
-en skiftnyckel|Det har ställbar käft för muttrar i olika storlekar och förknippas med Johan Petter Johansson.
-en tång|Det har två ledade handtag och käftar för att gripa eller klippa.
-en hyvel|Det skär tunna spån från trä för att jämna eller forma ytan.
-ett stämjärn|Det har rak vass egg och används för att hugga ur eller forma trä.
-en fogsvans|Den har ett brett blad som smalnar av mot spetsen och används till trä.
-en bågfil|Den har ett smalt utbytbart tandat blad i en båge och används ofta till metall.
-en sticksåg|Den har ett smalt upp- och nedgående blad som kan följa kurvor.
+en skiftnyckel|Detta verktyg har ställbar käft för muttrar i olika storlekar och förknippas med Johan Petter Johansson.
+en tång|Detta verktyg har två ledade handtag och käftar för att gripa eller klippa.
+en hyvel|Detta verktyg skär tunna spån från trä för att jämna eller forma ytan.
+ett stämjärn|Detta verktyg har rak vass egg och används för att hugga ur eller forma trä.
+en fogsvans|Detta verktyg har ett brett blad som smalnar av mot spetsen och används till trä.
+en bågfil|Detta verktyg har ett smalt utbytbart tandat blad i en båge och används ofta till metall.
+en sticksåg|Detta verktyg har ett smalt upp- och nedgående blad som kan följa kurvor.
 en vinkelslip|Denna roterande maskin använder skivor för att kapa eller slipa bland annat metall.
-en häftpistol|Det skjuter in U-formade fästen i exempelvis tyg och trä.
-en geringslåda|Den hjälper handsågen att kapa lister i bestämda vinklar.
-en momentnyckel|Det hjälper användaren dra åt ett förband till en bestämd vridkraft.
-ett skjutmått|Det har rörliga käftar för noggrann mätning av inre och yttre dimensioner.
+en häftpistol|Detta verktyg skjuter in U-formade fästen i exempelvis tyg och trä.
+en geringslåda|Detta verktyg hjälper handsågen att kapa lister i bestämda vinklar.
+en momentnyckel|Detta verktyg hjälper användaren att dra åt ett skruvförband till ett bestämt vridmoment.
+ett skjutmått|Detta verktyg har rörliga käftar för noggrann mätning av inre och yttre dimensioner.
 ett lod|Denna tyngd i ett snöre visar riktningen rakt nedåt med hjälp av gravitationen.
 en murarslev|Med detta platta handverktyg läggs och formas bruk mellan tegelstenar.
 armering|Dessa ståldelar läggs i betong för att ta upp dragkrafter som materialet klarar sämre självt.
@@ -110,55 +110,55 @@ en drevning|Vid detta byggmoment tätas springan mellan exempelvis fönsterkarm 
 en t-shirt|Detta kortärmade överdelsplagg har fått namn efter bokstaven som formen liknar.
 jeans|Dessa slitstarka byxor görs av denim och förknippas med blå indigofärg.
 en kavaj|Denna skräddade jacka har slag och kan bäras som överdel i en kostym.
-en kjol|Det hänger från midjan och har inte två separata byxben.
+en kjol|Detta plagg hänger från midjan och har inte två separata byxben.
 en halsduk|Detta långa tygstycke lindas kring halsen för värme eller dekoration.
-en trenchcoat|Den har ofta dubbelknäppning, skärp och axelklaffar och har militärt ursprung.
+en trenchcoat|Denna typ av ytterplagg har ofta dubbelknäppning, skärp och axelklaffar och utvecklades ur militär klädsel.
 en cardigan|Denna stickade tröja är öppen framtill och knäpps ofta med knappar.
 en hoodie|Detta lediga tröjplagg har huva och ofta en stor ficka framtill.
 en polotröja|Detta stickade plagg har en hög uppvikt krage som täcker halsen.
-en overall|Det förenar överdel och byxben i ett enda stycke.
+en overall|Detta plagg förenar överdel och byxben i ett enda stycke.
 denim|Detta slitstarka kypertvävda bomullstyg används särskilt till blå vardagsbyxor.
-sammet|Det har en tät kort lugg som ger mjuk yta och skiftande lyster.
+sammet|Detta tyg har en tät kort lugg som ger en mjuk yta och skiftande lyster.
 linne som tyg|Detta svala textilmaterial görs av fibrer från en växt med blå blommor.
 siden|Detta glansiga textilmaterial vävs av silkesfibrer från kokonger.
 kashmir|Denna mjuka ullfiber kommer från underullen hos en särskild typ av get.
 en basker|Denna mjuka runda huvudbonad saknar skärm och förknippas bland annat med franska konstnärer.
-en fedora|Den har brätte och en nypning framtill i kronan och syns i många äldre deckare.
+en fedora|Denna filthattsmodell har brätte och ofta en nypning framtill i kronan. Den syns i många äldre deckarfilmer.
 en kimono|Detta traditionella japanska plagg har vida ärmar och hålls ihop med ett brett band.
 en sari|Detta långa tygstycke draperas runt kroppen i traditionell sydasiatisk kvinnoklädsel.
 en kilt|Detta veckade skotska plagg bärs kring midjan och har ofta rutigt tartanmönster.
-en plissering|De pressade veck ger ett tyg volym och rörelse.
-en raglanärm|Den har en diagonal söm från armhålan upp mot halsringningen.
+en plissering|Denna behandling av tyg skapar regelbundna, pressade veck som kan ge en kjol volym och rörelse.
+en raglanärm|Denna ärmtyp har en diagonal söm från armhålan upp mot halsringningen, i stället för en vanlig axelsöm.
 en manschett|Denna avslutande del runt handleden finns på skjortärmar och kan hållas med särskilda knappar.
 en revär|Denna dekorativa remsa löper längs utsidan av ett byxben, exempelvis på uniformer.
 haute couture|Detta franska modebegrepp betecknar exklusiv måttbeställd sömnad under särskilda branschkrav.
 
-@Kända varumärken|Vad är|Varumärket {1}.
-IKEA|grundades av Ingvar Kamprad och säljer möbler som ofta monteras hemma
-Volvo|är ett svenskt fordonsnamn med en symbol som liknar det gamla järnmärket
-LEGO|är danskt och förknippas med byggklossar som kan fogas ihop på många sätt
-Nike|är sportmärket med den svepande logotypen Swoosh
-Apple|är teknikmärket med ett bitet fruktmotiv och produkter som iPhone
-Adidas|är sportmärket som känns igen på tre ränder
-Coca-Cola|är läskmärket med rödvit profil och ett välkänt konturformat glasflaskutseende
-McDonald's~McDonalds|är snabbmatskedjan med gyllene bågar och hamburgaren Big Mac
-Nintendo|är det japanska spelföretaget bakom konsoler som Wii och Switch
-Spotify|är den svenska strömningstjänsten med grön symbol och ljudvågsformade linjer
-Lacoste|är klädmärket med en liten krokodil, grundat av en fransk tennisspelare
-Puma|är sportmärket med ett hoppande kattdjur i logotypen
-Rolex|är schweiziskt och förknippas med exklusiva armbandsur och en krona i märket
-Toblerone|är chokladmärket med triangulära bitar och koppling till schweiziska berg
-Fjällräven|är det svenska friluftsmärket bakom ryggsäcken Kånken
-Patagonia|är friluftsmärket vars logotyp visar en bergssilhuett från Sydamerika
-Muji|är en japansk butikskedja vars namn anknyter till kvalitetsvaror utan varumärkesprägel
-Dyson|är teknikmärket som blev känt för påslösa dammsugare med cyklonteknik
-Bosch|är ett tyskt teknikföretag vars namn syns på verktyg, vitvaror och fordonsdelar
-Leica|är tyskt och känt för kameror med en liten röd cirkel som logotyp
-Bang & Olufsen~B&O|är ett danskt företag känt för formgivna ljudprodukter och högtalare
-Husqvarna|har svenska rötter i vapentillverkning och gör bland annat motorsågar och trädgårdsmaskiner
-Fiskars|är finländskt och känns igen på saxar med orange handtag
-Marimekko|är finländskt och känt för färgstarka textilmönster som den stora blomman Unikko
-Rimowa|är ett tyskt bagagemärke känt för resväskor med längsgående räfflor
+@Kända varumärken|Vad är
+IKEA|Detta varumärke grundades av Ingvar Kamprad och säljer möbler som ofta monteras hemma.
+Volvo|Detta varumärke är ett svenskt fordonsnamn med en symbol som liknar det gamla järnmärket.
+LEGO|Detta varumärke är danskt och förknippas med byggklossar som kan fogas ihop på många sätt.
+Nike|Detta varumärke är sportmärket med den svepande logotypen Swoosh.
+Apple|Detta varumärke är teknikmärket med ett bitet fruktmotiv och produkter som iPhone.
+Adidas|Detta varumärke är sportmärket som känns igen på tre ränder.
+Coca-Cola|Detta varumärke är läskmärket med rödvit profil och ett välkänt konturformat glasflaskutseende.
+McDonald's~McDonalds|Detta varumärke är snabbmatskedjan med gyllene bågar och hamburgaren Big Mac.
+Nintendo|Detta varumärke är det japanska spelföretaget bakom konsoler som Wii och Switch.
+Spotify|Detta varumärke är den svenska strömningstjänsten med grön symbol och ljudvågsformade linjer.
+Lacoste|Detta varumärke är klädmärket med en liten krokodil, grundat av en fransk tennisspelare.
+Puma|Detta varumärke är sportmärket med ett hoppande kattdjur i logotypen.
+Rolex|Detta varumärke är schweiziskt och förknippas med exklusiva armbandsur och en krona i märket.
+Toblerone|Detta varumärke är chokladmärket med triangulära bitar och koppling till schweiziska berg.
+Fjällräven|Detta varumärke är det svenska friluftsmärket bakom ryggsäcken Kånken.
+Patagonia|Detta varumärke är friluftsmärket vars logotyp visar en bergssilhuett från Sydamerika.
+Muji|Detta varumärke är en japansk butikskedja vars namn anknyter till kvalitetsvaror utan varumärkesprägel.
+Dyson|Detta varumärke är teknikmärket som blev känt för påslösa dammsugare med cyklonteknik.
+Bosch|Detta varumärke är ett tyskt teknikföretag vars namn syns på verktyg, vitvaror och fordonsdelar.
+Leica|Detta varumärke är tyskt och känt för kameror med en liten röd cirkel som logotyp.
+Bang & Olufsen~B&O|Detta varumärke är ett danskt företag känt för formgivna ljudprodukter och högtalare.
+Husqvarna|Detta varumärke har svenska rötter i vapentillverkning och gör bland annat motorsågar och trädgårdsmaskiner.
+Fiskars|Detta varumärke är finländskt och känns igen på saxar med orange handtag.
+Marimekko|Detta varumärke är finländskt och känt för färgstarka textilmönster som den stora blomman Unikko.
+Rimowa|Detta varumärke är ett tyskt bagagemärke känt för resväskor med längsgående räfflor.
 
 @Pengar och ekonomi|Vad är
 en budget|Denna plan jämför förväntade inkomster och utgifter under en period.
@@ -171,10 +171,10 @@ deflation|Detta innebär att den allmänna prisnivån sjunker över tid.
 moms~mervärdesskatt|Denna konsumtionsskatt läggs på många varor och tjänster och syns ofta på kvittot.
 en aktie|Detta värdepapper representerar en ägarandel i ett bolag.
 en fond|I denna placeringsform samlas pengar från flera sparare och investeras enligt gemensamma regler.
-en obligation|Det innebär i princip att köparen lånar ut pengar till utgivaren.
+en obligation|Detta räntebärande värdepapper innebär att köparen lånar ut pengar till en stat eller ett företag som har gett ut det.
 amortering|Detta är en återbetalning av själva lånebeloppet, utöver eventuell ränta.
 en utdelning|Denna utbetalning från ett bolag går till dess ägare, ofta ur vinstmedel.
-en växelkurs|Det anger hur mycket en valuta är värd uttryckt i en annan.
+en växelkurs|Detta pris anger hur mycket en valuta är värd uttryckt i en annan valuta.
 bruttonationalprodukt~BNP|Detta mått summerar värdet av slutliga varor och tjänster som produceras i ett land under en period.
 en lågkonjunktur|I detta ekonomiska läge är efterfrågan svag och arbetslösheten tenderar att vara högre.
 en högkonjunktur|I detta ekonomiska läge är efterfrågan stark och många företag utnyttjar stor del av sin kapacitet.
@@ -184,45 +184,45 @@ en balansräkning|Denna ekonomiska rapport visar tillgångar, skulder och eget k
 likviditet|Det beskriver betalningsförmågan på kort sikt, exempelvis möjligheten att betala förfallna räkningar.
 soliditet|Det beskriver hur stor del av tillgångarna som finansierats med eget kapital.
 alternativkostnad|Detta är värdet av det bästa alternativ man avstår från när man gör ett val.
-marginalnytta|Det beskriver den extra nytta som ytterligare en enhet av något ger.
+marginalnytta|Detta ekonomiska begrepp beskriver den extra nytta som ytterligare en enhet av något ger konsumenten.
 diversifiering|Genom denna spridning över olika innehav minskas beroendet av ett enda utfall.
 
 @Yrken|Vem är
 en lärare|Denna person planerar undervisning och hjälper elever att utveckla kunskaper.
-en läkare|Den undersöker patienter, ställer diagnoser och behandlar sjukdomar.
+en läkare|Denna yrkesperson undersöker patienter, ställer diagnoser och behandlar sjukdomar.
 en brandman|Denna person släcker bränder och deltar i räddningsinsatser.
-en bagare|Den arbetar yrkesmässigt med att tillverka bröd och ofta andra bakverk.
+en bagare|Denna yrkesperson arbetar yrkesmässigt med att tillverka bröd och ofta andra bakverk.
 en frisör|Denna person klipper, färgar och formar människors hår.
 en elektriker|Denna hantverkare installerar och underhåller elektriska anläggningar.
-en snickare|Den bygger och monterar främst konstruktioner av trä.
-en rörmokare~en VVS-montör|Den arbetar med ledningar för vatten, värme och avlopp.
-en bibliotekarie|Den hjälper besökare att hitta litteratur och information bland samlingar och databaser.
-en veterinär|Den undersöker och behandlar sjuka eller skadade djur.
+en snickare|Denna yrkesperson bygger och monterar främst konstruktioner av trä.
+en rörmokare~en VVS-montör|Denna yrkesperson arbetar med ledningar för vatten, värme och avlopp.
+en bibliotekarie|Denna yrkesperson hjälper besökare att hitta litteratur och information bland samlingar och databaser.
+en veterinär|Denna yrkesperson undersöker och behandlar sjuka eller skadade djur.
 en arkitekt|Denna person formger byggnader och planerar hur rum och funktioner ska samverka.
-en arkeolog|Den undersöker äldre människors liv genom föremål, lämningar och utgrävningar.
-en meteorolog|Den studerar atmosfären och kan arbeta med att göra väderprognoser.
+en arkeolog|Denna yrkesperson undersöker äldre människors liv genom föremål, lämningar och utgrävningar.
+en meteorolog|Denna yrkesperson studerar atmosfären och kan arbeta med att göra väderprognoser.
 en farmaceut|Denna läkemedelsutbildade person kan ge råd och lämna ut mediciner på apotek.
-en fysioterapeut~en sjukgymnast|Den arbetar med rörelseförmåga och rehabilitering genom bland annat träning.
+en fysioterapeut~en sjukgymnast|Denna yrkesperson arbetar med rörelseförmåga och rehabilitering genom bland annat träning.
 en logoped|Denna person utreder och behandlar svårigheter med tal, språk, röst och sväljning.
 en dietist|Denna legitimerade person arbetar med mat och näring som del av behandling och hälsa.
-en audionom|Den undersöker hörsel och hjälper till med hörhjälpmedel.
-en optiker|Den undersöker syn och provar ut glasögon eller kontaktlinser.
+en audionom|Denna yrkesperson undersöker hörsel och hjälper till med hörhjälpmedel.
+en optiker|Denna yrkesperson undersöker syn och provar ut glasögon eller kontaktlinser.
 en ortopedingenjör|Denna person utformar och provar ut proteser och stöd för kroppens rörelseapparat.
 en konservator|Denna person vårdar och bevarar kulturföremål som målningar, textilier eller arkeologiska fynd.
-en lantmätare|Den arbetar med mätning, kartor och frågor kring mark och fastighetsgränser.
+en lantmätare|Denna yrkesperson arbetar med mätning, kartor och frågor kring mark och fastighetsgränser.
 en aktuarie|Denna person använder matematik och statistik för att beräkna risker, ofta i försäkringsbranschen.
 en patentingenjör|Denna person granskar eller hjälper till att skydda tekniska uppfinningar juridiskt.
-en etolog|Den studerar djurs beteenden och hur de påverkas av miljö och utveckling.
+en etolog|Denna yrkesperson studerar djurs beteenden och hur de påverkas av miljö och utveckling.
 
 @Hem och hushåll|Vad är
 ett kylskåp|Denna apparat håller livsmedel kalla men normalt inte frysta.
-en frys|Den förvarar mat vid minusgrader för längre hållbarhet.
-en diskmaskin|Den rengör tallrikar och bestick med sprutande vatten och diskmedel.
-en tvättmaskin|Den rengör textilier i en trumma med vatten och tvättmedel.
+en frys|Denna hushållsapparat förvarar mat vid minusgrader för längre hållbarhet.
+en diskmaskin|Denna hushållsapparat rengör tallrikar och bestick med sprutande vatten och diskmedel.
+en tvättmaskin|Denna hushållsapparat rengör textilier i en trumma med vatten och tvättmedel.
 en dammsugare|Denna apparat suger upp damm och smuts genom ett munstycke.
-en mikrovågsugn|Den värmer mat med elektromagnetiska vågor som bland annat får vattenmolekyler att röra sig.
+en mikrovågsugn|Denna hushållsapparat värmer mat med elektromagnetiska vågor som bland annat får vattenmolekyler att röra sig.
 en vattenkokare|Denna mindre köksapparat hettar snabbt upp vatten i sitt eget kärl.
-en brödrost|Den gör brödskivor varma och gyllene mellan elektriska värmeelement.
+en brödrost|Denna hushållsapparat gör brödskivor varma och gyllene mellan elektriska värmeelement.
 en spisfläkt|Denna anordning över matlagningen tar hand om ånga, os och fettpartiklar.
 en brandvarnare|Denna apparat i taket larmar när den upptäcker tecken på rök.
 ett vattenlås|Denna böj eller behållare under avloppet håller kvar vatten som stoppar lukt från ledningen.
@@ -234,7 +234,7 @@ en luftavfuktare|Denna apparat tar bort vattenånga ur luften i ett fuktigt rum.
 en luftfuktare|Denna apparat tillför vattenånga eller fina droppar när inomhusluften är för torr.
 en torktumlare|Denna maskin torkar tvätt genom att rotera plaggen i en trumma med luft.
 ett strykjärn|Med denna upphettade platta slätas tyg ut mot en bräda.
-en mangel|Den pressar textilier mellan valsar för att göra dem släta.
+en mangel|Denna hushållsapparat pressar textilier mellan valsar för att göra dem släta.
 en värmepump|Denna apparat flyttar värme från en kallare omgivning till ett varmare system med hjälp av arbete.
 en tilluftsventil|Genom denna öppning släpps frisk luft in i bostaden som del av ventilationen.
 en frånluftsventil|Genom denna öppning förs använd luft bort från exempelvis badrum eller kök.
@@ -253,7 +253,7 @@ balans|Den hjälper kroppen att hålla tyngdpunkten inom stödytan utan att fall
 rörlighet|Den beskriver hur stort rörelseutslag leder och omgivande vävnader tillåter.
 återhämtning|Denna period efter belastning låter kroppen reparera sig och anpassa sig till träningen.
 puls|Detta rytmiska tryck i blodkärlen används för att räkna hjärtslag per minut.
-vilopuls|Det är antalet hjärtslag per minut när kroppen är i vila.
+vilopuls|Detta mått anger antalet hjärtslag per minut när kroppen är i vila.
 intervallträning|Denna träningsform växlar mellan mer ansträngande perioder och lättare arbete eller vila.
 en repetition|Ett enskilt genomförande av en styrkeövnings rörelse kallas detta.
 ett set|En sammanhängande grupp repetitioner i styrketräning kallas detta.

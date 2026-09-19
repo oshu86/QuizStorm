@@ -171,11 +171,11 @@ Godahoppsudden|Denna udde nära Afrikas sydspets rundades av Bartolomeu Dias 148
 Kap Horn|Denna udde vid Sydamerikas sydspets var fruktad av segelfartyg på grund av stormigt hav.
 Magellans sund|Den skiljer Sydamerikas fastland från Eldslandet och användes under den första världsomseglingen.
 Sidenvägen|Detta nät av handelsleder band samman Östasien med områden längre västerut och förknippas med karavaner.
-en sextant|Med det kan en navigatör mäta solens höjd över horisonten.
+en sextant|Med detta navigationsinstrument kan man mäta vinkeln mellan solen och horisonten för att hjälpa till att bestämma sin position.
 en kronometer|Ett mycket noggrant sådant ur hjälpte sjöfarare att bestämma längdgrad genom jämförelse med referenstid.
 en karavell|Denna relativt lilla manövrerbara portugisiska fartygstyp användes under 1400-talets kustutforskning.
-latitud~breddgrad|Den anger hur långt norr eller söder om ekvatorn en plats ligger.
-longitud~längdgrad|Den anger hur långt öster eller väster om nollmeridianen en plats ligger.
+latitud~breddgrad|Denna geografiska koordinat anger en plats vinkelavstånd norr eller söder om ekvatorn.
+longitud~längdgrad|Denna geografiska koordinat anger hur långt öster eller väster om nollmeridianen en plats ligger, uttryckt i grader.
 Nordvästpassagen|Den går genom den kanadensiska arktiska övärlden mellan Atlanten och Stilla havet.
 Nordostpassagen|Den följer Asiens arktiska kust mellan Atlanten och Stilla havet.
 Kon-Tiki|På denna balsaflotte seglade Thor Heyerdahl från Peru mot Polynesien 1947.

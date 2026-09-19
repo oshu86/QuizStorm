@@ -50,7 +50,7 @@ Stanley Cup|Denna stora silverpokal tilldelas segraren i NHL:s slutspel.
 Tre Kronor|Detta svenska landslagsnamn syftar på tröjans tre gula kungliga symboler.
 Damkronorna|Så kallas Sveriges kvinnliga landslag i sporten med puck och skridskor.
 forechecking~forecheck|Den pressar motståndaren högt när den försöker spela upp pucken.
-sudden death~sudden victory|Här avgör första målet direkt matchen.
+sudden death~sudden victory|I denna form av förlängning avgör det första målet omedelbart matchen, exempelvis i ishockey.
 
 @Olympiska spelen|Vad är
 de olympiska ringarna|Fem sammanlänkade färgade cirklar på vit botten bildar denna idrottssymbol.
@@ -103,7 +103,7 @@ en vindmätare~en anemometer|Det registrerar luftens hastighet som kan påverka 
 Fosburyflopp|I denna höjdhoppsteknik passerar idrottaren ribban med ryggen först.
 en negativ split|Den innebär att andra halvan löps snabbare än första.
 en farthållare~en hare i löpning|Den hjälper andra att hålla önskat tempo och behöver inte fullfölja.
-ett målfoto~en fotofinish|Den skiljer mycket täta målgångar åt.
+ett målfoto~en fotofinish|Denna bild tas vid mållinjen och hjälper domaren att avgöra ordningen när löpare går i mål nästan samtidigt.
 en sektorlinje|Denna markering avgränsar området där ett kast måste landa för att gälla.
 
 @Vintersport|Vad är
@@ -118,10 +118,10 @@ störtlopp|Denna alpina fartgren har långa svepande svängar och är normalt sn
 storslalom|Denna alpina gren har större svängradie än slalom men fler svängar än super-G.
 super-G|Denna alpina fartgren ligger mellan störtlopp och storslalom i karaktär.
 short track|Flera skridskoåkare tävlar samtidigt på en kort oval, ofta i en hockeyhall.
-rodel|Här ligger åkaren på rygg med fötterna först.
-skeleton|Här ligger åkaren på mage med huvudet först.
+rodel|I denna vintersport ligger åkaren på rygg på en liten kälke och färdas med fötterna först genom en isbana.
+skeleton|I denna vintersport ligger åkaren på mage på en liten kälke och färdas med huvudet först genom en isbana.
 bob|Laget skjuter igång en styrbar tävlingskälke och hoppar sedan in.
-nordisk kombination|Den förenar backhoppning med längdskidåkning.
+nordisk kombination|Denna vinteridrott förenar backhoppning med längdskidåkning i samma tävling.
 puckelpist|Åkaren tar sig genom täta snögupp och gör även hopp i denna freestylegren.
 skicross|Flera skidåkare tävlar samtidigt över hopp, doserade svängar och ojämnheter.
 halfpipe|Trick utförs mellan väggarna i en stor halvrörsformad snöanläggning.
@@ -140,7 +140,7 @@ badminton|Här slås en fjäderförsedd boll över ett högt nät.
 padel|Den spelas vanligen i dubbel på en bana där väggarna ingår.
 squash|Spelarna slår en liten boll mot den främre väggen i ett slutet rum.
 en serve|Med detta inledande slag sätts bollen i spel i många racketsporter.
-en volley|Det träffar bollen före studs i tennis eller padel.
+en volley|Detta slag i tennis eller padel innebär att spelaren träffar bollen innan den har studsat.
 en smash|Detta hårda slag ovanför huvudet försöker ofta avsluta bollväxlingen.
 en lobb|Detta höga slag skickas över en motståndare som står nära nätet.
 ett ess~en ace|En giltig serve ger här poäng utan att motståndaren vidrör bollen.
@@ -149,7 +149,7 @@ ett tiebreak|Detta särskilda poängspel kan avgöra ett jämnt tennisset.
 en breakboll|Här kan servemottagaren vinna ett tennisgame med nästa poäng.
 ett dubbelfel|Så kallas två missade serveförsök i följd i tennis.
 en stoppboll~en drop shot|Detta mjuka slag får bollen att landa nära nätet på andra sidan.
-topspin|Den hjälper bollen att dyka ner efter nätpassagen.
+topspin|Denna framåtrotation på en boll hjälper den att dyka ned efter nätpassagen och studsa högre, exempelvis i tennis.
 en slice|Detta skärande slag ger ofta underskruv och låg studs.
 en sweet spot|Denna del av racketens träffyta ger en särskilt ren och effektiv träff.
 en Grand Slam|Att vinna alla fyra största singelturneringarna samma kalenderår kallas detta i tennis.

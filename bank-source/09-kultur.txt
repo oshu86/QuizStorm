@@ -161,11 +161,11 @@ Jean-Michel Basquiat|Han kom från New Yorks graffitimiljö och använde kronor 
 Käthe Kollwitz~Kathe Kollwitz|Hon skildrade sorg och social utsatthet i grafik och skulptur
 
 @Ord och uttryck|Vad är
-en synonym|Det har ungefär samma betydelse som ett annat, som glad och lycklig.
+en synonym|Detta ord har samma eller ungefär samma betydelse som ett annat, som glad i förhållande till lycklig.
 en motsats~en antonym|Detta språkliga förhållande finns mellan exempelvis varm och kall.
-ett substantiv|Den omfattar namn på saker, personer och företeelser, som stol och glädje.
-ett verb|Den beskriver bland annat handlingar, som springa och tänka.
-ett adjektiv|Den beskriver egenskaper, som snabb, blå och vänlig.
+ett substantiv|Denna ordklass omfattar namn på saker, personer och företeelser, exempelvis stol, lärare och glädje.
+ett verb|Denna ordklass uttrycker bland annat handlingar och tillstånd; springa, tänka och vara är exempel.
+ett adjektiv|Denna ordklass beskriver egenskaper, exempelvis snabb, blå och vänlig.
 ett pronomen|Ord som hon, det och någon tillhör denna ordklass som kan ersätta namn eller nominalfraser.
 en preposition|Ord som på, under och mellan tillhör denna ordklass som anger relationer.
 en metafor|I denna bildliga formulering kallas någon exempelvis en klippa utan ett jämförande som.
@@ -179,7 +179,7 @@ en akronym|Denna förkortning bildas av begynnelsebokstäver och uttalas som ett
 en eufemism|Detta mildrande uttryck ersätter något obehagligt, som somna in i stället för dö.
 en hyperbol|Detta stilgrepp överdriver medvetet, som att ha väntat i tusen år.
 en litotes|I detta stilgrepp sägs något genom att förneka motsatsen, som inte illa för bra.
-en oxymoron|Det förenar till synes motsägande ord, som talande tystnad.
+en oxymoron|Denna stilfigur förenar till synes motsägande ord, som talande tystnad eller bitterljuv.
 en tautologi|I detta uttryck upprepas samma innebörd, som gratis utan kostnad.
 etymologi|Denna del av språkvetenskapen undersöker ordens ursprung och historia.
 semantik|Denna del av språkvetenskapen behandlar betydelse hos ord och uttryck.
@@ -187,59 +187,59 @@ syntax|Denna del av grammatiken behandlar hur ord sätts samman till fraser och 
 fonetik|Denna del av språkvetenskapen studerar hur språkljud bildas, överförs och uppfattas.
 pragmatik|Denna del av språkvetenskapen studerar hur sammanhang och talaravsikt påverkar språkets betydelse.
 
-@Talesätt och uttryck|Vad är|Talesättet {1}.
-Ingen rök utan eld|uttrycker att ett rykte kan ha någon verklig orsak, med en bild från förbränning
-Borta bra men hemma bäst|uttrycker att resor kan vara trevliga men den egna bostaden ändå känns mest trivsam
-Bättre sent än aldrig|uttrycker att en försenad insats ändå är värdefull jämfört med att ingenting händer
-Övning ger färdighet|uttrycker att man blir bättre genom att göra något många gånger
-Tiden läker alla sår|uttrycker att sorg och smärta ofta blir lättare att bära när månader och år går
-Många bäckar små gör en stor å|uttrycker att små bidrag tillsammans kan bli betydande, med en bild från rinnande vatten
-Man ska inte kasta sten i glashus|varnar för att kritisera andras fel när man själv är sårbar för samma kritik
-Den som gräver en grop åt andra faller ofta själv däri|varnar för att egna intriger kan slå tillbaka på den som planerat dem
-Äpplet faller inte långt från trädet|beskriver att barn ofta liknar sina föräldrar
-Efter regn kommer solsken|ger hopp om att svåra perioder följs av bättre tider
-Bättre en fågel i handen än tio i skogen|rekommenderar en säker liten fördel framför en osäker större
-Man ska inte ropa hej förrän man är över bäcken|varnar för att ta framgången för given innan hindret är passerat
-Tomma tunnor skramlar mest|antyder att den som låter mycket inte alltid har mest innehåll att bidra med
-Kaka söker maka|beskriver hur människor med liknande egenskaper ofta dras till varandra
-Liten tuva stjälper ofta stort lass|visar hur ett litet hinder kan få stora följder
-Det är ingen ko på isen|lugnar någon med att det inte är någon omedelbar fara
-Nu har du satt din sista potatis|är ett hotfullt skämtsamt sätt att säga att någon inte kommer undan igen
-Att ana ugglor i mossen|betyder att misstänka att något inte står rätt till
-Att köpa grisen i säcken|betyder att skaffa något utan att först kontrollera vad man får
-Att gå som katten kring het gröt|betyder att undvika att säga det viktiga rakt ut
-Att ha rent mjöl i påsen|betyder att vara ärlig och inte ha något att dölja
-Att sätta bocken till trädgårdsmästare|betyder att ge en olämplig person ansvar för något den kan frestas att förstöra
-Att skilja agnarna från vetet|betyder att skilja det värdefulla från det mindre användbara
-Att hälla olja på vågorna|betyder att lugna en konflikt eller upprörd situation
-Att kasta pärlor för svin|betyder att ge något värdefullt till någon som inte uppskattar det
+@Talesätt och uttryck|Vad är
+Ingen rök utan eld|Detta talesätt uttrycker att ett rykte kan ha någon verklig orsak, med en bild från förbränning.
+Borta bra men hemma bäst|Detta talesätt uttrycker att resor kan vara trevliga men den egna bostaden ändå känns mest trivsam.
+Bättre sent än aldrig|Detta talesätt uttrycker att en försenad insats ändå är värdefull jämfört med att ingenting händer.
+Övning ger färdighet|Detta talesätt uttrycker att man blir bättre genom att göra något många gånger.
+Tiden läker alla sår|Detta talesätt uttrycker att sorg och smärta ofta blir lättare att bära när månader och år går.
+Många bäckar små gör en stor å|Detta talesätt uttrycker att små bidrag tillsammans kan bli betydande, med en bild från rinnande vatten.
+Man ska inte kasta sten i glashus|Detta talesätt varnar för att kritisera andras fel när man själv är sårbar för samma kritik.
+Den som gräver en grop åt andra faller ofta själv däri|Detta talesätt varnar för att egna intriger kan slå tillbaka på den som planerat dem.
+Äpplet faller inte långt från trädet|Detta talesätt beskriver att barn ofta liknar sina föräldrar.
+Efter regn kommer solsken|Detta talesätt ger hopp om att svåra perioder följs av bättre tider.
+Bättre en fågel i handen än tio i skogen|Detta talesätt rekommenderar en säker liten fördel framför en osäker större.
+Man ska inte ropa hej förrän man är över bäcken|Detta talesätt varnar för att ta framgången för given innan hindret är passerat.
+Tomma tunnor skramlar mest|Detta talesätt antyder att den som låter mycket inte alltid har mest innehåll att bidra med.
+Kaka söker maka|Detta talesätt beskriver hur människor med liknande egenskaper ofta dras till varandra.
+Liten tuva stjälper ofta stort lass|Detta talesätt visar hur ett litet hinder kan få stora följder.
+Det är ingen ko på isen|Detta talesätt lugnar någon med att det inte är någon omedelbar fara.
+Nu har du satt din sista potatis|Detta talesätt är ett hotfullt skämtsamt sätt att säga att någon inte kommer undan igen.
+Att ana ugglor i mossen|Detta talesätt betyder att misstänka att något inte står rätt till.
+Att köpa grisen i säcken|Detta talesätt betyder att skaffa något utan att först kontrollera vad man får.
+Att gå som katten kring het gröt|Detta talesätt betyder att undvika att säga det viktiga rakt ut.
+Att ha rent mjöl i påsen|Detta talesätt betyder att vara ärlig och inte ha något att dölja.
+Att sätta bocken till trädgårdsmästare|Detta talesätt betyder att ge en olämplig person ansvar för något den kan frestas att förstöra.
+Att skilja agnarna från vetet|Detta talesätt betyder att skilja det värdefulla från det mindre användbara.
+Att hälla olja på vågorna|Detta talesätt betyder att lugna en konflikt eller upprörd situation.
+Att kasta pärlor för svin|Detta talesätt betyder att ge något värdefullt till någon som inte uppskattar det.
 
-@Världens språk|Vad är|Språket {1}.
-svenska|talas i Sverige och av en minoritet i Finland och skriver tre extra vokalbokstäver efter Z
-engelska|är huvudspråk i bland annat Storbritannien och använder hälsningen hello
-spanska|talas i Spanien och stora delar av Latinamerika och använder både inledande och avslutande frågetecken
-franska|talas i Frankrike och delar av Kanada och använder hälsningen bonjour
-tyska|talas i Tyskland och Österrike och skriver substantiv med stor begynnelsebokstav
-italienska|talas i Italien och har gett musiken ord som allegro och piano
-portugisiska|talas i Portugal och Brasilien och har hälsningen olá
-norska|talas väster om Sverige och har två officiella skriftspråksformer, en med danska rötter och en byggd på dialekter
-danska|är ett nordiskt språk där räkneorden för sjuttio och nittio bygger på ett äldre tjugobaserat system
-finska|är ett finsk-ugriskt språk där vatten heter vesi och tack heter kiitos
-isländska|är ett nordiskt språk som bevarat mycket äldre böjning och använder bokstäverna þ och ð
-nederländska|talas i Nederländerna och Flandern och har ordet fiets för cykel
-polska|är ett västslaviskt språk som använder bokstäver som ł och ą
-grekiska|har ett eget alfabet med alfa, beta och omega och talas i sydöstra Europa
-ryska|skrivs med kyrilliska bokstäver och var dominerande i Sovjetunionen
-arabiska|skrivs från höger till vänster och har stor spridning i Nordafrika och Mellanöstern
-hebreiska|skrivs från höger till vänster och återupplivades som modernt vardagsspråk i Israel
-japanska|använder kanji tillsammans med stavelseskrifterna hiragana och katakana
-koreanska|skrivs huvudsakligen med alfabetet hangul och talas på halvön öster om Kina
-mandarinkinesiska~mandarin|är den kinesiska språkvariant som ligger till grund för standardspråket och använder toner som skiljer ord
-swahili|är ett bantuspråk som används som gemensamt språk i stora delar av Östafrika
-hindi|skrivs vanligen med devanagari och är ett mycket stort språk i norra Indien
-persiska~farsi|talas i Iran och skrivs med en anpassning av det arabiska alfabetet
-baskiska~euskara|talas på båda sidor om västra Pyrenéerna och saknar säkert påvisade levande släktspråk
-esperanto|skapades av L.L. Zamenhof som internationellt hjälpspråk och presenterades 1887
+@Världens språk|Vad är
+svenska|Detta språk talas i Sverige och av en minoritet i Finland och skriver tre extra vokalbokstäver efter Z.
+engelska|Detta språk är huvudspråk i bland annat Storbritannien och använder hälsningen hello.
+spanska|Detta språk talas i Spanien och stora delar av Latinamerika och använder både inledande och avslutande frågetecken.
+franska|Detta språk talas i Frankrike och delar av Kanada och använder hälsningen bonjour.
+tyska|Detta språk talas i Tyskland och Österrike och skriver substantiv med stor begynnelsebokstav.
+italienska|Detta språk talas i Italien och har gett musiken ord som allegro och piano.
+portugisiska|Detta språk talas i Portugal och Brasilien och har hälsningen olá.
+norska|Detta språk talas väster om Sverige och har två officiella skriftspråksformer, en med danska rötter och en byggd på dialekter.
+danska|Detta språk är ett nordiskt språk där räkneorden för sjuttio och nittio bygger på ett äldre tjugobaserat system.
+finska|Detta språk är ett finsk-ugriskt språk där vatten heter vesi och tack heter kiitos.
+isländska|Detta språk är ett nordiskt språk som bevarat mycket äldre böjning och använder bokstäverna þ och ð.
+nederländska|Detta språk talas i Nederländerna och Flandern och har ordet fiets för cykel.
+polska|Detta språk är ett västslaviskt språk som använder bokstäver som ł och ą.
+grekiska|Detta språk har ett eget alfabet med alfa, beta och omega och talas i sydöstra Europa.
+ryska|Detta språk skrivs med kyrilliska bokstäver och var dominerande i Sovjetunionen.
+arabiska|Detta språk skrivs från höger till vänster och har stor spridning i Nordafrika och Mellanöstern.
+hebreiska|Detta språk skrivs från höger till vänster och återupplivades som modernt vardagsspråk i Israel.
+japanska|Detta språk använder kanji tillsammans med stavelseskrifterna hiragana och katakana.
+koreanska|Detta språk skrivs huvudsakligen med alfabetet hangul och talas på halvön öster om Kina.
+mandarinkinesiska~mandarin|Detta språk är den kinesiska språkvariant som ligger till grund för standardspråket och använder toner som skiljer ord.
+swahili|Detta språk är ett bantuspråk som används som gemensamt språk i stora delar av Östafrika.
+hindi|Detta språk skrivs vanligen med devanagari och är ett mycket stort språk i norra Indien.
+persiska~farsi|Detta språk talas i Iran och skrivs med en anpassning av det arabiska alfabetet.
+baskiska~euskara|Detta språk talas på båda sidor om västra Pyrenéerna och saknar säkert påvisade levande släktspråk.
+esperanto|Detta språk skapades av L.L. Zamenhof som internationellt hjälpspråk och presenterades 1887.
 
 @Högtider och firanden|Vad är
 julafton|I Sverige öppnas ofta paketen denna decemberdag före den kristna födelsehögtidens huvuddag.

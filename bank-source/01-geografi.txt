@@ -1,140 +1,140 @@
-@Länder och huvudstäder|Vad är|{2} Huvudstaden ligger i {1}.
-Stockholm|Sverige|Gamla stan breder ut sig kring det kungliga slottet.
-Oslo|Norge|Operahusets vita tak sluttar ner mot fjorden.
-Köpenhamn|Danmark|Tivoli och den lilla sjöjungfrun hör till stadens sevärdheter.
-London|Storbritannien|Themsen flyter förbi parlamentet och Big Ben.
-Paris|Frankrike|Seine flyter genom staden med Louvren och Eiffeltornet.
-Rom|Italien|Colosseum påminner om stadens tid som centrum i ett antikt imperium.
-Berlin|Tyskland|En mur delade staden under kalla kriget.
-Madrid|Spanien|Pradomuseet och torget Puerta del Sol finns här.
-Helsingfors~Helsinki|Finland|Den vita domkyrkan reser sig över Senatstorget.
-Aten|Grekland|Akropolis med templet Parthenon ligger högt över hustaken.
-Lissabon|Portugal|Gula spårvagnar klättrar längs kullarna nära floden Tejo.
-Warszawa|Polen|Gamla stan återuppbyggdes efter andra världskrigets förstörelse.
-Prag|Tjeckien|Karlsbron går över floden Vltava, som även kallas Moldau.
-Budapest|Ungern|Donau skiljer stadens två historiska huvuddelar åt.
-Dublin|Irland|Floden Liffey delar staden där Guinness bryggs.
-Ottawa|Kanada|Parlamentet ligger här, trots att Toronto är betydligt större.
-Canberra|Australien|Rivaliteten mellan Sydney och Melbourne bidrog till att en ny huvudstad anlades.
-Ankara|Turkiet|Regeringen finns här, långt från den större staden vid Bosporen.
-Brasília~Brasilia|Brasilien|En planerad stad invigdes som landets nya politiska centrum 1960.
-Bern|Schweiz|Förbundspalatset ligger vid floden Aare.
-Ljubljana|Slovenien|Drakbron och en borg på en kulle präglar stadens centrum.
-Tallinn|Estland|En välbevarad medeltida stadskärna ligger vid Finska viken.
-Riga|Lettland|Floden Daugava rinner genom ett centrum känt för många jugendhus.
-Vilnius|Litauen|Gediminas torn blickar ut över den gamla stadskärnan.
-Reykjavik~Reykjavík|Island|Hallgrímskirkjas höga torn syns över denna nordliga kuststad.
+@Länder och huvudstäder|Vad är
+Stockholm|Gamla stan breder ut sig kring det kungliga slottet. Denna huvudstad ligger i Sverige.
+Oslo|Operahusets vita tak sluttar ner mot fjorden. Denna huvudstad ligger i Norge.
+Köpenhamn|Tivoli och den lilla sjöjungfrun hör till stadens sevärdheter. Denna huvudstad ligger i Danmark.
+London|Themsen flyter förbi parlamentet och Big Ben. Denna huvudstad ligger i Storbritannien.
+Paris|Seine flyter genom staden med Louvren och Eiffeltornet. Denna huvudstad ligger i Frankrike.
+Rom|Colosseum påminner om stadens tid som centrum i ett antikt imperium. Denna huvudstad ligger i Italien.
+Berlin|En mur delade staden under kalla kriget. Denna huvudstad ligger i Tyskland.
+Madrid|Pradomuseet och torget Puerta del Sol finns här. Denna huvudstad ligger i Spanien.
+Helsingfors~Helsinki|Den vita domkyrkan reser sig över Senatstorget. Denna huvudstad ligger i Finland.
+Aten|Akropolis med templet Parthenon ligger högt över hustaken. Denna huvudstad ligger i Grekland.
+Lissabon|Gula spårvagnar klättrar längs kullarna nära floden Tejo. Denna huvudstad ligger i Portugal.
+Warszawa|Gamla stan återuppbyggdes efter andra världskrigets förstörelse. Denna huvudstad ligger i Polen.
+Prag|Karlsbron går över floden Vltava, som även kallas Moldau. Denna huvudstad ligger i Tjeckien.
+Budapest|Donau skiljer stadens två historiska huvuddelar åt. Denna huvudstad ligger i Ungern.
+Dublin|Floden Liffey delar staden där Guinness bryggs. Denna huvudstad ligger i Irland.
+Ottawa|Parlamentet ligger här, trots att Toronto är betydligt större. Denna huvudstad ligger i Kanada.
+Canberra|Rivaliteten mellan Sydney och Melbourne bidrog till att en ny huvudstad anlades. Denna huvudstad ligger i Australien.
+Ankara|Regeringen finns här, långt från den större staden vid Bosporen. Denna huvudstad ligger i Turkiet.
+Brasília~Brasilia|En planerad stad invigdes som landets nya politiska centrum 1960. Denna huvudstad ligger i Brasilien.
+Bern|Förbundspalatset ligger vid floden Aare. Denna huvudstad ligger i Schweiz.
+Ljubljana|Drakbron och en borg på en kulle präglar stadens centrum. Denna huvudstad ligger i Slovenien.
+Tallinn|En välbevarad medeltida stadskärna ligger vid Finska viken. Denna huvudstad ligger i Estland.
+Riga|Floden Daugava rinner genom ett centrum känt för många jugendhus. Denna huvudstad ligger i Lettland.
+Vilnius|Gediminas torn blickar ut över den gamla stadskärnan. Denna huvudstad ligger i Litauen.
+Reykjavik~Reykjavík|Hallgrímskirkjas höga torn syns över denna nordliga kuststad. Denna huvudstad ligger i Island.
 
-@Sveriges geografi|Vad är|{2} Orten {1}.
-Göteborg|ligger vid Göta älvs mynning|Liseberg och spårvagnarna hör till stadsbilden.
-Malmö|ligger vid Öresund|Turning Torso reser sig över Västra hamnen.
-Uppsala|ligger vid Fyrisån|Domkyrkan och universitetet dominerar den historiska stadskärnan.
-Kiruna|ligger i Lappland|Gruvbrytningen har gjort att delar av staden måste flyttas.
-Visby|ligger på Gotland|Ringmuren omger den medeltida stadskärnan.
-Umeå|ligger vid Umeälven|Björkarna längs gatorna har gett staden ett välkänt smeknamn.
-Örebro|ligger vid Svartån i Närke|Ett slott står på en holme mitt i centrum.
-Linköping|ligger i Östergötland|Flygplanstillverkning och en stor domkyrka präglar staden.
-Jönköping|ligger vid Vätterns södra strand|Tändstickstillverkning är en viktig del av dess historia.
-Karlstad|ligger där Klarälven når Vänern|En sol symboliserar ofta staden.
-Falun|ligger i Dalarna|Koppargruvan gav råvara till ett klassiskt rött huspigment.
-Kalmar|ligger vid sundet mot Öland|Ett renässansslott står vid vattnet.
-Lund|ligger i Skåne|Domkyrkans två torn och universitetet är kända landmärken.
-Norrköping|ligger vid Motala ström|Gamla textilfabriker bildar ett industrilandskap mitt i staden.
-Sundsvall|ligger vid Bottenhavet|Efter branden 1888 byggdes centrum i sten.
-Ystad|ligger på Skånes sydkust|Henning Mankells polis Kurt Wallander arbetar här i böckerna.
-Karlskrona|ligger i Blekinges skärgård|Örlogsstaden finns på Unescos världsarvslista.
-Sigtuna|ligger vid Mälaren|Runstenar och en historia som går tillbaka till sent 900-tal präglar platsen.
-Gränna|ligger vid Vättern|Polkagrisar och färjan till Visingsö lockar besökare.
-Trollhättan|ligger vid Göta älv|Slussar och vattenfall delar plats med svensk filmproduktion.
-Vadstena|ligger vid Vätterns östra strand|Heliga Birgittas klostertradition och ett vallgravsslott finns här.
-Tällberg|ligger vid Siljan|Denna dalaby förknippas med trähotell och utsikt över sjön.
-Marstrand|ligger på Bohuskusten|Carlstens fästning vakar över segelbåtarna.
-Eksjö|ligger i Småland|Välbevarad gammal träbebyggelse är ett av platsens tydligaste kännetecken.
-Jokkmokk|ligger strax norr om polcirkeln|Den årliga vintermarknaden har långa samiska traditioner.
+@Sveriges geografi|Vad är
+Göteborg|Liseberg och spårvagnarna hör till stadsbilden. Denna ort ligger vid Göta älvs mynning.
+Malmö|Turning Torso reser sig över Västra hamnen. Denna ort ligger vid Öresund.
+Uppsala|Domkyrkan och universitetet dominerar den historiska stadskärnan. Denna ort ligger vid Fyrisån.
+Kiruna|Gruvbrytningen har gjort att delar av staden måste flyttas. Denna ort ligger i Lappland.
+Visby|Ringmuren omger den medeltida stadskärnan. Denna ort ligger på Gotland.
+Umeå|Björkarna längs gatorna har gett staden ett välkänt smeknamn. Denna ort ligger vid Umeälven.
+Örebro|Ett slott står på en holme mitt i centrum. Denna ort ligger vid Svartån i Närke.
+Linköping|Flygplanstillverkning och en stor domkyrka präglar staden. Denna ort ligger i Östergötland.
+Jönköping|Tändstickstillverkning är en viktig del av dess historia. Denna ort ligger vid Vätterns södra strand.
+Karlstad|En sol symboliserar ofta staden. Denna ort ligger där Klarälven når Vänern.
+Falun|Koppargruvan gav råvara till ett klassiskt rött huspigment. Denna ort ligger i Dalarna.
+Kalmar|Ett renässansslott står vid vattnet. Denna ort ligger vid sundet mot Öland.
+Lund|Domkyrkans två torn och universitetet är kända landmärken. Denna ort ligger i Skåne.
+Norrköping|Gamla textilfabriker bildar ett industrilandskap mitt i staden. Denna ort ligger vid Motala ström.
+Sundsvall|Efter branden 1888 byggdes centrum i sten. Denna ort ligger vid Bottenhavet.
+Ystad|Henning Mankells polis Kurt Wallander arbetar här i böckerna. Denna ort ligger på Skånes sydkust.
+Karlskrona|Örlogsstaden finns på Unescos världsarvslista. Denna ort ligger i Blekinges skärgård.
+Sigtuna|Runstenar och en historia som går tillbaka till sent 900-tal präglar platsen. Denna ort ligger vid Mälaren.
+Gränna|Polkagrisar och färjan till Visingsö lockar besökare. Denna ort ligger vid Vättern.
+Trollhättan|Slussar och vattenfall delar plats med svensk filmproduktion. Denna ort ligger vid Göta älv.
+Vadstena|Heliga Birgittas klostertradition och ett vallgravsslott finns här. Denna ort ligger vid Vätterns östra strand.
+Tällberg|Denna dalaby förknippas med trähotell och utsikt över sjön. Denna ort ligger vid Siljan.
+Marstrand|Carlstens fästning vakar över segelbåtarna. Denna ort ligger på Bohuskusten.
+Eksjö|Välbevarad gammal träbebyggelse är ett av platsens tydligaste kännetecken. Denna ort ligger i Småland.
+Jokkmokk|Den årliga vintermarknaden har långa samiska traditioner. Denna ort ligger strax norr om polcirkeln.
 
-@Europas geografi|Vad är|{2} Landet {1}.
-Sverige|har både skärgårdar och fjäll|Blågult är flaggans färger och allemansrätten är välkänd.
-Norge|har en lång Atlantkust|Djupa fjordar och berg präglar landskapet väster om Sverige.
-Finland|ligger öster om Sverige|Bastu och tusentals sjöar är två välkända kännetecken.
-Danmark|omfattar Jylland och många öar|Legoland ligger i Billund.
-Storbritannien~Förenade kungariket~UK|omfattar England, Skottland, Wales och Nordirland|Vänstertrafik och pund förenar riksdelarna.
-Frankrike|sträcker sig från Atlantkusten till Alperna|Normandie och Provence är två av dess välkända områden.
-Spanien|upptar större delen av Iberiska halvön|Både Andalusien och Katalonien ligger här.
-Italien|liknar en stövel på kartan|Sicilien och Sardinien är landets två största öar.
-Tyskland|gränsar till nio länder|Bayern ligger i söder och Rhen flyter genom västra delen.
-Grekland|har öar som Rhodos och Kreta|Peloponnesos skjuter ut i Medelhavet.
-Portugal|har Atlantkust väster om Spanien|Madeira och Azorerna tillhör också landet.
-Nederländerna~Holland|har mycket mark nära eller under havsnivån|Vallar och polderområden skyddar jordbruk och städer.
-Schweiz|har fyra nationella språk|Alperna och banker är välkända, men landet är inte EU-medlem.
-Österrike|saknar kust|Tyrolens skidorter och floden Donau finns inom dess gränser.
-Polen|ligger söder om Östersjön|Wisła är landets längsta flod och Kraków var tidigare kungastad.
-Belgien|rymmer Flandern och Vallonien|Nederländska och franska är två av dess officiella språk.
-Irland|upptar större delen av en ö väster om Storbritannien|Shamrocken, en treklöver, är en nationalsymbol.
-Island|ligger på den mittatlantiska ryggen|Gejsrar, lavafält och glaciärer präglar ön.
-Kroatien|har en lång adriatisk kust|Dubrovnik och Split är två av dess turiststäder.
-Ungern|ligger till stor del på en slätt|Balatonsjön är ett populärt semestermål.
-Slovenien|har en kort kust mot Adriatiska havet|Bledsjöns lilla kyrkö är ett välkänt motiv.
-Slovakien|blev självständigt 1993 när en federation delades fredligt|Höga Tatra ligger vid gränsen mot Polen.
-Rumänien|rymmer större delen av Donaudeltat|Transsylvanien ligger innanför Karpaternas båge.
-Bulgarien|har Svartahavskust|Rosodling och bergskedjan Balkan hör till landets kännetecken.
-Albanien|ligger vid Adriatiska och Joniska haven|En svart dubbelörn på röd botten är en stark nationell symbol.
+@Europas geografi|Vad är
+Sverige|Blågult är flaggans färger och allemansrätten är välkänd. Detta land har både skärgårdar och fjäll.
+Norge|Djupa fjordar och berg präglar landskapet väster om Sverige. Detta land har en lång Atlantkust.
+Finland|Bastu och tusentals sjöar är två välkända kännetecken. Detta land ligger öster om Sverige.
+Danmark|Legoland ligger i Billund. Detta land omfattar Jylland och många öar.
+Storbritannien~Förenade kungariket~UK|Vänstertrafik och pund förenar riksdelarna. Detta land omfattar England, Skottland, Wales och Nordirland.
+Frankrike|Normandie och Provence är två av dess välkända områden. Detta land sträcker sig från Atlantkusten till Alperna.
+Spanien|Både Andalusien och Katalonien ligger här. Detta land upptar större delen av Iberiska halvön.
+Italien|Sicilien och Sardinien är landets två största öar. Detta land liknar en stövel på kartan.
+Tyskland|Bayern ligger i söder och Rhen flyter genom västra delen. Detta land gränsar till nio länder.
+Grekland|Peloponnesos skjuter ut i Medelhavet. Detta land har öar som Rhodos och Kreta.
+Portugal|Madeira och Azorerna tillhör också landet. Detta land har Atlantkust väster om Spanien.
+Nederländerna~Holland|Vallar och polderområden skyddar jordbruk och städer. Detta land har mycket mark nära eller under havsnivån.
+Schweiz|Alperna och banker är välkända, men landet är inte EU-medlem. Detta land har fyra nationella språk.
+Österrike|Tyrolens skidorter och floden Donau finns inom dess gränser. Detta land saknar kust.
+Polen|Wisła är landets längsta flod och Kraków var tidigare kungastad. Detta land ligger söder om Östersjön.
+Belgien|Nederländska och franska är två av dess officiella språk. Detta land rymmer Flandern och Vallonien.
+Irland|Shamrocken, en treklöver, är en nationalsymbol. Detta land upptar större delen av en ö väster om Storbritannien.
+Island|Gejsrar, lavafält och glaciärer präglar ön. Detta land ligger på den mittatlantiska ryggen.
+Kroatien|Dubrovnik och Split är två av dess turiststäder. Detta land har en lång adriatisk kust.
+Ungern|Balatonsjön är ett populärt semestermål. Detta land ligger till stor del på en slätt.
+Slovenien|Bledsjöns lilla kyrkö är ett välkänt motiv. Detta land har en kort kust mot Adriatiska havet.
+Slovakien|Höga Tatra ligger vid gränsen mot Polen. Detta land blev självständigt 1993 när en federation delades fredligt.
+Rumänien|Transsylvanien ligger innanför Karpaternas båge. Detta land rymmer större delen av Donaudeltat.
+Bulgarien|Rosodling och bergskedjan Balkan hör till landets kännetecken. Detta land har Svartahavskust.
+Albanien|En svart dubbelörn på röd botten är en stark nationell symbol. Detta land ligger vid Adriatiska och Joniska haven.
 
-@Världens städer|Vad är|{2} Staden {1}.
-New York|ligger vid Hudsonflodens mynning|Manhattan och Frihetsgudinnan hör till dess mest kända motiv.
-Los Angeles|ligger i södra Kalifornien|Hollywoodskylten vakar över filmindustrins hemstad.
-Sydney|ligger vid en stor naturhamn i Australien|Operahusets vita tak liknar segel.
-Dubai|ligger i Förenade arabemiraten|Skyskrapan Burj Khalifa reser sig här.
-Rio de Janeiro|ligger vid Brasiliens Atlantkust|En stor Kristusstaty vakar över Copacabana.
-Barcelona|ligger i Katalonien|Gaudís byggnader och promenadstråket La Rambla lockar besökare.
-Venedig|ligger i en lagun i nordöstra Italien|Gondoler trafikerar kanaler mellan öarna.
-Las Vegas|ligger i Nevadas öken|Kasinon och ljusskyltar kantar den berömda Strip.
-San Francisco|ligger vid en vik i Kalifornien|Golden Gate-bron och de branta gatornas kabelspårvagnar är kännetecken.
-Amsterdam|ligger i Nederländerna|Kanaler, smala gavelhus och cyklar präglar staden.
-Istanbul~Konstantinopel~Byzantion|ligger på båda sidor om Bosporen|Både det bysantinska och det osmanska riket hade här ett viktigt centrum.
-Hongkong|ligger vid Kinas sydkust|Den tidigare brittiska kolonin har tät skyskrapsbebyggelse kring Victoria Harbour.
-München~Munchen|ligger i Bayern|Oktoberfest hålls här på Theresienwiese.
-Liverpool|ligger vid floden Mersey|The Beatles växte fram i denna engelska hamnstad.
-Florens~Firenze|ligger i Toscana|Renässanskonst och bron Ponte Vecchio lockar besökare.
-Shanghai|ligger nära Yangtzeflodens mynning|Pudongs skyskrapor blickar över vattnet mot The Bund.
-Mumbai~Bombay|ligger på Indiens västkust|Bollywood är starkt förknippat med denna mångmiljonstad.
-Marrakech|ligger i Marocko vid Atlasbergens fot|Torget Jemaa el-Fna fylls av matstånd om kvällarna.
-Sankt Petersburg~Leningrad|ligger vid Nevas utlopp|Eremitaget finns i stadens forna kejserliga palats.
-Neapel~Napoli|ligger nära Vesuvius|Pizzans historia är starkt förknippad med platsen.
-Kraków~Krakow|ligger vid Wisła|Wawelborgen minner om stadens tid som Polens kungliga centrum.
-Porto|ligger vid Douros mynning|Lagringshus för ett känt starkvin finns på andra sidan floden.
-Bilbao|ligger i Baskien|Ett Guggenheimmuseum med böljande titanfasad har blivit stadens symbol.
-Salzburg|ligger vid Alperna i Österrike|Mozart föddes här och stadens borg syns på långt håll.
-Rotterdam|ligger vid Rhen–Maas-deltat|En enorm hamn och modern arkitektur präglar staden.
+@Världens städer|Vad är
+New York|Manhattan och Frihetsgudinnan hör till dess mest kända motiv. Denna stad ligger vid Hudsonflodens mynning.
+Los Angeles|Hollywoodskylten vakar över filmindustrins hemstad. Denna stad ligger i södra Kalifornien.
+Sydney|Operahusets vita tak liknar segel. Denna stad ligger vid en stor naturhamn i Australien.
+Dubai|Skyskrapan Burj Khalifa reser sig här. Denna stad ligger i Förenade arabemiraten.
+Rio de Janeiro|En stor Kristusstaty vakar över Copacabana. Denna stad ligger vid Brasiliens Atlantkust.
+Barcelona|Gaudís byggnader och promenadstråket La Rambla lockar besökare. Denna stad ligger i Katalonien.
+Venedig|Gondoler trafikerar kanaler mellan öarna. Denna stad ligger i en lagun i nordöstra Italien.
+Las Vegas|Kasinon och ljusskyltar kantar den berömda Strip. Denna stad ligger i Nevadas öken.
+San Francisco|Golden Gate-bron och de branta gatornas kabelspårvagnar är kännetecken. Denna stad ligger vid en vik i Kalifornien.
+Amsterdam|Kanaler, smala gavelhus och cyklar präglar staden. Denna stad ligger i Nederländerna.
+Istanbul~Konstantinopel~Byzantion|Både det bysantinska och det osmanska riket hade här ett viktigt centrum. Denna stad ligger på båda sidor om Bosporen.
+Hongkong|Den tidigare brittiska kolonin har tät skyskrapsbebyggelse kring Victoria Harbour. Denna stad ligger vid Kinas sydkust.
+München~Munchen|Oktoberfest hålls här på Theresienwiese. Denna stad ligger i Bayern.
+Liverpool|The Beatles växte fram i denna engelska hamnstad. Denna stad ligger vid floden Mersey.
+Florens~Firenze|Renässanskonst och bron Ponte Vecchio lockar besökare. Denna stad ligger i Toscana.
+Shanghai|Pudongs skyskrapor blickar över vattnet mot The Bund. Denna stad ligger nära Yangtzeflodens mynning.
+Mumbai~Bombay|Bollywood är starkt förknippat med denna mångmiljonstad. Denna stad ligger på Indiens västkust.
+Marrakech|Torget Jemaa el-Fna fylls av matstånd om kvällarna. Denna stad ligger i Marocko vid Atlasbergens fot.
+Sankt Petersburg~Leningrad|Eremitaget finns i stadens forna kejserliga palats. Denna stad ligger vid Nevas utlopp.
+Neapel~Napoli|Pizzans historia är starkt förknippad med platsen. Denna stad ligger nära Vesuvius.
+Kraków~Krakow|Wawelborgen minner om stadens tid som Polens kungliga centrum. Denna stad ligger vid Wisła.
+Porto|Lagringshus för ett känt starkvin finns på andra sidan floden. Denna stad ligger vid Douros mynning.
+Bilbao|Ett Guggenheimmuseum med böljande titanfasad har blivit stadens symbol. Denna stad ligger i Baskien.
+Salzburg|Mozart föddes här och stadens borg syns på långt håll. Denna stad ligger vid Alperna i Österrike.
+Rotterdam|En enorm hamn och modern arkitektur präglar staden. Denna stad ligger vid Rhen–Maas-deltat.
 
-@Flaggor|Vad är|{2} Flaggan {1}.
-Japan|har en röd cirkel på vit botten|Motivet symboliserar solen över öriket öster om Korea.
-Kanada|har ett rött lönnlöv|Röda sidofält ramar in den vita mitten i detta nordamerikanska lands flagga.
-USA~Förenta staterna|har stjärnor och tretton ränder|Stjärnorna representerar delstaterna.
-Brasilien|har en gul romb på grön botten|Inuti syns en blå stjärnhimmel och landets valspråk.
-Australien|har Union Jack i hörnet|Södra korset lyser över den blå bottnen hos landet med kängurur.
-Kina|har en stor och fyra små gula stjärnor|Bottnen är röd i detta östasiatiska lands flagga.
-Turkiet|visar en vit halvmåne och stjärna på röd botten|Territoriet sträcker sig över både Europa och Asien.
-Indien|har saffransfärgat, vitt och grönt|Ett blått hjul finns i mitten av detta sydasiatiska lands flagga.
-Sydafrika|har ett grönt Y-format fält|Sex färger samsas i flaggan som infördes 1994 efter apartheid.
-Mexiko|har gröna, vita och röda lodräta fält|I mitten sitter en örn med en orm på en kaktus.
-Argentina|har ljusblå och vita band|Majsolen syns i mitten av detta sydamerikanska lands flagga.
-Jamaica|har ett gult diagonalt kors|Gröna och svarta trianglar fyller resten hos reggaens karibiska hemland.
-Israel|har en blå sexuddig stjärna|Två blå band kantar flaggan hos landet där Jerusalem ligger.
-Egypten|har röda, vita och svarta band|En gyllene örn syns i mitten hos landet med pyramiderna vid Giza.
-Sydkorea|har en rödblå cirkel och fyra svarta teckengrupper|Vit bakgrund omger symbolerna hos grannen söder om Nordkorea.
-Nepal|består av två sammanfogade vimplar|Detta Himalayalands flagga är den enda nationsflaggan som inte är fyrsidig.
-Nya Zeeland|har fyra röda stjärnor med vita kanter|De bildar Södra korset bredvid Union Jack hos Australiens östra granne.
-Vietnam|visar en ensam gul femuddig stjärna på rött|Hanoi är huvudstad i detta sydostasiatiska land.
-Marocko|har en grön femuddig stjärna på röd botten|Gibraltar sund skiljer territoriet från Spanien.
-Saudiarabien|har vit arabisk skrift och ett svärd på grönt|Mecka ligger i detta land på Arabiska halvön.
-Libanon|visar en grön ceder i ett vitt mittfält|Röda band ramar in trädet hos landet med Beirut som huvudstad.
-Bhutan|har en vit drake över gult och orange|Draken pryder flaggan hos ett litet kungarike i Himalaya.
-Kenya|visar en sköld och två korsade spjut|Svart, rött och grönt dominerar hos landet med Nairobi som huvudstad.
-Uruguay|har blåvita ränder och en sol i hörnet|Argentina och Brasilien är de två stora grannländerna.
-Kuba|har blåvita ränder och en röd triangel med vit stjärna|Havanna är huvudstad på denna karibiska ö.
+@Flaggor|Vad är
+Japan|Motivet symboliserar solen över öriket öster om Korea. Detta lands flagga har en röd cirkel på vit botten.
+Kanada|Röda sidofält ramar in den vita mitten i detta nordamerikanska lands flagga. Detta lands flagga har ett rött lönnlöv.
+USA~Förenta staterna|Stjärnorna representerar delstaterna. Detta lands flagga har stjärnor och tretton ränder.
+Brasilien|Inuti syns en blå stjärnhimmel och landets valspråk. Detta lands flagga har en gul romb på grön botten.
+Australien|Södra korset lyser över den blå bottnen hos landet med kängurur. Detta lands flagga har Union Jack i hörnet.
+Kina|Bottnen är röd i detta östasiatiska lands flagga. Detta lands flagga har en stor och fyra små gula stjärnor.
+Turkiet|Territoriet sträcker sig över både Europa och Asien. Detta lands flagga visar en vit halvmåne och stjärna på röd botten.
+Indien|Ett blått hjul finns i mitten av detta sydasiatiska lands flagga. Detta lands flagga har saffransfärgat, vitt och grönt.
+Sydafrika|Sex färger samsas i flaggan som infördes 1994 efter apartheid. Detta lands flagga har ett grönt Y-format fält.
+Mexiko|I mitten sitter en örn med en orm på en kaktus. Detta lands flagga har gröna, vita och röda lodräta fält.
+Argentina|Majsolen syns i mitten av detta sydamerikanska lands flagga. Detta lands flagga har ljusblå och vita band.
+Jamaica|Gröna och svarta trianglar fyller resten hos reggaens karibiska hemland. Detta lands flagga har ett gult diagonalt kors.
+Israel|Två blå band kantar flaggan hos landet där Jerusalem ligger. Detta lands flagga har en blå sexuddig stjärna.
+Egypten|En gyllene örn syns i mitten hos landet med pyramiderna vid Giza. Detta lands flagga har röda, vita och svarta band.
+Sydkorea|Vit bakgrund omger symbolerna hos grannen söder om Nordkorea. Detta lands flagga har en rödblå cirkel och fyra svarta teckengrupper.
+Nepal|Detta Himalayalands flagga är den enda nationsflaggan som inte är fyrsidig. Detta lands flagga består av två sammanfogade vimplar.
+Nya Zeeland|De bildar Södra korset bredvid Union Jack hos Australiens östra granne. Detta lands flagga har fyra röda stjärnor med vita kanter.
+Vietnam|Hanoi är huvudstad i detta sydostasiatiska land. Detta lands flagga visar en ensam gul femuddig stjärna på rött.
+Marocko|Gibraltar sund skiljer territoriet från Spanien. Detta lands flagga har en grön femuddig stjärna på röd botten.
+Saudiarabien|Mecka ligger i detta land på Arabiska halvön. Detta lands flagga har vit arabisk skrift och ett svärd på grönt.
+Libanon|Röda band ramar in trädet hos landet med Beirut som huvudstad. Detta lands flagga visar en grön ceder i ett vitt mittfält.
+Bhutan|Draken pryder flaggan hos ett litet kungarike i Himalaya. Detta lands flagga har en vit drake över gult och orange.
+Kenya|Svart, rött och grönt dominerar hos landet med Nairobi som huvudstad. Detta lands flagga visar en sköld och två korsade spjut.
+Uruguay|Argentina och Brasilien är de två stora grannländerna. Detta lands flagga har blåvita ränder och en sol i hörnet.
+Kuba|Havanna är huvudstad på denna karibiska ö. Detta lands flagga har blåvita ränder och en röd triangel med vit stjärna.
 
 @Landmärken och sevärdheter|Vad är
-Eiffeltornet|Den byggdes till världsutställningen i Paris 1889 och reser sig över Marsfältet.
+Eiffeltornet|Detta järntorn byggdes till världsutställningen i Paris 1889 och reser sig över Marsfältet.
 Frihetsgudinnan|Med fackla och strålkrona hälsar denna staty i New Yorks hamn besökare välkomna.
 Colosseum|På denna väldiga antika arena i Rom uppträdde gladiatorer inför tusentals åskådare.
 Kinesiska muren|Detta nät av försvarsverk slingrar sig över berg i norra Kina och byggdes under flera dynastier.
@@ -144,7 +144,7 @@ Big Ben|Detta smeknamn tillhör egentligen den stora klockan i tornet vid London
 Lutande tornet i Pisa|Detta fristående italienska klocktorn har blivit världsberömt för sin tydliga avvikelse från lodlinjen.
 Stonehenge|Dessa stora stenblock står i en förhistorisk anläggning på Salisbury Plain i England.
 Golden Gate-bron|Denna orangeröda hängbro förbinder San Francisco med Marin County över inloppet till bukten.
-Machu Picchu|Den ligger högt i Perus berg och nås bland annat via en berömd vandringsled.
+Machu Picchu|Denna inkastad ligger högt i Perus berg och nås bland annat via Inkaleden.
 Petra|Denna gamla karavanstad i Jordanien har gravfasader uthuggna direkt i rosafärgade klippor.
 Burj Khalifa|Denna skyskrapa i Dubai invigdes 2010 och är 828 meter hög.
 Akropolis|På denna klipphöjd i Aten står bland annat templet Parthenon ovanför den moderna staden.
@@ -160,32 +160,32 @@ Terrakottaarmén|Tusentals soldatfigurer i bränd lera begravdes nära Xi'an fö
 Moai|Så kallas Påsköns stora stenfigurer med långsträckta ansikten, ofta resta på ceremoniella plattformar.
 Pont du Gard|Denna romerska akveduktbro i södra Frankrike har tre våningar av bågar över floden Gardon.
 
-@Hav, sjöar och floder|Vad är|{2} Vattnet {1}.
-Östersjön|ligger öster om Sverige|Det bräckta innanhavet omges bland annat av Finland och Polen.
-Atlanten|skiljer Amerika från Europa och Afrika|Golfströmmen för varmt vatten över dess norra del.
-Stilla havet|ligger mellan Asien och Amerika|Det är jordens största ocean.
-Medelhavet|ligger mellan Europa och Afrika|Gibraltar sund ger förbindelsen till Atlanten.
-Nilen|flyter genom Egypten|Flodens årliga översvämningar var avgörande för forntidens jordbruk.
-Amazonas|rinner genom Sydamerikas regnskog|Ingen annan flod för ut lika mycket vatten i havet.
-Vänern|ligger i sydvästra Sverige|Göta älv leder vattnet från landets största sjö mot havet.
-Vättern|har Jönköping vid södra änden|Visingsö ligger i denna långa, djupa svenska sjö.
-Donau|flyter genom flera europeiska huvudstäder|Efter bland annat Wien och Budapest når floden Svarta havet.
-Themsen|rinner genom London|Parlamentet och Tower Bridge ligger vid dess stränder.
-Rhen|flyter förbi Köln|Floden går genom vinområden och mynnar i Nordsjön via Nederländerna.
-Ganges|rinner genom norra Indien och Bangladesh|Floden har en central religiös betydelse inom hinduismen.
-Mälaren|ligger väster om Stockholm|Birka och Gripsholms slott finns vid denna sjö.
-Svarta havet|ligger norr om Turkiet|Bosporen leder vidare mot Marmarasjön.
-Röda havet|ligger mellan nordöstra Afrika och Arabiska halvön|Suezkanalen förbinder det med Medelhavet.
-Mississippi|rinner genom USA|Den stora floden passerar New Orleans innan den når havet.
-Yangtze~Chang Jiang|rinner genom Kina|Tre raviners damm ligger i Asiens längsta flod.
-Bajkalsjön|ligger i Sibirien|Det är världens djupaste sjö.
-Titicacasjön|ligger mellan Peru och Bolivia|Den stora sjön ligger högt uppe i Anderna.
-Döda havet|ligger mellan Jordanien och Israel samt Västbanken|Det mycket salta vattnet gör det lätt att flyta.
-Kaspiska havet|saknar naturligt utlopp till oceanerna|Både Iran och Ryssland har kust vid världens största insjö.
-Victoriasjön|gränsar till Tanzania, Uganda och Kenya|Det är Afrikas största sjö till ytan.
-Mekong|rinner genom Sydostasien|Floden bildar ett stort delta i södra Vietnam.
-Orinoco|rinner främst genom Venezuela|En av Sydamerikas stora floder når Atlanten i ett vidsträckt delta.
-Tanganyikasjön|ligger i östra Afrika|Den långsmala sjön är världens näst djupaste efter Bajkal.
+@Hav, sjöar och floder|Vad är
+Östersjön|Det bräckta innanhavet omges bland annat av Finland och Polen. Detta vatten ligger öster om Sverige.
+Atlanten|Golfströmmen för varmt vatten över dess norra del. Detta vatten skiljer Amerika från Europa och Afrika.
+Stilla havet|Det är jordens största ocean. Detta vatten ligger mellan Asien och Amerika.
+Medelhavet|Gibraltar sund ger förbindelsen till Atlanten. Detta vatten ligger mellan Europa och Afrika.
+Nilen|Flodens årliga översvämningar var avgörande för forntidens jordbruk. Detta vatten flyter genom Egypten.
+Amazonas|Ingen annan flod för ut lika mycket vatten i havet. Detta vatten rinner genom Sydamerikas regnskog.
+Vänern|Göta älv leder vattnet från landets största sjö mot havet. Detta vatten ligger i sydvästra Sverige.
+Vättern|Visingsö ligger i denna långa, djupa svenska sjö. Detta vatten har Jönköping vid södra änden.
+Donau|Efter bland annat Wien och Budapest når floden Svarta havet. Detta vatten flyter genom flera europeiska huvudstäder.
+Themsen|Parlamentet och Tower Bridge ligger vid dess stränder. Detta vatten rinner genom London.
+Rhen|Floden går genom vinområden och mynnar i Nordsjön via Nederländerna. Detta vatten flyter förbi Köln.
+Ganges|Floden har en central religiös betydelse inom hinduismen. Detta vatten rinner genom norra Indien och Bangladesh.
+Mälaren|Birka och Gripsholms slott finns vid denna sjö. Detta vatten ligger väster om Stockholm.
+Svarta havet|Bosporen leder vidare mot Marmarasjön. Detta vatten ligger norr om Turkiet.
+Röda havet|Suezkanalen förbinder det med Medelhavet. Detta vatten ligger mellan nordöstra Afrika och Arabiska halvön.
+Mississippi|Den stora floden passerar New Orleans innan den når havet. Detta vatten rinner genom USA.
+Yangtze~Chang Jiang|Tre raviners damm ligger i Asiens längsta flod. Detta vatten rinner genom Kina.
+Bajkalsjön|Det är världens djupaste sjö. Detta vatten ligger i Sibirien.
+Titicacasjön|Den stora sjön ligger högt uppe i Anderna. Detta vatten ligger mellan Peru och Bolivia.
+Döda havet|Det mycket salta vattnet gör det lätt att flyta. Detta vatten ligger mellan Jordanien och Israel samt Västbanken.
+Kaspiska havet|Både Iran och Ryssland har kust vid världens största insjö. Detta vatten saknar naturligt utlopp till oceanerna.
+Victoriasjön|Det är Afrikas största sjö till ytan. Detta vatten gränsar till Tanzania, Uganda och Kenya.
+Mekong|Floden bildar ett stort delta i södra Vietnam. Detta vatten rinner genom Sydostasien.
+Orinoco|En av Sydamerikas stora floder når Atlanten i ett vidsträckt delta. Detta vatten rinner främst genom Venezuela.
+Tanganyikasjön|Den långsmala sjön är världens näst djupaste efter Bajkal. Detta vatten ligger i östra Afrika.
 
 @Berg, öknar och vulkaner|Vad är
 Mount Everest~Everest|Detta berg på gränsen mellan Nepal och Kina har världens högsta topp över havsytan.
@@ -199,13 +199,13 @@ Kilimanjaro|Detta fristående vulkanmassiv i Tanzania är Afrikas högsta berg.
 Etna|Denna stora aktiva vulkan reser sig på Siciliens östra del.
 Fuji~Fujisan|Denna nästan symmetriska vulkankon nära Tokyo är ett av Japans mest avbildade berg.
 Mont Blanc|Detta berg vid gränsen mellan Frankrike och Italien är Alpernas högsta.
-Klippiga bergen~Rocky Mountains|Den sträcker sig genom västra Kanada och USA, öster om Stillahavskusten.
+Klippiga bergen~Rocky Mountains|Denna bergskedja sträcker sig genom västra Kanada och USA, öster om Stillahavskusten.
 Gobi|Denna stora öken ligger i Mongoliet och norra Kina och kan bli mycket kall på vintern.
 Matterhorn|Detta pyramidformade alpberg vid Zermatt känns igen på sin spetsiga, nästan böjda silhuett.
 K2|Detta berg i Karakoram är världens näst högsta och har ett ovanligt kort namn.
-Pyrenéerna|Den bildar en naturlig gräns mellan Frankrike och Spanien och omger Andorra.
+Pyrenéerna|Denna bergskedja bildar en naturlig gräns mellan Frankrike och Spanien och rymmer furstendömet Andorra.
 Atlasbergen|Denna bergskedja löper genom nordvästra Afrika, bland annat Marocko och Algeriet.
-Karpaterna|Den sträcker sig genom bland annat Slovakien och Rumänien och omger Transsylvanien.
+Karpaterna|Denna bergskedja sträcker sig genom bland annat Slovakien och Rumänien och bildar en båge kring Transsylvanien.
 Atacama|Denna öken i norra Chile är extremt torr och hyser flera stora astronomiska observatorier.
 Aconcagua|Detta berg i Argentina är både Sydamerikas högsta och högst utanför Asien.
 Denali~Mount McKinley|Detta berg i Alaska är Nordamerikas högsta och har också burit namn efter en amerikansk president.

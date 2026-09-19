@@ -106,69 +106,69 @@ en affogato|I denna enkla italienska dessert hälls het espresso över en kula g
 en galette des rois|Denna franska trettondagstårta av smördeg gömmer en liten figur och fylls ofta med mandelkräm.
 en kouign-amann|Detta bretonska bakverk har många lager av deg, smör och socker som karamelliseras.
 
-@Frukt och grönsaker|Vad är|Råvaran {1}.
-en banan|är en lång böjd tropisk frukt med gult skal som dras av i remsor
-ett äpple|är en kärnfrukt som växer i svenska trädgårdar och används till must och mos
-en morot|är en rotfrukt som oftast är orange och växer med en finflikig blast
-en gurka|är en lång grön vattenrik frukt som ofta skivas på smörgåsen
-en potatis|är en stärkelserik knöl som kan kokas, mosas eller bli pommes frites
-en mango|är en tropisk stenfrukt med gulorange fruktkött kring en platt kärna
-en ananas|är en tropisk sammansatt frukt med grovt skal och en krona av spetsiga blad
-en avokado|är en fettrik grön frukt med stor kärna och huvudingrediens i guacamole
-broccoli|är en grön kålsort där de täta blomknopparna och stjälkarna äts
-blomkål|är en kålsort vars täta vanligen vita blomhuvud äts innan blommorna utvecklas
-en aubergine|är ofta mörklila och avlång och används i moussaka och baba ganoush
-en zucchini~en squashgrönsak|är en mild avlång sommarsquash med grönt eller gult skal
-en purjolök|har långa gröna blad och en vit nederdel som används i soppor och pajer
-en rödbeta|är en mörkröd rotfrukt vars saft färgar starkt och som används i borsjtj
-en sparris|är ett ätligt skott som säljs grönt eller vitt beroende på odlingssätt
-en kronärtskocka|är en stor blomknopp där bladens bas och bottnen kan ätas
-en jordärtskocka|är en knölig rotknöl från en solrossläkting och används gärna i soppa
-en palsternacka|är en ljus rotfrukt som liknar morot och har söt kryddig smak
-en rotselleri|är en knölig rotgrönsak med aromatisk smak som används i buljong och puré
-en fänkål|har en ljus uppsvälld bladbas och en tydlig anisliknande smak
-en passionsfrukt|har skrynkligt skal när den mognar och många frön i syrlig gelé
-ett granatäpple|har ett segt skal som omsluter många röda saftiga fröhöljen
-en litchi|har strävt rödaktigt skal och vitt saftigt fruktkött kring en mörk kärna
-en kaki~en persimon|är en orange frukt som liknar en tomat och kan vara kärv innan den mognat
-en kålrabbi|är en kålsort med rund uppsvälld stjälk ovan jord och blad på långa skaft
+@Frukt och grönsaker|Vad är
+en banan|Denna råvara är en lång böjd tropisk frukt med gult skal som dras av i remsor.
+ett äpple|Denna råvara är en kärnfrukt som växer i svenska trädgårdar och används till must och mos.
+en morot|Denna råvara är en rotfrukt som oftast är orange och växer med en finflikig blast.
+en gurka|Denna råvara är en lång grön vattenrik frukt som ofta skivas på smörgåsen.
+en potatis|Denna råvara är en stärkelserik knöl som kan kokas, mosas eller bli pommes frites.
+en mango|Denna råvara är en tropisk stenfrukt med gulorange fruktkött kring en platt kärna.
+en ananas|Denna råvara är en tropisk sammansatt frukt med grovt skal och en krona av spetsiga blad.
+en avokado|Denna råvara är en fettrik grön frukt med stor kärna och huvudingrediens i guacamole.
+broccoli|Denna råvara är en grön kålsort där de täta blomknopparna och stjälkarna äts.
+blomkål|Denna råvara är en kålsort vars täta vanligen vita blomhuvud äts innan blommorna utvecklas.
+en aubergine|Denna råvara är ofta mörklila och avlång och används i moussaka och baba ganoush.
+en zucchini~en squashgrönsak|Denna råvara är en mild avlång sommarsquash med grönt eller gult skal.
+en purjolök|Denna råvara har långa gröna blad och en vit nederdel som används i soppor och pajer.
+en rödbeta|Denna råvara är en mörkröd rotfrukt vars saft färgar starkt och som används i borsjtj.
+en sparris|Denna råvara är ett ätligt skott som säljs grönt eller vitt beroende på odlingssätt.
+en kronärtskocka|Denna råvara är en stor blomknopp där bladens bas och bottnen kan ätas.
+en jordärtskocka|Denna råvara är en knölig rotknöl från en solrossläkting och används gärna i soppa.
+en palsternacka|Denna råvara är en ljus rotfrukt som liknar morot och har söt kryddig smak.
+en rotselleri|Denna råvara är en knölig rotgrönsak med aromatisk smak som används i buljong och puré.
+en fänkål|Denna råvara har en ljus uppsvälld bladbas och en tydlig anisliknande smak.
+en passionsfrukt|Denna råvara har skrynkligt skal när den mognar och många frön i syrlig gelé.
+ett granatäpple|Denna råvara har ett segt skal som omsluter många röda saftiga fröhöljen.
+en litchi|Denna råvara har strävt rödaktigt skal och vitt saftigt fruktkött kring en mörk kärna.
+en kaki~en persimon|Denna råvara är en orange frukt som liknar en tomat och kan vara kärv innan den mognat.
+en kålrabbi|Denna råvara är en kålsort med rund uppsvälld stjälk ovan jord och blad på långa skaft.
 
 @Kryddor och örter|Vad är
 kanel|Denna brunaktiga barkkrydda används i svenska vetebullar och kan köpas som stänger.
 svartpeppar|Denna mörka krydda mals ofta vid bordet från torkade omogna frukter av en klätterväxt.
 paprikapulver|Denna röda krydda mals av torkade milda pepparfrukter och används mycket i ungersk mat.
 vanilj|Denna arom kommer från frökapslar av en orkidé och används ofta i glass och desserter.
-oregano|Den förknippas med italiensk pizza och har små aromatiska blad.
+oregano|Denna krydda förknippas med italiensk pizza och har små aromatiska blad.
 basilika|Denna gröna ört är central i klassisk pesto och passar med tomat och mozzarella.
 dill|Denna finbladiga ört används till kräftor, potatis och gravad lax.
 persilja|Denna gröna ört finns med krusiga eller släta blad och används ofta som garnering.
 timjan|Denna småbladiga ört smaksätter bland annat ärtsoppa och långkok.
 rosmarin|Denna vedartade ört har smala barrlika blad och används till exempelvis lamm.
 koriander|Både frön och färska blad från denna ört används; bladen upplevs av vissa som tvåliga.
-spiskummin|Den används mycket i taco- och curryblandningar och har små avlånga frön.
-gurkmeja|Den ger stark gul färg åt många curryblandningar.
+spiskummin|Denna krydda används mycket i taco- och curryblandningar och har små avlånga frön.
+gurkmeja|Denna krydda ger stark gul färg åt många curryblandningar.
 kardemumma|Fröna i denna kapselkrydda används i bullar och i kaffe i delar av Mellanöstern.
 saffran|Dessa röda pistillmärken från en krokus färgar lussekatter gula.
 kryddnejlika|Denna kraftiga krydda består av torkade blomknoppar och sticks ibland i apelsiner till jul.
 muskotnöt|Denna hårda kärna rivs i små mängder till bland annat bechamelsås.
 stjärnanis|Denna stjärnformade krydda har lakritslik smak och används i asiatisk matlagning.
 dragon|Denna ört med lätt anislik smak är en viktig smaksättare i bearnaisesås.
-salvia|Den har mjuka grågröna blad och används exempelvis i italiensk saltimbocca.
+salvia|Denna krydda har mjuka grågröna blad och används exempelvis i italiensk saltimbocca.
 sumak|Denna mörkröda krydda från torkade bär ger syrlig smak i mat från Mellanöstern.
-bockhornsklöver|Den har frön som används i curry och en arom som kan påminna om lönnsirap.
+bockhornsklöver|Denna krydda har frön som används i curry och en arom som kan påminna om lönnsirap.
 enbär|Dessa blåsvarta bärlika barrträdskottar smaksätter vilt och ger gin dess grundkaraktär.
 svartkummin~nigella|Dessa små svarta frön används på bröd och har en pepprigt lökaktig smak.
 tonkaböna|Detta aromatiska frö rivs sparsamt i desserter och doftar bland annat vanilj och mandel.
 
 @Drycker|Vad är
 kaffe|Denna mörka uppiggande dryck bryggs av rostade och malda bönor.
-te|Den dras av blad från Camellia sinensis och finns bland annat i svarta och gröna varianter.
+te|Denna dryck dras av blad från Camellia sinensis och finns bland annat i svarta och gröna varianter.
 varm choklad|Denna söta varma dryck görs ofta av mjölk, kakao och socker.
 apelsinjuice|Denna citrusdryck pressas ur en orange frukt och är vanlig till frukost.
 lemonad|Denna sötsyrliga dryck görs traditionellt med citronjuice, vatten och socker.
 espresso|Denna lilla koncentrerade kaffedryck bryggs med hett vatten under tryck.
-cappuccino|Den kombinerar espresso med varm mjölk och tydligt mjölkskum.
-caffè latte~caffe latte|Den har espresso och mycket varm mjölk samt ett tunnare skumlager.
+cappuccino|Denna dryck kombinerar espresso med varm mjölk och tydligt mjölkskum.
+caffè latte~caffe latte|Denna dryck har espresso och mycket varm mjölk samt ett tunnare skumlager.
 smoothie|Denna tjocka dryck mixas av frukt eller bär och ofta yoghurt eller annan vätska.
 chai masala~masala chai|Denna indiska kryddiga dryck blandar vanligen svart te, mjölk och kryddor som kardemumma.
 matcha|Detta japanska gröna te är ett fint pulver som vispas ut i vatten.
@@ -180,7 +180,7 @@ champagne|Detta mousserande vin kommer från ett bestämt franskt distrikt och f
 portvin|Detta portugisiska starkvin får jäsa delvis innan sprit tillsätts och förknippas med Dourodalen.
 sherry|Detta spanska starkvin från området kring Jerez finns bland annat som fino och oloroso.
 whisky~whiskey|Denna spannmålsbaserade spritdryck lagras vanligen på ekfat och förknippas med Skottland och Irland.
-rom som dryck~romsprit|Den görs av sockerrörsprodukter och förknippas starkt med Karibien.
+rom som dryck~romsprit|Denna dryck görs av sockerrörsprodukter och förknippas starkt med Karibien.
 mezcal|Denna mexikanska agavesprit har ofta rökig smak från ugnstillagningen av växtens hjärta.
 grappa|Denna italienska sprit destilleras av pressrester från vinframställning.
 calvados|Denna franska äppelbaserade sprit kommer från Normandie och lagras på fat.
@@ -215,9 +215,9 @@ stilton|Denna engelska blåmögelost förknippas med en cylindrisk form och serv
 brunost~mesost|Denna nordiska bruna vassleprodukt får söt karamellaktig smak när mjölksockret värms länge.
 
 @I köket|Vad är
-att koka|Den värmer mat i vätska som bubblar vid sin kokpunkt.
-att steka|Den tillagar mat mot en het yta, ofta med fett i en panna.
-att grilla|Den tillagar mat med stark strålningsvärme, ofta över glöd.
+att koka|Att tillaga mat i vätska som bubblar vid sin kokpunkt kallas detta.
+att steka|Att tillaga mat mot en het yta, ofta med fett i en panna, kallas detta.
+att grilla|Att tillaga mat med stark strålningsvärme, ofta från glöd under ett galler, kallas detta.
 att vispa|Med denna rörelse blandas ingredienser snabbt och luft kan arbetas in i grädde eller ägg.
 att skala|Då tas det yttre lagret bort från exempelvis potatis eller en apelsin.
 att sautera|Vid denna metod tillagas mindre bitar snabbt i lite fett under rörelse i en het panna.
