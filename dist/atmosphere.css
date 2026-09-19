@@ -3,7 +3,7 @@
 .menu-shell .menu-scene .menu-person{display:none}
 .menu-scene .menu-floaters .floater{display:block;left:0;top:0;right:auto;bottom:auto;width:clamp(52px,8vw,120px);animation:none;opacity:0;will-change:transform,opacity}
 .menu-scene .manifestation{position:absolute;z-index:3;pointer-events:none;will-change:transform,opacity;opacity:0;transform-origin:center}
-.manifestation .manifest-portrait{display:block;width:100%;height:100%;object-fit:contain;filter:grayscale(1);-webkit-mask-image:radial-gradient(ellipse at 50% 40%,#000 28%,#000a 53%,transparent 73%);mask-image:radial-gradient(ellipse at 50% 40%,#000 28%,#000a 53%,transparent 73%)}
+.manifestation .manifest-portrait{display:block;width:100%;height:100%;object-fit:contain;filter:url(#portrait-night-palette);-webkit-mask-image:radial-gradient(ellipse at 50% 40%,#000 28%,#000a 53%,transparent 73%);mask-image:radial-gradient(ellipse at 50% 40%,#000 28%,#000a 53%,transparent 73%)}
 .manifest-mist{position:absolute;inset:20% -25% -15%;width:150%;height:95%;object-fit:contain;opacity:.48;mix-blend-mode:screen;animation:manifestSmoke 19s ease-in-out infinite alternate}
 @keyframes manifestSmoke{from{transform:translate(-3%,2%) scale(1,.9) skew(-5deg,-2deg)}to{transform:translate(4%,-3%) scale(1.1,1.04) skew(5deg,3deg)}}
 #board-stars{display:none;position:fixed;inset:0;overflow:hidden;pointer-events:none;z-index:0}
@@ -25,3 +25,5 @@ body.board-atmosphere-active .backdrop{inset:-24px;filter:url(#board-cloud-displ
 .board-atmosphere-active #board-stars *{animation-play-state:running}
 @media(max-width:700px){.distant-star:nth-child(n+23){display:none}}
 @media(prefers-reduced-motion:reduce){body.board-atmosphere-active .backdrop{filter:none;inset:0}}
+
+.portrait-color-defs{position:absolute;width:0;height:0;overflow:hidden;pointer-events:none}

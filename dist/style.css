@@ -158,3 +158,15 @@ body.board-atmosphere-active .backdrop{background:linear-gradient(rgba(4,8,30,.2
 .board .category::before,.board .tile:not(.tile-spent)::before{content:"";position:absolute;inset:0;z-index:-1;pointer-events:none;background:url('assets/label.png') center/100% 100% no-repeat;opacity:.64}
 .board .category:hover:not(:disabled),.board .tile:not(.tile-spent):hover:not(:disabled){background:transparent}
 .board .category:hover:not(:disabled)::before,.board .tile:not(.tile-spent):hover:not(:disabled)::before{opacity:.45}
+
+/* 0.26: continuous square grid, one black pixel between adjacent cells.
+   Artwork alpha remains .64 (.45 on hover); spent artwork remains .60. */
+.board{gap:0;border-top:1px solid #000;border-left:1px solid #000}
+.board .category-col{gap:0;grid-template-rows:88px repeat(5,84px)}
+.board .category-col>.category,.board .category-col>.tile{border:0;border-right:1px solid #000;border-bottom:1px solid #000;border-radius:0;box-shadow:none}
+.board .category-col>button:active:not(:disabled){transform:none}
+.board .category-col>button:focus-visible{outline-offset:-4px}
+@media(min-width:1500px){.board .category-col{grid-template-rows:98px repeat(5,98px)}}
+@media(max-width:900px){.board .category-col{grid-template-rows:88px repeat(5,74px)}}
+@media(max-width:700px){.board .category-col{grid-template-rows:84px repeat(5,70px)}}
+@media(max-height:550px) and (orientation:landscape){.board .category-col{grid-template-rows:58px repeat(5,48px)}}
