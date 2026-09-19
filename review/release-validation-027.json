@@ -1,0 +1,23 @@
+{
+  "version": "0.27",
+  "questions": 5120,
+  "changedRows": 803,
+  "changedIds": 64,
+  "unchangedAssetFiles": 60,
+  "categoryIdsPreserved": true,
+  "levelPositionsPreserved": true,
+  "gameLogicPreserved": true,
+  "passed": [
+    "build-bank.cjs",
+    "test.cjs",
+    "effects-test.cjs",
+    "atmosphere-test.cjs",
+    "menu-motion-test.cjs",
+    "asset-check.cjs"
+  ],
+  "notRun": [
+    "difficulty-test.cjs och variation-test.cjs kräver saknad äldre Git-historik",
+    "Visuellt webbläsartest och fysisk iPhone"
+  ],
+  "coverage": "Maskinell kontroll av hela banken; riktad redaktionell genomgång och faktakontroll, inte extern verifiering av alla sakuppgifter."
+}
